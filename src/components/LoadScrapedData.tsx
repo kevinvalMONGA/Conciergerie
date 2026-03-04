@@ -28,8 +28,20 @@ interface ScrapedEntry {
 type LotsRecord = Record<string, { lots: number }>;
 const allLots: LotsRecord = { ...(lotsV2 as LotsRecord), ...(lotsV1 as LotsRecord) };
 
-type FondateursRecord = Record<string, { fondateur: string; linkedin?: string | null }>;
+type FondateurEntry = {
+  fondateur: string;
+  titre?: string;
+  linkedin?: string | null;
+  cofondateurs?: string[];
+  note?: string;
+};
+type FondateursRecord = Record<string, FondateurEntry>;
 const allFondateurs = fondateursData as FondateursRecord;
+
+function cleanFondateur(name?: string): string {
+  if (!name || name === "Non trouve") return "";
+  return name;
+}
 
 export function convertScrapedData(): Conciergerie[] {
   return (scrapedData as ScrapedEntry[])
@@ -37,7 +49,7 @@ export function convertScrapedData(): Conciergerie[] {
     .map((entry) => ({
       id: crypto.randomUUID(),
       nom: entry.nom,
-      responsable: allFondateurs[entry.nom]?.fondateur || entry.fondateur || "",
+      responsable: cleanFondateur(allFondateurs[entry.nom]?.fondateur) || entry.fondateur || "",
       email: entry.email || "",
       telephone: entry.telephone || "",
       ville: entry.villes?.join(", ") || "",
@@ -53,6 +65,10 @@ export function convertScrapedData(): Conciergerie[] {
       categorie: entry.categorie || "",
       description: entry.description || "",
       linkedin: allFondateurs[entry.nom]?.linkedin || undefined,
+      commission: entry.commission || "",
+      titreFondateur: allFondateurs[entry.nom]?.titre || "",
+      cofondateurs: allFondateurs[entry.nom]?.cofondateurs || [],
+      noteFondateur: allFondateurs[entry.nom]?.note || "",
     }));
 }
 

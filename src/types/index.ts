@@ -17,4 +17,8 @@ export interface Conciergerie {
   categorie?: string;
   description?: string;
   linkedin?: string;
+  commission?: string;
+  titreFondateur?: string;
+  cofondateurs?: string[];
+  noteFondateur?: string;
 }
