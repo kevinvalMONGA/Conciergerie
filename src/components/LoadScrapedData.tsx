@@ -2,6 +2,7 @@
 
 import { Conciergerie } from "@/types";
 import scrapedData from "@/data/scraped-conciergeries.json";
+import scrapedBatch3 from "@/data/scraped-batch3.json";
 import lotsV1 from "@/data/lots-par-agence.json";
 import lotsV2 from "@/data/lots-par-agence-v2.json";
 import fondateursData from "@/data/fondateurs.json";
@@ -12,17 +13,17 @@ interface LoadScrapedDataProps {
 
 interface ScrapedEntry {
   nom: string;
-  siteWeb?: string;
+  siteWeb?: string | null;
   villes: string[];
-  telephone?: string;
-  email?: string;
-  services?: string[];
-  note?: number;
-  categorie?: string;
-  description?: string;
-  commission?: string;
-  fondateur?: string;
-  biensEstimes?: number;
+  telephone?: string | null;
+  email?: string | null;
+  services?: string[] | null;
+  note?: number | null;
+  categorie?: string | null;
+  description?: string | null;
+  commission?: string | null;
+  fondateur?: string | null;
+  biensEstimes?: number | null;
 }
 
 type LotsRecord = Record<string, { lots: number }>;
@@ -44,8 +45,15 @@ function cleanFondateur(name?: string): string {
 }
 
 export function convertScrapedData(): Conciergerie[] {
-  return (scrapedData as ScrapedEntry[])
-    .filter((entry) => entry.categorie !== "plateforme")
+  const allScraped = [...(scrapedData as ScrapedEntry[]), ...(scrapedBatch3 as ScrapedEntry[])];
+  const seen = new Set<string>();
+  return allScraped
+    .filter((entry) => {
+      if (entry.categorie === "plateforme") return false;
+      if (seen.has(entry.nom)) return false;
+      seen.add(entry.nom);
+      return true;
+    })
     .map((entry) => ({
       id: crypto.randomUUID(),
       nom: entry.nom,
@@ -85,7 +93,7 @@ export function LoadScrapedData({ onLoad }: LoadScrapedDataProps) {
       <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4" />
       </svg>
-      Charger 96 agences scrapées
+      Charger les agences scrapées
     </button>
   );
 }
