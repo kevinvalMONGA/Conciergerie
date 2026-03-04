@@ -1,0 +1,367 @@
+{
+  "Guester": {
+    "lots": 250,
+    "source": "Presente dans ~30 villes en France (allovoyages.fr, nevatony.fr 2026). Pas de chiffre officiel. Estimation basee sur couverture nationale, qualite operationnelle reconnue, positionnement mid-market. ~8 biens/ville en moyenne.",
+    "estimation": true
+  },
+  "Groomlidays": {
+    "lots": 120,
+    "source": "Active depuis 2015, presente dans le Var, Bouches-du-Rhone et grandes villes francaises (Toulon, Sanary, Bandol, Hyeres, la Ciotat, etc.). Modele hybride conciergerie + echange de maisons. Estimation basee sur anciennete et couverture regionale.",
+    "estimation": true
+  },
+  "Nestify": {
+    "lots": 400,
+    "source": "Nestify France (SIREN 888819851) liquidee en septembre 2024 (pappers.fr). Avant fermeture, presente dans 10+ villes FR (Paris, Nice, Nantes, Montpellier, Annecy, etc.) + UK + Irlande + EAU. 11600 followers LinkedIn. Estimation basee sur la couverture geographique avant liquidation.",
+    "estimation": true
+  },
+  "Weekome": {
+    "lots": 80,
+    "source": "SAS creee en 2019, radiee le 13/12/2022 (societe.com, SIREN 850413279). Presente a Montpellier, Paris, Bordeaux, Marseille, Lyon, Marrakech. Le site weekome.fr semble reactif en 2024-2026 sous nouvelle structure. Estimation basee sur presence multi-villes et anciennete limitee.",
+    "estimation": true
+  },
+  "ConciergeBB": {
+    "lots": 300,
+    "source": "Present dans 50+ villes en France (site officiel conciergebb.fr). Reseau de conciergeries locales partenaires. Commission 17-25%. Estimation basee sur le maillage territorial important (6 biens/ville en moyenne).",
+    "estimation": true
+  },
+  "Prello": {
+    "lots": 40,
+    "source": "Startup de co-acquisition de residences secondaires (levee 13M EUR). Refuse de communiquer le nombre de biens (immomatin.com). Offre visible entre 15 et 40 biens. Gestion locative secondaire a l'activite principale.",
+    "estimation": true
+  },
+  "Hoosteur": {
+    "lots": 50,
+    "source": "Conciergerie Airbnb a Paris et Bruxelles (hoosteur.com). Petite structure, pas de chiffre public. Estimation basee sur presence dans 2 villes, positionnement premium.",
+    "estimation": true
+  },
+  "La Conciairgerie": {
+    "lots": 150,
+    "source": "11-50 employes (LinkedIn/Crunchbase). Presente a Paris, Geneve, Lausanne, Vevey, Montreux, Crans-Montana, Verbier. Active depuis 2021. Utilisation IA. Estimation : ~30 employes x 5 biens/employe = ~150.",
+    "estimation": true
+  },
+  "ParisBnB": {
+    "lots": 80,
+    "source": "Specialisee arrondissements 1-8 de Paris (parisbnb.fr). Modele bail fixe garanti (sous-location). Positionnement premium centre Paris. Estimation basee sur niche geographique et modele selectif.",
+    "estimation": true
+  },
+  "BnbSitter": {
+    "lots": 200,
+    "source": "Fondee en 2013 a Rio, 151 476+ voyageurs satisfaits (site officiel fr.bnbsitter.com). Premiere plateforme mondiale de conciergerie a la carte. Presente a Paris, Nice, Nantes et autres villes. Estimation basee sur anciennete et volume de voyageurs.",
+    "estimation": true
+  },
+  "HostPartner": {
+    "lots": 30,
+    "source": "Specialisee dans les appartements haut de gamme a Paris (hostpartnerparis.com). Super Host depuis 10 ans. Privilegie qualite sur quantite. Estimation basee sur positionnement ultra-premium.",
+    "estimation": true
+  },
+  "Open Up Paris": {
+    "lots": 20,
+    "source": "Agence immobiliere et conciergerie de luxe a Paris (openup.paris). 2-10 employes (LinkedIn). Estimation basee sur petite taille et positionnement luxe.",
+    "estimation": true
+  },
+  "Simple Nest": {
+    "lots": 40,
+    "source": "Conciergerie Paris et Ile-de-France, basee a Argenteuil (simple-nest.com). Note 4.9/5 Google. Couvre Sannois, Nanterre, Enghien, Bezons, Conflans. Estimation basee sur couverture banlieue parisienne.",
+    "estimation": true
+  },
+  "BnB Groom Services": {
+    "lots": 60,
+    "source": "Presente depuis 2014 a Nice et Cannes (bnbgroomservices.com). 8000+ visiteurs accueillis depuis 2014. Combine conciergerie et agence immobiliere. Estimation basee sur anciennete et volume de visiteurs.",
+    "estimation": true
+  },
+  "Ze Perfect Place": {
+    "lots": 30,
+    "source": "10+ ans d'expertise a Nice, quartiers touristiques (zeperfectplace.com). Capital 30 000 EUR. Conciergerie a taille humaine. Estimation basee sur positionnement local premium.",
+    "estimation": true
+  },
+  "My Concierge In Nice": {
+    "lots": 25,
+    "source": "Conciergerie locale a Nice (myconciergeinnice.com). Service de proximite. Pas de chiffre public. Estimation basee sur petite structure locale.",
+    "estimation": true
+  },
+  "Maison Franchin": {
+    "lots": 20,
+    "source": "Couple passionne gerant une conciergerie a Nice (toploc.com). Structure familiale. Estimation basee sur taille artisanale.",
+    "estimation": true
+  },
+  "Nice Versa": {
+    "lots": 40,
+    "source": "1.54M EUR de reservations Airbnb en 2022 (niceversa-conciergerie.com). Cote d'Azur. A un revenu moyen de 15-20k EUR/bien/an, cela represente environ 80-100 biens, mais une partie peut etre des biens a fort revenu. Estimation conservatrice.",
+    "estimation": true
+  },
+  "My Guest Relation": {
+    "lots": 35,
+    "source": "Creee en 2018 a Nice (myguestrelation.com). Fondee par 2 experts hotellerie 5 etoiles. Superhost 12 trimestres consecutifs. Gestion haut de gamme. Estimation basee sur positionnement premium et anciennete.",
+    "estimation": true
+  },
+  "BnB Sweet Dreams": {
+    "lots": 25,
+    "source": "Conciergerie Airbnb Alpes-Maritimes (bnbsweetdreams.fr). Pas de chiffre public. Estimation basee sur couverture departementale limitee.",
+    "estimation": true
+  },
+  "MyBnB Service": {
+    "lots": 25,
+    "source": "Basee a Villefranche-sur-Mer, zone Nice-Monaco (mybnbservice.fr). Conciergerie privee + gestion locative. Estimation basee sur zone geographique restreinte premium.",
+    "estimation": true
+  },
+  "Conciergerie Tete d'Or": {
+    "lots": 40,
+    "source": "Basee a Lyon 6e (conciergerietetedor.fr). 30+ avis Google (4.9/5). Couvre Lyon, Villeurbanne, Ecully, Caluire, Tassin, Saint-Etienne. Estimation basee sur couverture locale et avis.",
+    "estimation": true
+  },
+  "La Conciergerie Lyonnaise": {
+    "lots": 50,
+    "source": "Lyon, taille humaine (laconciergerie-lyonnaise.com). Garantie financiere de 3 260 000 EUR pour gestion immobiliere. Estimation basee sur la garantie financiere (indicatrice d'un volume significatif).",
+    "estimation": true
+  },
+  "All In Lyon": {
+    "lots": 30,
+    "source": "Agence locale Lyon (allinlyon.com). Commission 25%. Services additionnels (transferts, activites). Estimation basee sur positionnement local.",
+    "estimation": true
+  },
+  "Meet Home": {
+    "lots": 20,
+    "source": "Pas de site officiel clairement identifie. Petite structure locale. Estimation basse par defaut.",
+    "estimation": true
+  },
+  "Jym Conciergerie": {
+    "lots": 40,
+    "source": "7+ ans d'experience a Bordeaux et Guadeloupe (jym-conciergerie.com). Presence bi-regionale. Estimation basee sur anciennete et double implantation.",
+    "estimation": true
+  },
+  "La Conciergerie de Finette": {
+    "lots": 25,
+    "source": "Basee a Talence pres de Bordeaux (laconciergeriedefinette.com). SIREN 842437238. Structure locale. Estimation basee sur positionnement local Bordeaux/Talence.",
+    "estimation": true
+  },
+  "Les Cles d'Alfred": {
+    "lots": 35,
+    "source": "Fondee en 2016 a Bordeaux (lesclesdalfred.fr). SIREN 879983336. Gestion premium cle en main. Etude de cas RentalReady. Estimation basee sur anciennete et notoriete locale.",
+    "estimation": true
+  },
+  "Mary Poppins Conciergerie": {
+    "lots": 30,
+    "source": "Active depuis 2015 a Bordeaux, Medoc, Graves, Arcachon (marypoppins-conciergerie.fr). SIREN 813110608. Specialisee luxe/haut de gamme. Estimation basee sur anciennete et couverture regionale.",
+    "estimation": true
+  },
+  "Sejourneur": {
+    "lots": 100,
+    "source": "Bureau a Bordeaux + presence a Biarritz (sejourneur.com). Contenu SEO important = structure organisee. Gestion de centaines de proprietes mentionnee. Estimation basee sur presence multi-villes Sud-Ouest.",
+    "estimation": true
+  },
+  "YouNeedMe": {
+    "lots": 30,
+    "source": "Conciergerie locale premium Bordeaux (liwango.com). Specialisee dans biens d'exception. Approche qualitative. Estimation basee sur positionnement haut de gamme selectif.",
+    "estimation": true
+  },
+  "Serenity Conciergerie": {
+    "lots": 15,
+    "source": "SerenityLoc Lyon gere 15 biens (serenity-loc.fr). Serenity Conciergerie Locative (Montelimar) creee en octobre 2025. Chiffre de 15 lots pour la branche Lyon.",
+    "estimation": false
+  },
+  "Ma Conciergerie en Occitanie": {
+    "lots": 20,
+    "source": "Premiere conciergerie de location courte duree a Toulouse (ma-conciergerie-en-occitanie.fr). SIREN 884967589. Nombre de biens volontairement limite. Estimation basee sur positionnement selectif.",
+    "estimation": true
+  },
+  "BnB Facile": {
+    "lots": 15,
+    "source": "Pas de site officiel clairement identifie dans les recherches. Petite structure locale presumee. Estimation basse par defaut.",
+    "estimation": true
+  },
+  "Super BNB": {
+    "lots": 15,
+    "source": "Pas de site officiel clairement identifie dans les recherches. Petite structure locale presumee. Estimation basse par defaut.",
+    "estimation": true
+  },
+  "Yume Conciergerie": {
+    "lots": 30,
+    "source": "Conciergerie a Toulouse, Tournefeuille, Muret (yume-conciergerie.com). Estimation basee sur couverture agglomeration toulousaine.",
+    "estimation": true
+  },
+  "Cozy-appart": {
+    "lots": 25,
+    "source": "Toulouse et region (cozy-appart.fr). Modele sous-location (locataire direct). Estimation basee sur modele exigeant et zone locale.",
+    "estimation": true
+  },
+  "Conciergerie Toulousaine": {
+    "lots": 30,
+    "source": "Conciergerie LCD a Toulouse et peripherie (conciergerietoulousaine.fr). Estimation basee sur positionnement local. Comparable a MajordHomes (50 biens) et Happy Pro (45 biens) qui sont des concurrents directs.",
+    "estimation": true
+  },
+  "LAA Conciergerie": {
+    "lots": 20,
+    "source": "Conciergerie location courte duree a Toulouse (laaconciergerie.fr). Petite structure. Estimation basee sur presence locale.",
+    "estimation": true
+  },
+  "LM Sud": {
+    "lots": 20,
+    "source": "Conciergerie a Montpellier et Palavas (lmsudconciergerie.com). Estimation basee sur zone geographique restreinte.",
+    "estimation": true
+  },
+  "Ma Conciergerie 34": {
+    "lots": 25,
+    "source": "Montpellier/Perols/Lattes/Palavas (maconciergerie34.fr). SIREN 491956314. Expertise secteur Lattes-plages. Estimation basee sur zone de specialisation.",
+    "estimation": true
+  },
+  "Haussman Conciergerie": {
+    "lots": 50,
+    "source": "Presente a Montpellier, Nancy et Paris (haussmannconciergerie.fr). Centaines de proprietaires et milliers de voyageurs en 12 mois (site officiel). Estimation basee sur presence tri-ville et croissance rapide.",
+    "estimation": true
+  },
+  "Du Chic Conciergerie": {
+    "lots": 20,
+    "source": "Conciergerie haut de gamme a Montpellier (duchic.fr). Residences secondaires locatives. Estimation basee sur positionnement premium local.",
+    "estimation": true
+  },
+  "Groomi": {
+    "lots": 35,
+    "source": "Conciergerie a Montpellier et dans les Alpes (conciergerie-groomi.fr). Entreprise familiale, 10+ ans d'experience. Estimation basee sur double implantation et anciennete.",
+    "estimation": true
+  },
+  "YourHostHelper": {
+    "lots": 500,
+    "source": "1ere franchise conciergerie Airbnb en France, creee en 2017 a Cannes (yourhosthelper.com). Plusieurs dizaines d'agences franchisees dans toute la France. Plusieurs centaines de proprietaires. Estimation basee sur le reseau de franchise etendu.",
+    "estimation": true
+  },
+  "BnB Management": {
+    "lots": 20,
+    "source": "Pas de site officiel specifique clairement identifie (nom generique). Estimation basse par defaut.",
+    "estimation": true
+  },
+  "CityLodge": {
+    "lots": 20,
+    "source": "Pas de site officiel specifique clairement identifie dans les recherches. Estimation basse par defaut.",
+    "estimation": true
+  },
+  "Marseille Conciergerie": {
+    "lots": 25,
+    "source": "Nom generique. Plusieurs conciergeries a Marseille (La Conciergerie Marseillaise, NCS Conciergerie, etc.). Si entite specifique, estimation basee sur positionnement local.",
+    "estimation": true
+  },
+  "MyCityHome": {
+    "lots": 20,
+    "source": "Pas de site officiel specifique clairement identifie dans les recherches. Estimation basse par defaut.",
+    "estimation": true
+  },
+  "Conciergerie du Vieux Port": {
+    "lots": 20,
+    "source": "Conciergerie locale Marseille Vieux-Port. Pas de site officiel specifique identifie. Estimation basee sur niche geographique.",
+    "estimation": true
+  },
+  "Provence Keys": {
+    "lots": 20,
+    "source": "Pas de site officiel specifique clairement identifie. Des conciergeries similaires existent (Les Clefs de Provence, Enjoy Keys). Estimation basse par defaut.",
+    "estimation": true
+  },
+  "Nantes BnB": {
+    "lots": 20,
+    "source": "Pas de site officiel specifique clairement identifie. Marche de Nantes : ~1600 logements entiers sur Airbnb. Estimation basee sur petite part de marche presume.",
+    "estimation": true
+  },
+  "Loire Conciergerie": {
+    "lots": 25,
+    "source": "Gestion location courte duree a Orleans, Centre-Val de Loire (loire-conciergerie.fr). Site avec page reservations active. Estimation basee sur couverture regionale.",
+    "estimation": true
+  },
+  "Strasbourg Accueil Conciergerie": {
+    "lots": 15,
+    "source": "Pas de site officiel specifique clairement identifie. Plusieurs conciergeries a Strasbourg (Prost, Conciergerie de l'Est, etc.). Estimation basse par defaut.",
+    "estimation": true
+  },
+  "Alsace BnB Services": {
+    "lots": 15,
+    "source": "Pas de site officiel specifique clairement identifie. Estimation basse par defaut.",
+    "estimation": true
+  },
+  "Biarritz Home": {
+    "lots": 20,
+    "source": "Pas de site officiel specifique clairement identifie. Plusieurs conciergeries a Biarritz (Les Cles Biarrotes, Sweet Home Holidays, etc.). Estimation basse par defaut.",
+    "estimation": true
+  },
+  "Basque Country Keys": {
+    "lots": 15,
+    "source": "Pas de site officiel specifique clairement identifie. Estimation basse par defaut.",
+    "estimation": true
+  },
+  "Annecy Conciergerie": {
+    "lots": 30,
+    "source": "Nom generique. Si Annecy BNB Conciergerie (annecy-bnb-conciergerie.fr), structure locale. La plus grosse a Annecy est La Conciergerie du Lac (320 biens). Estimation pour une petite structure locale.",
+    "estimation": true
+  },
+  "Alps Accommodation": {
+    "lots": 80,
+    "source": "Entreprise familiale a Samoens/Morillon/Sixt (alpsaccommodation.com). Plus de 80 chalets et appartements premium (site officiel haut-giffre.co.uk).",
+    "estimation": false
+  },
+  "Lille Conciergerie": {
+    "lots": 20,
+    "source": "Nom generique. Plusieurs conciergeries a Lille (Conciergerie du M, Boostars, Hotes en Nord, etc.). Estimation pour une petite structure locale.",
+    "estimation": true
+  },
+  "Nord BnB": {
+    "lots": 15,
+    "source": "Pas de site officiel specifique clairement identifie. Estimation basse par defaut.",
+    "estimation": true
+  },
+  "Rennes Conciergerie": {
+    "lots": 20,
+    "source": "Conciergerie-rennes.fr existe (service maximum de biens limite pour qualite). Estimation basee sur positionnement qualitatif local.",
+    "estimation": true
+  },
+  "Bretagne BnB Services": {
+    "lots": 15,
+    "source": "Pas de site officiel specifique clairement identifie. Estimation basse par defaut.",
+    "estimation": true
+  },
+  "La Rochelle Conciergerie": {
+    "lots": 20,
+    "source": "Pas de site officiel specifique sous ce nom exact. Soludom est une conciergerie active a La Rochelle. Estimation basee sur marche touristique local.",
+    "estimation": true
+  },
+  "Avignon Conciergerie": {
+    "lots": 20,
+    "source": "Pas de site officiel specifique sous ce nom exact. Plusieurs conciergeries a Avignon (Keys Manager, Les 3 Cles, Clef en Main). Estimation basee sur marche local.",
+    "estimation": true
+  },
+  "Luberon Keys": {
+    "lots": 20,
+    "source": "Pas de site officiel specifique clairement identifie. Des conciergeries existent dans le Luberon (Luxe et Luberon, ma-conciergerie-luberon.com). Estimation basee sur marche touristique local.",
+    "estimation": true
+  },
+  "Cannes Prestige Conciergerie": {
+    "lots": 25,
+    "source": "Conciergerie haut de gamme a Cannes (conciergecannes.com). Limite volontairement le nombre de biens pour service personnalise. Estimation basee sur positionnement premium selectif.",
+    "estimation": true
+  },
+  "Corsica BnB Services": {
+    "lots": 15,
+    "source": "Corse Conciergerie BNB (SIREN 899736029) en liquidation judiciaire depuis octobre 2024 (rubypayeur.com). Estimation basee sur petite structure insulaire.",
+    "estimation": true
+  },
+  "Deauville Conciergerie": {
+    "lots": 20,
+    "source": "Pas de site officiel specifique clairement identifie. Marche touristique saisonnier Deauville. Estimation basee sur marche local.",
+    "estimation": true
+  },
+  "Val de Loire Conciergerie": {
+    "lots": 20,
+    "source": "Pas de site officiel specifique clairement identifie. Estimation basee sur marche touristique regional.",
+    "estimation": true
+  },
+  "Croceo": {
+    "lots": 100,
+    "source": "Depuis 2020, gestion complete de plus d'une centaine de biens sur la Cote d'Azur (site officiel croceo.fr). Application Hello by Croceo.",
+    "estimation": false
+  },
+  "KeyNest": {
+    "lots": 0,
+    "source": "KeyNest n'est PAS une conciergerie mais un service de consigne a cles (keynest.com). 70 000+ clients, 7000+ points de depot dans le monde, ~1000 en France. Ne gere pas directement de biens locatifs.",
+    "estimation": false
+  },
+  "Tranquille Emile": {
+    "lots": 35,
+    "source": "35 biens d'exception geres (TrouverMaConciergerie, nevatony.fr). Fondee en 2015 par Pierre Bresle. Elue Meilleure Conciergerie Paris 2020. Note 4.9/5. Taux remplissage 86% annuel. Chiffre confirme.",
+    "estimation": false
+  }
+}

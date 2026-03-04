@@ -1,0 +1,348 @@
+{
+  "HostnFly": {
+    "fondateur": "Quentin Brackers de Hugo",
+    "titre": "Co-fondateur & CEO",
+    "linkedin": "https://www.linkedin.com/in/quentinbrackersdehugo/",
+    "cofondateurs": ["Guillaume Motte", "Baptiste Maurel"]
+  },
+  "GuestReady": {
+    "fondateur": "Alexander Limpert",
+    "titre": "Co-fondateur & CEO",
+    "linkedin": "https://www.linkedin.com/in/alexanderlimpert/",
+    "cofondateurs": ["Christian Mischler", "Patrick Degen"]
+  },
+  "Welkeys": {
+    "fondateur": "Chloe Fournier",
+    "titre": "Fondatrice & CEO",
+    "linkedin": "https://www.linkedin.com/in/chlo%C3%A9-fournier-6a1b6911/"
+  },
+  "WeHost": {
+    "fondateur": "Romain Bellet",
+    "titre": "Co-fondateur & CEO",
+    "linkedin": "https://www.linkedin.com/in/romain-bellet-545b488/",
+    "cofondateurs": ["Victor Fioux"]
+  },
+  "Guester": {
+    "fondateur": "Non trouve",
+    "titre": "Non trouve",
+    "linkedin": null,
+    "note": "Entreprise fondee en 2015 a Meudon, fondateur non identifie publiquement"
+  },
+  "Butler": {
+    "fondateur": "Idrissa Nimaga",
+    "titre": "Fondateur & Dirigeant",
+    "linkedin": "https://www.linkedin.com/in/idrissa-nimaga-7a2954136/"
+  },
+  "Tranquille Emile": {
+    "fondateur": "Pierre Bresle",
+    "titre": "Fondateur",
+    "linkedin": "https://www.linkedin.com/in/pierre-bresle-ba722558/"
+  },
+  "BnbLord": {
+    "fondateur": "Jacques Lavie",
+    "titre": "Co-fondateur & CEO",
+    "linkedin": null,
+    "cofondateurs": ["Leo Bonnet"],
+    "note": "Rachete par GuestReady en 2019"
+  },
+  "Luckey": {
+    "fondateur": "Aurelien Malfait",
+    "titre": "Co-fondateur & CEO",
+    "linkedin": null,
+    "cofondateurs": ["David Barbe", "Felix Malfait"],
+    "note": "Rachete par Airbnb en 2018"
+  },
+  "CheckMyGuest": {
+    "fondateur": "Julien Madar",
+    "titre": "Co-fondateur",
+    "linkedin": null,
+    "cofondateurs": ["Kevin Cohen", "Joffrey Ichbia"]
+  },
+  "YourHostHelper": {
+    "fondateur": "Michael Pajczer",
+    "titre": "Fondateur & Directeur",
+    "linkedin": "https://www.linkedin.com/in/micha%C3%ABl-pajczer-054974137/"
+  },
+  "UpperKey": {
+    "fondateur": "Johan Hajji",
+    "titre": "Co-fondateur & Co-CEO",
+    "linkedin": "https://www.linkedin.com/in/hotelnews/",
+    "cofondateurs": ["Benoit Lam"]
+  },
+  "Cocoonr": {
+    "fondateur": "Antoine Serrurier",
+    "titre": "Fondateur & CEO",
+    "linkedin": "https://www.linkedin.com/in/antoine-serrurier-6a505917/",
+    "cofondateurs": ["Roman Ohier", "Antoine Pinsard"]
+  },
+  "Groomlidays": {
+    "fondateur": "Non trouve",
+    "titre": "Non trouve",
+    "linkedin": null,
+    "note": "Entreprise fondee en 2015, fondateur non identifie publiquement"
+  },
+  "Nestify": {
+    "fondateur": "Non trouve",
+    "titre": "Non trouve",
+    "linkedin": null,
+    "note": "Nestify France (SAS) liquidee en 2024. Kevin Zidan etait liquidateur. Entite UK toujours active."
+  },
+  "Houst": {
+    "fondateur": "James Jenkins-Yates",
+    "titre": "Fondateur & CEO",
+    "linkedin": null,
+    "cofondateurs": ["Tom Jones", "Daniel Scott"],
+    "note": "Anciennement Airsorted, fonde en 2015 a Londres"
+  },
+  "Weekome": {
+    "fondateur": "Jeremy Fortin",
+    "titre": "Fondateur & President",
+    "linkedin": null
+  },
+  "ConciergeBB": {
+    "fondateur": "Arnaud",
+    "titre": "Fondateur",
+    "linkedin": null,
+    "note": "Prenom uniquement identifie, expert immobilier depuis plus de 20 ans"
+  },
+  "Prello": {
+    "fondateur": "Ludovic de Jouvancourt",
+    "titre": "Co-fondateur & CEO",
+    "linkedin": null,
+    "cofondateurs": ["Sebastien Gal"]
+  },
+  "Hoosteur": {
+    "fondateur": "Non trouve",
+    "titre": "Non trouve",
+    "linkedin": null,
+    "note": "Conciergerie Airbnb a Paris et Bruxelles, fondateur non identifie publiquement"
+  },
+  "Guestadom": {
+    "fondateur": "Theo Deniau",
+    "titre": "Fondateur & CEO",
+    "linkedin": null,
+    "note": "Cree en 2019, issu du reseau MAISON et SERVICES"
+  },
+  "La Conciairgerie": {
+    "fondateur": "Non trouve",
+    "titre": "Non trouve",
+    "linkedin": null,
+    "note": "Fondee en 2011, presente en France et en Suisse"
+  },
+  "ParisBnB": {
+    "fondateur": "Johan Hajji",
+    "titre": "Co-fondateur (The BnB Group)",
+    "linkedin": "https://www.linkedin.com/in/hotelnews/",
+    "note": "Fait partie de The BnB Group / UpperKey, meme fondateur"
+  },
+  "BnbSitter": {
+    "fondateur": "Piero Cipriano",
+    "titre": "Co-fondateur & CEO",
+    "linkedin": null,
+    "cofondateurs": ["Biagio Tumino"],
+    "note": "Activites reprises par CheckMyGuest apres fermeture"
+  },
+  "Aurora Conciergerie": {
+    "fondateur": "Eden Stamm",
+    "titre": "Co-fondatrice",
+    "linkedin": null,
+    "cofondateurs": ["Guillaume Meunier"],
+    "note": "Creee en 2024, Eden Stamm (ESSCA) et Guillaume Meunier (EDHEC)"
+  },
+  "Open Up Paris": {
+    "fondateur": "Juliette Laurens",
+    "titre": "Fondatrice",
+    "linkedin": null
+  },
+  "HostPartner": {
+    "fondateur": "Charlotte",
+    "titre": "Fondatrice",
+    "linkedin": null,
+    "note": "Prenom uniquement identifie, premiere acquisition immobiliere a 23 ans"
+  },
+  "Simple Nest": {
+    "fondateur": "Mohson Butt",
+    "titre": "President",
+    "linkedin": null,
+    "cofondateurs": ["Moneeb Butt"],
+    "note": "Opere sous le nom Digi Rent"
+  },
+  "SweetInn": {
+    "fondateur": "Paul Besnainou",
+    "titre": "Fondateur & CEO",
+    "linkedin": "https://www.linkedin.com/in/paul-besnainou/",
+    "note": "Renomme Sweett, fonde en 2014"
+  },
+  "Lodgis": {
+    "fondateur": "Alexis Alban",
+    "titre": "CEO / President",
+    "linkedin": null,
+    "note": "Fondee en 1999 par Maud, Mathias, Cyril et Fabrice. Alexis Alban est le CEO actuel."
+  },
+  "BnB Groom Services": {
+    "fondateur": "Julien",
+    "titre": "CEO",
+    "linkedin": null,
+    "note": "Prenom uniquement identifie, etabli sur la Cote d'Azur depuis 2014"
+  },
+  "Nestor & Jeeves": {
+    "fondateur": "Franck Hamon",
+    "titre": "Fondateur & Dirigeant",
+    "linkedin": null
+  },
+  "Ze Perfect Place": {
+    "fondateur": "Jerome Payan",
+    "titre": "Co-fondateur",
+    "linkedin": null,
+    "cofondateurs": ["Boris"],
+    "note": "Conciergerie a Nice, 10 ans d'experience"
+  },
+  "My Concierge In Nice": {
+    "fondateur": "Non trouve",
+    "titre": "Non trouve",
+    "linkedin": null,
+    "note": "Active depuis 2004 a Nice, fondateur non identifie publiquement"
+  },
+  "Maison Franchin": {
+    "fondateur": "Damien Franchin",
+    "titre": "Gerant",
+    "linkedin": null,
+    "note": "Societe NICE HOLYDAY & MAISON FRANCHIN, couple passione d'immobilier"
+  },
+  "Vivre a Lyon": {
+    "fondateur": "Alexandre Cubertafont",
+    "titre": "Fondateur",
+    "linkedin": null,
+    "note": "Fondee le 1er octobre 2020"
+  },
+  "La Conciergerie Lyonnaise": {
+    "fondateur": "Non trouve",
+    "titre": "Non trouve",
+    "linkedin": null,
+    "note": "Specialisee en location courte duree haut de gamme a Lyon"
+  },
+  "All In Lyon": {
+    "fondateur": "Gautier",
+    "titre": "Fondateur & CEO",
+    "linkedin": null,
+    "note": "Prenom uniquement identifie, creee en 2016"
+  },
+  "Meet Home": {
+    "fondateur": "Emma Montchalin",
+    "titre": "Fondatrice",
+    "linkedin": null,
+    "note": "Conciergerie a Lyon, fondee en 2022"
+  },
+  "Jym Conciergerie": {
+    "fondateur": "Jeremy Foucrier",
+    "titre": "Fondateur & President",
+    "linkedin": "https://www.linkedin.com/in/foucrier-jeremy-b8879760/"
+  },
+  "La Conciergerie de Finette": {
+    "fondateur": "Non trouve",
+    "titre": "Non trouve",
+    "linkedin": null,
+    "note": "Fondee le 1er aout 2018 a Talence (Bordeaux)"
+  },
+  "Les Cles d'Alfred": {
+    "fondateur": "Jean-Jacques Dupont",
+    "titre": "Fondateur & Gerant",
+    "linkedin": "https://www.linkedin.com/in/dupont-jean-jacques-b9312a107/"
+  },
+  "Sejourneur": {
+    "fondateur": "Non trouve",
+    "titre": "Non trouve",
+    "linkedin": null,
+    "note": "Conciergerie en France, fondateur non identifie publiquement"
+  },
+  "WelcHome34": {
+    "fondateur": "Sarah Sayagh",
+    "titre": "Co-fondatrice & Presidente",
+    "linkedin": null,
+    "cofondateurs": ["Jonathan Martial"],
+    "note": "Fondee en 2017 a Montpellier"
+  },
+  "Groomi": {
+    "fondateur": "Manon Gorassini",
+    "titre": "Fondatrice & Dirigeante",
+    "linkedin": null,
+    "note": "Entreprise familiale a Montpellier et Oisans, plus de 10 ans d'experience"
+  },
+  "LM Sud": {
+    "fondateur": "Lea Marti",
+    "titre": "Fondatrice & Directrice Generale",
+    "linkedin": "https://www.linkedin.com/in/l%C3%A9a-marti-b72970a8/"
+  },
+  "Haussman Conciergerie": {
+    "fondateur": "Anthony Barbas",
+    "titre": "Co-fondateur & Directeur General",
+    "linkedin": "https://www.linkedin.com/in/anthonybarbas/",
+    "cofondateurs": ["Nolan Barthel"],
+    "note": "Nolan Barthel est CEO et President"
+  },
+  "Louloue": {
+    "fondateur": "Fred C.",
+    "titre": "Gerant",
+    "linkedin": null,
+    "note": "Gere 400 a 600 biens selon la saison, nom complet non identifie"
+  },
+  "ClickYourFlat": {
+    "fondateur": "Non trouve",
+    "titre": "Non trouve",
+    "linkedin": null,
+    "note": "SAS creee en 2018, 17 rue du Caire 75002 Paris"
+  },
+  "Keylodge": {
+    "fondateur": "Romain Desvignes",
+    "titre": "Fondateur & CEO",
+    "linkedin": "https://www.linkedin.com/in/romain-desvignes-76ab211a7/"
+  },
+  "Chamonix All Year": {
+    "fondateur": "Joanne Elizabeth Saw",
+    "titre": "Fondatrice & Gerante",
+    "linkedin": null,
+    "note": "Accueille des visiteurs dans la vallee de Chamonix depuis 2003"
+  },
+  "KeyNest": {
+    "fondateur": "Florian Hoven",
+    "titre": "Co-fondateur",
+    "linkedin": null,
+    "cofondateurs": ["Marc Figueras"],
+    "note": "Fonde en 2015, solution d'echange de cles securisee"
+  },
+  "Serenity Conciergerie": {
+    "fondateur": "Non trouve",
+    "titre": "Non trouve",
+    "linkedin": null,
+    "note": "Plusieurs entites sous ce nom. Nicolas Vedovato est fondateur de Serenity Groupe. Marie Niderleidner est CEO de Serenity Conciergerie BnB au Luxembourg."
+  },
+  "Ma Conciergerie en Occitanie": {
+    "fondateur": "Angie Bellota Rivera",
+    "titre": "Fondatrice & Presidente",
+    "linkedin": null,
+    "note": "Creee en 2020 a Toulouse, ancienne psychologue pour enfants"
+  },
+  "BnB Facile": {
+    "fondateur": "Fanny et Gregoire",
+    "titre": "Co-fondateurs",
+    "linkedin": null,
+    "note": "Fondee fin 2015 a Nantes, conciergerie eco-responsable"
+  },
+  "Super BNB": {
+    "fondateur": "Non trouve",
+    "titre": "Non trouve",
+    "linkedin": null,
+    "note": "Conciergerie Airbnb, fondateur non clairement identifie"
+  },
+  "Yume Conciergerie": {
+    "fondateur": "Nicolas de Azevedo",
+    "titre": "Fondateur & President",
+    "linkedin": "https://www.linkedin.com/in/nicolas-de-azevedo-826a15159/"
+  },
+  "Cozy-appart": {
+    "fondateur": "Zakari Bouzalmat",
+    "titre": "Fondateur & President",
+    "linkedin": null,
+    "note": "Creee en 2020 a Gratentour/Toulouse"
+  }
+}
