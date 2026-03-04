@@ -2,6 +2,7 @@
 
 import { Conciergerie } from "@/types";
 import scrapedData from "@/data/scraped-conciergeries.json";
+import scrapedBatch2 from "@/data/scraped-batch2.json";
 import scrapedBatch3 from "@/data/scraped-batch3.json";
 import lotsV1 from "@/data/lots-par-agence.json";
 import lotsV2 from "@/data/lots-par-agence-v2.json";
@@ -45,7 +46,7 @@ function cleanFondateur(name?: string): string {
 }
 
 export function convertScrapedData(): Conciergerie[] {
-  const allScraped = [...(scrapedData as ScrapedEntry[]), ...(scrapedBatch3 as ScrapedEntry[])];
+  const allScraped = [...(scrapedData as ScrapedEntry[]), ...(scrapedBatch2 as ScrapedEntry[]), ...(scrapedBatch3 as ScrapedEntry[])];
   const seen = new Set<string>();
   return allScraped
     .filter((entry) => {

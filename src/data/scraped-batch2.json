@@ -1,0 +1,3241 @@
+[
+  {
+    "nom": "La Conciergerie du Soleil",
+    "siteWeb": "https://laconciergeriedusoleil.fr/",
+    "villes": [
+      "Marseille",
+      "Aix-en-Provence",
+      "Cassis",
+      "La Ciotat"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Ménage",
+      "Check-in/Check-out",
+      "Linge",
+      "Maintenance"
+    ],
+    "note": 4.7,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie premium entre Marseille, Aix-en-Provence et la Côte Varoise, gestion discrète et locale",
+    "fondateur": "",
+    "biensEstimes": 40
+  },
+  {
+    "nom": "NCS Conciergerie",
+    "siteWeb": "https://www.ncsconciergerie.fr/",
+    "villes": [
+      "Marseille",
+      "Aix-en-Provence",
+      "Toulouse",
+      "Lyon"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Ménage",
+      "Linge",
+      "Assistance 7j/7",
+      "Gestion technique"
+    ],
+    "note": 4.6,
+    "categorie": "conciergerie_regionale",
+    "description": "Conciergerie privée pour meublés et locations courte durée, 46 biens gérés à Marseille",
+    "fondateur": "",
+    "biensEstimes": 46
+  },
+  {
+    "nom": "Merci Conciergerie",
+    "siteWeb": "https://www.merci-conciergerie.fr/",
+    "villes": [
+      "Marseille",
+      "Aix-en-Provence",
+      "Toulon",
+      "Avignon",
+      "La Ciotat"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Ménage",
+      "Accueil voyageurs",
+      "Optimisation annonces"
+    ],
+    "note": 4.5,
+    "categorie": "conciergerie_regionale",
+    "description": "Conciergerie Airbnb présente dans les Bouches-du-Rhône, le Var et le Vaucluse",
+    "fondateur": "",
+    "biensEstimes": 60
+  },
+  {
+    "nom": "CasaGiacalone",
+    "siteWeb": "https://www.romaingiacalone.com/conciergerie-airbnb-aix-en-provence/",
+    "villes": [
+      "Aix-en-Provence"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Ménage",
+      "Accueil",
+      "Optimisation annonces"
+    ],
+    "note": 4.5,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie Airbnb à Aix-en-Provence fondée par Romain Giacalone",
+    "fondateur": "Romain Giacalone",
+    "biensEstimes": 20
+  },
+  {
+    "nom": "GBS Conciergerie",
+    "siteWeb": "https://www.gbsconciergerie.fr/",
+    "villes": [
+      "Marseille",
+      "Aix-en-Provence",
+      "Bouches-du-Rhône"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Check-in/Check-out",
+      "État des lieux",
+      "Ménage",
+      "Maintenance"
+    ],
+    "note": 4.4,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie professionnelle pour locations saisonnières à Marseille et Bouches-du-Rhône",
+    "fondateur": "",
+    "biensEstimes": 30
+  },
+  {
+    "nom": "Conciergerie Ansalou",
+    "siteWeb": "https://conciergerieansalou.fr/",
+    "villes": [
+      "Aix-en-Provence",
+      "Sainte-Baume",
+      "Sanary-sur-Mer"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Ménage",
+      "Accueil",
+      "Linge"
+    ],
+    "note": 4.5,
+    "categorie": "conciergerie_locale",
+    "description": "Gestion de locations courte durée Airbnb et Booking en Provence",
+    "fondateur": "",
+    "biensEstimes": 25
+  },
+  {
+    "nom": "KosyLodge",
+    "siteWeb": "https://kosylodge.fr/",
+    "villes": [
+      "Marseille",
+      "Aix-en-Provence"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Ménage",
+      "Accueil voyageurs",
+      "Maintenance",
+      "Services de luxe"
+    ],
+    "note": 4.6,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie haut de gamme Airbnb à Marseille et Aix-en-Provence",
+    "fondateur": "",
+    "biensEstimes": 35
+  },
+  {
+    "nom": "Le Trousseau Conciergerie",
+    "siteWeb": "https://www.letrousseau-conciergerie-lyon.com/",
+    "villes": [
+      "Lyon"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Ménage",
+      "Check-in/Check-out",
+      "Création annonces",
+      "Majordome dédié"
+    ],
+    "note": 4.7,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie Airbnb à Lyon avec majordome dédié pour chaque bien",
+    "fondateur": "",
+    "biensEstimes": 30
+  },
+  {
+    "nom": "La Conciergerie des Canuts",
+    "siteWeb": "https://www.conciergeriedescanuts.fr/",
+    "villes": [
+      "Lyon",
+      "Villeurbanne"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Ménage",
+      "Check-in/Check-out",
+      "Gestion voyageurs"
+    ],
+    "note": 4.6,
+    "categorie": "conciergerie_locale",
+    "description": "Gestion locative courte durée à Lyon et Villeurbanne, proximité et qualité",
+    "fondateur": "",
+    "biensEstimes": 25
+  },
+  {
+    "nom": "La Voisinnerie",
+    "siteWeb": "https://lavoisinnerie.fr/",
+    "villes": [
+      "Lyon"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Ménage naturel",
+      "Linge",
+      "Accueil voyageurs",
+      "Déplacements vélo"
+    ],
+    "note": 4.8,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie éco-responsable à Lyon, ménage avec produits naturels, déplacements à vélo",
+    "fondateur": "",
+    "biensEstimes": 20
+  },
+  {
+    "nom": "Hosting Services Lyon",
+    "siteWeb": "https://hostingservices.fr/",
+    "villes": [
+      "Lyon"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Ménage",
+      "Accueil",
+      "Optimisation revenus"
+    ],
+    "note": 4.5,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie Airbnb partenaire officiel à Lyon, location courte durée",
+    "fondateur": "",
+    "biensEstimes": 30
+  },
+  {
+    "nom": "Maestro Conciergerie",
+    "siteWeb": "https://maestroconciergerie.fr/",
+    "villes": [
+      "Lyon",
+      "Chamonix"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion digitale",
+      "Ménage",
+      "Linge",
+      "Tarification dynamique",
+      "Multi-plateforme"
+    ],
+    "note": 4.5,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie digitale à Lyon, commissions de 14% à 25% TTC selon formule",
+    "fondateur": "",
+    "biensEstimes": 40
+  },
+  {
+    "nom": "Conciergerie Tête d'Or",
+    "siteWeb": "https://conciergerietetedor.fr/",
+    "villes": [
+      "Lyon",
+      "Paris"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Ménage hôtelier",
+      "Tarification dynamique",
+      "Communication voyageurs 24/7"
+    ],
+    "note": 4.7,
+    "categorie": "conciergerie_regionale",
+    "description": "Conciergerie premium à Lyon et Paris, méthodologie hôtelière, 20% de frais de gestion",
+    "fondateur": "",
+    "biensEstimes": 50
+  },
+  {
+    "nom": "KEYS Conciergerie",
+    "siteWeb": "https://keys-conciergerie.fr/",
+    "villes": [
+      "Nice",
+      "Cannes",
+      "Antibes",
+      "Vence",
+      "Saint-Paul-de-Vence"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Check-in 7j/7",
+      "Ménage hôtelier",
+      "Pricing dynamique",
+      "Optimisation annonces"
+    ],
+    "note": 4.6,
+    "categorie": "conciergerie_locale",
+    "description": "Gestion complète de locations saisonnières sur la Côte d'Azur",
+    "fondateur": "",
+    "biensEstimes": 35
+  },
+  {
+    "nom": "My Guest Relation",
+    "siteWeb": "https://myguestrelation.com/",
+    "villes": [
+      "Nice",
+      "Juan-les-Pins",
+      "Cannes"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Ménage",
+      "Accueil",
+      "Multi-plateforme",
+      "Photos professionnelles"
+    ],
+    "note": 4.5,
+    "categorie": "conciergerie_locale",
+    "description": "Gestion Airbnb/Booking haut de gamme dans le Sud de la France",
+    "fondateur": "",
+    "biensEstimes": 30
+  },
+  {
+    "nom": "Azur Sisters Services",
+    "siteWeb": "https://azursistersservices.com/",
+    "villes": [
+      "Cannes",
+      "Antibes",
+      "Biot",
+      "Juan-les-Pins",
+      "Mougins",
+      "Valbonne"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Ménage Airbnb",
+      "Check-in/Check-out",
+      "Linge",
+      "Maintenance"
+    ],
+    "note": 4.4,
+    "categorie": "conciergerie_locale",
+    "description": "Services de conciergerie et ménage Airbnb entre Cannes, Antibes et Valbonne",
+    "fondateur": "",
+    "biensEstimes": 25
+  },
+  {
+    "nom": "Manasteos",
+    "siteWeb": "https://manasteos.com/",
+    "villes": [
+      "Nice",
+      "Cannes",
+      "Cagnes-sur-Mer",
+      "Valbonne",
+      "Côte d'Azur"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Ménage",
+      "Accueil",
+      "Maintenance",
+      "Optimisation annonces"
+    ],
+    "note": 4.5,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie Côte d'Azur spécialisée Airbnb, commission de 20%",
+    "fondateur": "",
+    "biensEstimes": 40
+  },
+  {
+    "nom": "Experience Me",
+    "siteWeb": "https://www.experienceme.fr/",
+    "villes": [
+      "Nice",
+      "Côte d'Azur"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Ménage",
+      "Accueil",
+      "Optimisation revenus"
+    ],
+    "note": 4.6,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie Airbnb de location saisonnière sur la Côte d'Azur",
+    "fondateur": "",
+    "biensEstimes": 25
+  },
+  {
+    "nom": "Happy Keys Conciergerie",
+    "siteWeb": "https://happykeysconciergerie.com/",
+    "villes": [
+      "Nice"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Check-in/Check-out",
+      "Ménage",
+      "Gestion annonces",
+      "Tarification dynamique"
+    ],
+    "note": 4.5,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie haut de gamme pour locations saisonnières à Nice",
+    "fondateur": "",
+    "biensEstimes": 20
+  },
+  {
+    "nom": "Riviera Groom Conciergerie",
+    "siteWeb": "https://www.rivieragroom-conciergerie.com/",
+    "villes": [
+      "Nice"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Ménage",
+      "Accueil",
+      "Location courte et moyenne durée"
+    ],
+    "note": 4.4,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie Airbnb à Nice pour location courte et moyenne durée",
+    "fondateur": "",
+    "biensEstimes": 20
+  },
+  {
+    "nom": "Nice Groom",
+    "siteWeb": "http://www.nice-groom.com/",
+    "villes": [
+      "Nice"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Création annonces",
+      "Ménage professionnel",
+      "Accueil voyageurs",
+      "État des lieux"
+    ],
+    "note": 4.3,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie simplifiant la location saisonnière professionnelle à Nice",
+    "fondateur": "",
+    "biensEstimes": 15
+  },
+  {
+    "nom": "Immoloc",
+    "siteWeb": "https://immoloc-gestion.com/",
+    "villes": [
+      "Nice",
+      "Cannes",
+      "Antibes",
+      "Menton",
+      "Monaco"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Multi-plateforme",
+      "Check-in/Check-out",
+      "Ménage",
+      "Linge",
+      "Transfert bagages"
+    ],
+    "note": 4.5,
+    "categorie": "conciergerie_regionale",
+    "description": "10 agences sur la Côte d'Azur, gestion location tourisme et affaires",
+    "fondateur": "",
+    "biensEstimes": 150
+  },
+  {
+    "nom": "Short Time Conciergerie",
+    "siteWeb": "https://www.shorttimeconciergerie.com/",
+    "villes": [
+      "Saint-Tropez",
+      "Toulon",
+      "Fréjus",
+      "Hyères",
+      "Cannes",
+      "Nice",
+      "Antibes"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Accueil VIP",
+      "Gestion premium",
+      "Entretien propriétés luxe",
+      "Disponible 24/7"
+    ],
+    "note": 4.6,
+    "categorie": "conciergerie_regionale",
+    "description": "Conciergerie Airbnb indépendante haut de gamme dans le Var et Côte d'Azur",
+    "fondateur": "",
+    "biensEstimes": 40
+  },
+  {
+    "nom": "Maison Lérins",
+    "siteWeb": "https://maison-lerins.fr/",
+    "villes": [
+      "Saint-Tropez",
+      "Ramatuelle",
+      "Gassin"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Ménage",
+      "Accueil",
+      "Carte G professionnelle"
+    ],
+    "note": 4.9,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie avec Carte G, Superhost Airbnb 4.93/5 et 9.5/10 Booking",
+    "fondateur": "",
+    "biensEstimes": 20
+  },
+  {
+    "nom": "Azuréa Conciergerie",
+    "siteWeb": "https://azureaconciergerie.fr/",
+    "villes": [
+      "Toulon",
+      "Hyères",
+      "La Seyne-sur-Mer",
+      "Six-Fours",
+      "Sanary",
+      "Bandol"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "15 services premium",
+      "Optimisation annonces",
+      "Pricing dynamique"
+    ],
+    "note": 4.5,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie Airbnb sur la métropole de Toulon et alentours, Var",
+    "fondateur": "Gioia & Jonathan",
+    "biensEstimes": 30
+  },
+  {
+    "nom": "Azurenting",
+    "siteWeb": "https://azurenting.com/",
+    "villes": [
+      "Cannes",
+      "Côte d'Azur"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Ménage",
+      "Remise de clés",
+      "Gestion réservations et paiements"
+    ],
+    "note": 4.5,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie de référence Airbnb à Cannes, spécialisée en location saisonnière",
+    "fondateur": "",
+    "biensEstimes": 30
+  },
+  {
+    "nom": "Ze Bordeaux",
+    "siteWeb": "https://www.ze-bordeaux.fr/",
+    "villes": [
+      "Bordeaux"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Multi-plateforme",
+      "Ménage",
+      "Linge",
+      "Remise de clés"
+    ],
+    "note": 4.5,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie Airbnb/Abritel/Booking à Bordeaux et alentours",
+    "fondateur": "Xavier D'Hoker",
+    "biensEstimes": 30
+  },
+  {
+    "nom": "L'Intendant du Bassin",
+    "siteWeb": "https://lintendantdubassin.com/",
+    "villes": [
+      "Arcachon",
+      "Pyla-sur-Mer",
+      "La Teste-de-Buch"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Conciergerie Airbnb",
+      "Accueil",
+      "Ménage",
+      "Maintenance"
+    ],
+    "note": 4.89,
+    "categorie": "conciergerie_locale",
+    "description": "Spécialiste gestion résidences secondaires sur le Bassin d'Arcachon, Superhost Airbnb",
+    "fondateur": "",
+    "biensEstimes": 25
+  },
+  {
+    "nom": "Ferdinand Conciergerie",
+    "siteWeb": "https://ferdinand-conciergerie.fr/",
+    "villes": [
+      "Arcachon"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Location saisonnière",
+      "Immobilier",
+      "Ménage"
+    ],
+    "note": 4.5,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie et immobilier à Arcachon, location courte durée",
+    "fondateur": "",
+    "biensEstimes": 20
+  },
+  {
+    "nom": "Maison Boréale",
+    "siteWeb": "https://www.maisonboreale.fr/",
+    "villes": [
+      "Arcachon",
+      "Pyla-sur-Mer"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Location villas de luxe",
+      "Conciergerie personnalisée",
+      "Activités sur-mesure"
+    ],
+    "note": 4.7,
+    "categorie": "conciergerie_locale",
+    "description": "Location de villas de luxe et conciergerie personnalisée à Arcachon et Pyla",
+    "fondateur": "",
+    "biensEstimes": 15
+  },
+  {
+    "nom": "Loc'Atlantic",
+    "siteWeb": "https://www.loc-atlantic.fr/",
+    "villes": [
+      "Bayonne",
+      "Biarritz",
+      "Anglet",
+      "Côte Basque"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Ménage",
+      "Accueil",
+      "Intendance location saisonnière"
+    ],
+    "note": 4.5,
+    "categorie": "conciergerie_locale",
+    "description": "Intendance de location saisonnière sur la Côte Basque, +60 biens gérés depuis 2020",
+    "fondateur": "",
+    "biensEstimes": 60
+  },
+  {
+    "nom": "BnB Bask",
+    "siteWeb": "https://www.bnbbask.com/",
+    "villes": [
+      "Biarritz",
+      "Anglet",
+      "Bayonne"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Ménage",
+      "Accueil",
+      "Logistique location"
+    ],
+    "note": 4.5,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie du BAB (Biarritz-Anglet-Bayonne), délégation complète location courte durée",
+    "fondateur": "",
+    "biensEstimes": 30
+  },
+  {
+    "nom": "La Conciergerie du Lac",
+    "siteWeb": "https://laconciergeriedulac.com/",
+    "villes": [
+      "Annecy"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Ménage",
+      "Accueil voyageurs",
+      "Espace réception propriétaires"
+    ],
+    "note": 4.7,
+    "categorie": "conciergerie_locale",
+    "description": "Première conciergerie Airbnb d'Annecy depuis 2016, espace d'accueil en centre-ville",
+    "fondateur": "",
+    "biensEstimes": 40
+  },
+  {
+    "nom": "Alpes Immo Conciergerie",
+    "siteWeb": "https://alpesimmoconciergerie.com/",
+    "villes": [
+      "Annecy",
+      "Annemasse",
+      "Saint-Julien-en-Genevois",
+      "Pays de Gex"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Ménage",
+      "Check-in/Check-out",
+      "Optimisation annonces"
+    ],
+    "note": 4.5,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie Airbnb en Haute-Savoie et Pays de Gex",
+    "fondateur": "",
+    "biensEstimes": 30
+  },
+  {
+    "nom": "Save My Bed",
+    "siteWeb": "https://www.savemybed.com/",
+    "villes": [
+      "Annecy",
+      "Megève"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète A à Z",
+      "Ménage",
+      "Accueil",
+      "Maintenance"
+    ],
+    "note": 4.6,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie Airbnb à Annecy et Megève, gestion de A à Z",
+    "fondateur": "",
+    "biensEstimes": 25
+  },
+  {
+    "nom": "Margaret Conciergerie",
+    "siteWeb": "https://www.margaretconciergerie.com/",
+    "villes": [
+      "Annecy"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Ménage",
+      "Accueil",
+      "Optimisation revenus"
+    ],
+    "note": 4.5,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie Airbnb à Annecy, service personnalisé",
+    "fondateur": "",
+    "biensEstimes": 15
+  },
+  {
+    "nom": "LikeYourBed",
+    "siteWeb": "https://likeyourbed.com/",
+    "villes": [
+      "Annecy"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Ménage",
+      "Accueil",
+      "Gestion annonces"
+    ],
+    "note": 4.5,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie Airbnb à Annecy, gestion facile de vos locations",
+    "fondateur": "",
+    "biensEstimes": 20
+  },
+  {
+    "nom": "Cygne Blanc",
+    "siteWeb": "https://cygne-blanc.fr/",
+    "villes": [
+      "Annecy"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Location Airbnb",
+      "Location Booking",
+      "Ménage"
+    ],
+    "note": 4.5,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie location Airbnb et Booking à Annecy",
+    "fondateur": "",
+    "biensEstimes": 15
+  },
+  {
+    "nom": "Annecy BnB Conciergerie",
+    "siteWeb": "https://annecy-bnb-conciergerie.fr/",
+    "villes": [
+      "Annecy"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Partenaire Luckey",
+      "Ménage",
+      "Accueil"
+    ],
+    "note": 4.5,
+    "categorie": "conciergerie_locale",
+    "description": "Partenaire local Luckey (filiale Airbnb) pour la conciergerie à Annecy",
+    "fondateur": "",
+    "biensEstimes": 20
+  },
+  {
+    "nom": "LMD Conciergerie",
+    "siteWeb": "https://lmdconciergerie.fr/",
+    "villes": [
+      "Annecy",
+      "Chamonix",
+      "Megève",
+      "Saint-Gervais"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Ménage",
+      "Accueil",
+      "Multi-plateforme"
+    ],
+    "note": 4.5,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie Airbnb à Annecy et dans les montagnes savoyardes",
+    "fondateur": "",
+    "biensEstimes": 25
+  },
+  {
+    "nom": "Care Concierge",
+    "siteWeb": "https://careconcierge.fr/",
+    "villes": [
+      "Chamonix",
+      "Les Houches",
+      "Sallanches",
+      "Megève",
+      "Saint-Gervais"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Création annonces Airbnb",
+      "Accueil",
+      "Maintenance technique",
+      "Gestion réservations"
+    ],
+    "note": 4.7,
+    "categorie": "conciergerie_locale",
+    "description": "Agence de gestion locative à Chamonix, +250 propriétés gérées, 3 agences locales",
+    "fondateur": "",
+    "biensEstimes": 250
+  },
+  {
+    "nom": "Cham'Concierge",
+    "siteWeb": "https://www.chamconcierge.com/",
+    "villes": [
+      "Chamonix-Mont-Blanc"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion chalets",
+      "Accueil",
+      "Transferts",
+      "Réservations restaurants",
+      "Organisation activités"
+    ],
+    "note": 4.6,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie et immobilier à Chamonix, spécialiste chalets montagne été/hiver",
+    "fondateur": "",
+    "biensEstimes": 40
+  },
+  {
+    "nom": "Mont Blanc Conciergerie",
+    "siteWeb": "https://mont-blanc-conciergerie.com/",
+    "villes": [
+      "Saint-Gervais-les-Bains",
+      "Chamonix",
+      "Poitiers"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Ménage",
+      "Accueil",
+      "Optimisation revenus"
+    ],
+    "note": 4.5,
+    "categorie": "conciergerie_locale",
+    "description": "Service clé en main pour locations courte durée dans la vallée du Mont-Blanc",
+    "fondateur": "",
+    "biensEstimes": 30
+  },
+  {
+    "nom": "La Conciergerie de Savoie",
+    "siteWeb": "https://laconciergeriedesavoie.com/",
+    "villes": [
+      "Aix-les-Bains",
+      "Chambéry",
+      "Lac du Bourget",
+      "Lac d'Aiguebelette"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Location meublée",
+      "Accueil",
+      "Maintenance"
+    ],
+    "note": 4.5,
+    "categorie": "conciergerie_locale",
+    "description": "Gestion de locations meublées en Savoie, proximité et confiance",
+    "fondateur": "",
+    "biensEstimes": 25
+  },
+  {
+    "nom": "Nk Conciergerie",
+    "siteWeb": "",
+    "villes": [
+      "Chambéry",
+      "Aix-les-Bains"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Ménage Airbnb",
+      "Accueil voyageurs",
+      "Assistance 24/7"
+    ],
+    "note": 4.5,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie basée sur le bassin de Chambéry, approche humaine et professionnelle",
+    "fondateur": "",
+    "biensEstimes": 15
+  },
+  {
+    "nom": "La Petite Conciergerie Aixoise",
+    "siteWeb": "",
+    "villes": [
+      "Aix-les-Bains"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Location saisonnière",
+      "Location longue durée",
+      "Séjours thermaux",
+      "Ménage"
+    ],
+    "note": 4.4,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie dédiée à la location saisonnière et cures thermales à Aix-les-Bains",
+    "fondateur": "",
+    "biensEstimes": 15
+  },
+  {
+    "nom": "Capsule Corp Conciergerie",
+    "siteWeb": "https://www.capsulecorpimmo.com/",
+    "villes": [
+      "Grenoble"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Ménage",
+      "Accueil",
+      "Optimisation annonces",
+      "Sécurisation revenus"
+    ],
+    "note": 4.5,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie Airbnb à Grenoble, maximisation des revenus locatifs",
+    "fondateur": "",
+    "biensEstimes": 20
+  },
+  {
+    "nom": "Fullbnbzen",
+    "siteWeb": "https://fullbnbzen.com/",
+    "villes": [
+      "Toulouse"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Ménage",
+      "Accueil",
+      "Multi-plateforme Airbnb/Booking"
+    ],
+    "note": 4.5,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie professionnelle experte location courte durée Airbnb et Booking à Toulouse",
+    "fondateur": "",
+    "biensEstimes": 25
+  },
+  {
+    "nom": "Locatum",
+    "siteWeb": "https://www.monlocatum.com/",
+    "villes": [
+      "Toulouse"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Ménage",
+      "Accueil",
+      "Estimation revenus",
+      "Sous-location"
+    ],
+    "note": 4.5,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie et sous-location spécialiste courte durée à Toulouse",
+    "fondateur": "",
+    "biensEstimes": 30
+  },
+  {
+    "nom": "BNB Toulouse (ORBIS)",
+    "siteWeb": "https://www.bnbtoulouse.com/",
+    "villes": [
+      "Toulouse"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Location premium",
+      "Contact 24/24h",
+      "Optimisation revenus"
+    ],
+    "note": 4.5,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie Airbnb premium à Toulouse, gestion courte et moyenne durée",
+    "fondateur": "",
+    "biensEstimes": 25
+  },
+  {
+    "nom": "Conciergerie BnB Relax",
+    "siteWeb": "https://conciergeriebnbrelax.fr/",
+    "villes": [
+      "Toulouse",
+      "Blagnac",
+      "Colomiers",
+      "Muret"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Optimisation data/pricing",
+      "Ménage",
+      "Linge",
+      "Reporting"
+    ],
+    "note": 4.5,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie data-driven à Toulouse, 3 formules de 15% à 35%",
+    "fondateur": "",
+    "biensEstimes": 20
+  },
+  {
+    "nom": "Conciergerie Toulouse",
+    "siteWeb": "https://conciergerietoulouse.com/",
+    "villes": [
+      "Toulouse"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Services haut de gamme",
+      "Ménage",
+      "Accueil"
+    ],
+    "note": 4.4,
+    "categorie": "conciergerie_locale",
+    "description": "Services experts haut de gamme de conciergerie à Toulouse",
+    "fondateur": "",
+    "biensEstimes": 20
+  },
+  {
+    "nom": "Homs Conciergerie",
+    "siteWeb": "https://homsconciergerie.com/",
+    "villes": [
+      "Montpellier",
+      "Hérault"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Accueil",
+      "Ménage",
+      "Maintenance",
+      "Création annonces"
+    ],
+    "note": 4.5,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie Airbnb à Montpellier et dans l'Hérault, +3 ans d'expérience",
+    "fondateur": "",
+    "biensEstimes": 25
+  },
+  {
+    "nom": "Les Meilleurs Concierges",
+    "siteWeb": "https://lesmeilleursconcierges.com/",
+    "villes": [
+      "Montpellier",
+      "Avignon"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Vérification après séjour",
+      "Ménage",
+      "Accueil"
+    ],
+    "note": 4.5,
+    "categorie": "conciergerie_locale",
+    "description": "Experts en conciergerie à Montpellier et Avignon, service complet",
+    "fondateur": "",
+    "biensEstimes": 30
+  },
+  {
+    "nom": "La Conciergerie Avignon",
+    "siteWeb": "https://laconciergerieavignon.com/",
+    "villes": [
+      "Avignon",
+      "Gard"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Ménage",
+      "Accueil",
+      "Gestion résidences secondaires"
+    ],
+    "note": 4.5,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie pour propriétaires de locations saisonnières dans le Grand Avignon et Gard",
+    "fondateur": "",
+    "biensEstimes": 25
+  },
+  {
+    "nom": "Keys Manager",
+    "siteWeb": "https://keysmanager.com/",
+    "villes": [
+      "Avignon"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Location courte durée",
+      "Ménage",
+      "Accueil"
+    ],
+    "note": 4.4,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie et services de location courte durée à Avignon",
+    "fondateur": "",
+    "biensEstimes": 20
+  },
+  {
+    "nom": "Conciergerie du Palais",
+    "siteWeb": "",
+    "villes": [
+      "Avignon"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion haut de gamme",
+      "Location saisonnière",
+      "Ménage",
+      "Accueil"
+    ],
+    "note": 4.6,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie spécialisée en gestion haut de gamme de locations saisonnières à Avignon",
+    "fondateur": "",
+    "biensEstimes": 15
+  },
+  {
+    "nom": "Enjoy Keys",
+    "siteWeb": "https://conciergerie-enjoykeys.com/",
+    "villes": [
+      "Salon-de-Provence",
+      "Bouches-du-Rhône",
+      "Vaucluse sud"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Ménage",
+      "Accueil",
+      "Maintenance"
+    ],
+    "note": 4.5,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie Airbnb à Salon-de-Provence, Bouches-du-Rhône et Vaucluse sud",
+    "fondateur": "",
+    "biensEstimes": 20
+  },
+  {
+    "nom": "L'Azur Provençal",
+    "siteWeb": "",
+    "villes": [
+      "Martigues",
+      "Côte Bleue"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion locative",
+      "Ménage",
+      "Accueil",
+      "Maintenance"
+    ],
+    "note": 4.4,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie spécialisée en gestion locative sur la Côte Bleue et Martigues",
+    "fondateur": "",
+    "biensEstimes": 15
+  },
+  {
+    "nom": "NG Conciergerie Pays d'Aix",
+    "siteWeb": "",
+    "villes": [
+      "Aix-en-Provence"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Gestion personnalisable",
+      "Ménage",
+      "Accueil"
+    ],
+    "note": 4.4,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie dans un rayon de 30 km autour d'Aix-en-Provence",
+    "fondateur": "",
+    "biensEstimes": 20
+  },
+  {
+    "nom": "Les Clés d'Aix",
+    "siteWeb": "https://lesclesdaix.com/",
+    "villes": [
+      "Aix-en-Provence"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Gestion location saisonnière",
+      "Ménage",
+      "Accueil"
+    ],
+    "note": 4.5,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie privée à Aix-en-Provence, gestion personnalisée location courte durée",
+    "fondateur": "",
+    "biensEstimes": 20
+  },
+  {
+    "nom": "L'Aixcapade",
+    "siteWeb": "https://www.conciergerie-laixcapade.com/",
+    "villes": [
+      "Aix-en-Provence"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Service sur-mesure",
+      "Connaissance locale",
+      "Accueil"
+    ],
+    "note": 4.6,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie à taille humaine à Aix-en-Provence, qualité plutôt que quantité",
+    "fondateur": "",
+    "biensEstimes": 15
+  },
+  {
+    "nom": "La Familia BnB",
+    "siteWeb": "https://www.lafamiliabnb.fr/",
+    "villes": [
+      "Aix-en-Provence"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Location Airbnb",
+      "Location Booking",
+      "Ménage"
+    ],
+    "note": 4.5,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie location saisonnière Airbnb et Booking à Aix-en-Provence",
+    "fondateur": "",
+    "biensEstimes": 15
+  },
+  {
+    "nom": "Mister Concierge",
+    "siteWeb": "https://misterconcierge.fr/",
+    "villes": [
+      "Paris"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Accueil personnalisé",
+      "Ménage",
+      "Services premium"
+    ],
+    "note": 4.6,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie Airbnb n°1, services personnalisés pour propriétés premium à Paris",
+    "fondateur": "",
+    "biensEstimes": 40
+  },
+  {
+    "nom": "Letahost",
+    "siteWeb": "",
+    "villes": [
+      "Paris"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Conciergerie traditionnelle",
+      "Location moyenne durée",
+      "Gestion hybride"
+    ],
+    "note": 4.4,
+    "categorie": "conciergerie_locale",
+    "description": "Approche hybride combinant conciergerie traditionnelle et location moyenne durée à Paris",
+    "fondateur": "",
+    "biensEstimes": 25
+  },
+  {
+    "nom": "Renta'Life",
+    "siteWeb": "https://www.renta-life.fr/",
+    "villes": [
+      "Paris"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète A à Z",
+      "Ménage",
+      "Check-in/Check-out",
+      "Optimisation revenus"
+    ],
+    "note": 4.5,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie Airbnb de quartier à Paris, gestion locative de A à Z",
+    "fondateur": "",
+    "biensEstimes": 30
+  },
+  {
+    "nom": "Wehobe",
+    "siteWeb": "https://www.wehobe.com/",
+    "villes": [
+      "Paris"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Location courte durée",
+      "Bail mobilité",
+      "Tourisme d'affaires",
+      "Gestion complète"
+    ],
+    "note": 4.5,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie spécialisée courte durée, bail mobilité et tourisme d'affaires à Paris",
+    "fondateur": "",
+    "biensEstimes": 30
+  },
+  {
+    "nom": "Paris Home Keys",
+    "siteWeb": "https://parishomekeys.com/",
+    "villes": [
+      "Paris"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Création annonces",
+      "Accueil",
+      "Ménage",
+      "100% sans stress"
+    ],
+    "note": 4.5,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie 100% stress-free à Paris, gestion de A à Z",
+    "fondateur": "",
+    "biensEstimes": 25
+  },
+  {
+    "nom": "Keypers Paris",
+    "siteWeb": "https://keypers.fr/",
+    "villes": [
+      "Paris"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Optimisation revenus",
+      "Ménage",
+      "Service client 24/7"
+    ],
+    "note": 4.5,
+    "categorie": "conciergerie_locale",
+    "description": "Gestion complète de location courte durée à Paris avec optimisation des revenus",
+    "fondateur": "",
+    "biensEstimes": 30
+  },
+  {
+    "nom": "Liwango",
+    "siteWeb": "https://www.liwango.com/",
+    "villes": [
+      "Paris",
+      "Lyon",
+      "Bordeaux",
+      "Marseille",
+      "Nice"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Calculateur Airbnb",
+      "Comparateur conciergeries",
+      "Tarification dynamique"
+    ],
+    "note": 4.5,
+    "categorie": "plateforme",
+    "description": "Plateforme de gestion Airbnb et comparateur de conciergeries en France",
+    "fondateur": "",
+    "biensEstimes": 100
+  },
+  {
+    "nom": "Homerez",
+    "siteWeb": "https://www.homerez.com/",
+    "villes": [
+      "Paris",
+      "Bordeaux",
+      "Lyon",
+      "Marseille",
+      "Nice",
+      "Toulouse"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Distribution multi-plateforme",
+      "Logiciel intelligent",
+      "Support expert"
+    ],
+    "note": 4.3,
+    "categorie": "plateforme",
+    "description": "Plateforme de gestion locative combinant logiciel intelligent et support personnalisé",
+    "fondateur": "",
+    "biensEstimes": 200
+  },
+  {
+    "nom": "Conciergerie Pro",
+    "siteWeb": "https://www.conciergerie-pro.com/",
+    "villes": [
+      "Paris"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Location courte durée",
+      "Location longue durée",
+      "Ménage"
+    ],
+    "note": 4.4,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie Airbnb à Paris, location courte et longue durée",
+    "fondateur": "",
+    "biensEstimes": 25
+  },
+  {
+    "nom": "Mademoiselle Izia Conciergerie",
+    "siteWeb": "",
+    "villes": [
+      "Livry-Gargan",
+      "Seine-Saint-Denis",
+      "Hauts-de-Seine",
+      "Val-d'Oise",
+      "Paris"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Ménage",
+      "Accueil",
+      "Multi-départements"
+    ],
+    "note": 4.4,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie Airbnb en Île-de-France, départements 93, 92, 95, 77, 75",
+    "fondateur": "",
+    "biensEstimes": 20
+  },
+  {
+    "nom": "Host and Go",
+    "siteWeb": "https://hostandgo.fr/",
+    "villes": [
+      "Paris",
+      "Saint-Mandé",
+      "Vincennes",
+      "Aubervilliers",
+      "Montreuil",
+      "Neuilly-sur-Seine"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Multi-plateforme Airbnb/Booking",
+      "Ménage",
+      "Accueil"
+    ],
+    "note": 4.5,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie Airbnb et Booking en Île-de-France, couverture large banlieue parisienne",
+    "fondateur": "",
+    "biensEstimes": 35
+  },
+  {
+    "nom": "Cindy's Home",
+    "siteWeb": "https://www.cindyshome.com/",
+    "villes": [
+      "Paris",
+      "Hauts-de-Seine",
+      "Seine-Saint-Denis",
+      "Val-de-Marne"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Ménage",
+      "Accueil",
+      "Service familial et personnalisé"
+    ],
+    "note": 4.6,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie familiale Airbnb en Île-de-France, fondée en 2012 par Cindy et Fabien",
+    "fondateur": "Cindy et Fabien",
+    "biensEstimes": 30
+  },
+  {
+    "nom": "Keyper Conciergerie",
+    "siteWeb": "https://keyper-conciergerie.com/",
+    "villes": [
+      "Paris",
+      "Champigny-sur-Marne",
+      "Val-de-Marne",
+      "Seine-Saint-Denis",
+      "Seine-et-Marne"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Ménage",
+      "Accueil",
+      "Accompagnement investisseurs"
+    ],
+    "note": 4.5,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie Airbnb pour propriétaires et investisseurs en Île-de-France",
+    "fondateur": "",
+    "biensEstimes": 25
+  },
+  {
+    "nom": "NAPS IMMO",
+    "siteWeb": "https://www.naps-immo.com/",
+    "villes": [
+      "Paris",
+      "Montreuil",
+      "Saint-Denis",
+      "Créteil",
+      "Amiens"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Ménage",
+      "Accueil",
+      "Multi-arrondissements Paris"
+    ],
+    "note": 4.4,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie Airbnb couvrant tous les arrondissements parisiens et banlieue",
+    "fondateur": "",
+    "biensEstimes": 30
+  },
+  {
+    "nom": "La Conciergerie Marnaise",
+    "siteWeb": "https://laconciergeriemarnaise.fr/",
+    "villes": [
+      "Paris",
+      "Seine-et-Marne"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Ménage",
+      "Accueil",
+      "Investisseurs"
+    ],
+    "note": 4.4,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie Airbnb pour investisseurs à Paris et Seine-et-Marne",
+    "fondateur": "",
+    "biensEstimes": 20
+  },
+  {
+    "nom": "Conciergerie Prestige Services",
+    "siteWeb": "https://www.conciergerieprestigeservices.fr/",
+    "villes": [
+      "Seine-et-Marne"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Location Airbnb prestige",
+      "Ménage",
+      "Accueil"
+    ],
+    "note": 4.4,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie prestige pour locations Airbnb en Seine-et-Marne",
+    "fondateur": "",
+    "biensEstimes": 15
+  },
+  {
+    "nom": "HelloCosy",
+    "siteWeb": "https://hellocosy.fr/",
+    "villes": [
+      "Marne-la-Vallée",
+      "Fontainebleau",
+      "Sénart",
+      "Melun"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Ménage",
+      "Accueil chaleureux",
+      "Optimisation annonces"
+    ],
+    "note": 4.5,
+    "categorie": "conciergerie_locale",
+    "description": "La conciergerie Airbnb chaleureuse en Seine-et-Marne",
+    "fondateur": "",
+    "biensEstimes": 20
+  },
+  {
+    "nom": "Conciergerie Nouvelair",
+    "siteWeb": "https://conciergerie-nouvelair.com/",
+    "villes": [
+      "Essonne",
+      "Seine-et-Marne",
+      "Fontainebleau",
+      "Barbizon"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Services haut de gamme",
+      "Connaissance locale",
+      "Ménage"
+    ],
+    "note": 4.5,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie Airbnb locale en Essonne et Seine-et-Marne, services personnalisés",
+    "fondateur": "",
+    "biensEstimes": 20
+  },
+  {
+    "nom": "Heisei",
+    "siteWeb": "https://www.heisei.fr/",
+    "villes": [
+      "Fontainebleau",
+      "Melun",
+      "Meaux",
+      "Provins",
+      "Disneyland Paris"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Photo professionnelle",
+      "Check-in autonome 24/7",
+      "Optimisation annonces"
+    ],
+    "note": 4.5,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie Airbnb en Seine-et-Marne avec check-in autonome et optimisation",
+    "fondateur": "",
+    "biensEstimes": 25
+  },
+  {
+    "nom": "Belliservice",
+    "siteWeb": "https://www.belliservice.com/",
+    "villes": [
+      "Fontainebleau"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Conciergerie de quartier",
+      "Prestation Airbnb haut de gamme",
+      "Gestion locative"
+    ],
+    "note": 4.6,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie de quartier à Fontainebleau, prestations Airbnb haut de gamme depuis 2019",
+    "fondateur": "",
+    "biensEstimes": 15
+  },
+  {
+    "nom": "CosyConciergerie",
+    "siteWeb": "https://cosyconciergerie.com/",
+    "villes": [
+      "Île-de-France"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Ménage",
+      "Accueil",
+      "Location courte durée"
+    ],
+    "note": 4.4,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie Airbnb en Île-de-France, service cosy et personnalisé",
+    "fondateur": "",
+    "biensEstimes": 20
+  },
+  {
+    "nom": "My Conciergery",
+    "siteWeb": "https://my-conciergery.fr/",
+    "villes": [
+      "Paris",
+      "Val-de-Marne",
+      "Seine-Saint-Denis",
+      "Hauts-de-Seine",
+      "Avignon"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Ménage",
+      "Accueil",
+      "Équipes locales"
+    ],
+    "note": 4.4,
+    "categorie": "conciergerie_regionale",
+    "description": "Conciergerie Airbnb présente dans +100 villes en France, équipes locales réactives",
+    "fondateur": "",
+    "biensEstimes": 150
+  },
+  {
+    "nom": "La Conciergerie Française SAS",
+    "siteWeb": "",
+    "villes": [
+      "La Rochelle",
+      "Île d'Oléron",
+      "Royan",
+      "Biscarrosse",
+      "Fréjus"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion haut de gamme",
+      "Accueil",
+      "Maintenance",
+      "Logistique",
+      "Gestion réservations"
+    ],
+    "note": 4.5,
+    "categorie": "conciergerie_regionale",
+    "description": "Conciergerie haut de gamme spécialisée propriétés balnéaires françaises",
+    "fondateur": "",
+    "biensEstimes": 40
+  },
+  {
+    "nom": "Maisonnette",
+    "siteWeb": "https://www.maisonnette.io/",
+    "villes": [
+      "Bordeaux",
+      "Talence"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Ménage",
+      "Accueil",
+      "Gestion Airbnb"
+    ],
+    "note": 4.6,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie Airbnb à taille humaine à Bordeaux, fondée en 2025 par Mireille et Antoine",
+    "fondateur": "Mireille et Antoine",
+    "biensEstimes": 15
+  },
+  {
+    "nom": "L'Intendant Bordelais",
+    "siteWeb": "",
+    "villes": [
+      "Bordeaux"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Conciergerie authentique",
+      "Ménage",
+      "Accueil",
+      "Gestion location"
+    ],
+    "note": 4.4,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie authentique à Bordeaux, gestion de locations saisonnières",
+    "fondateur": "",
+    "biensEstimes": 15
+  },
+  {
+    "nom": "La Petite Conciergerie Girondine",
+    "siteWeb": "",
+    "villes": [
+      "Bordeaux",
+      "Gironde"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Ménage",
+      "Accueil",
+      "Soin personnalisé"
+    ],
+    "note": 4.5,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie professionnelle et expérimentée en Gironde",
+    "fondateur": "",
+    "biensEstimes": 20
+  },
+  {
+    "nom": "Conciergerie Armondiber",
+    "siteWeb": "",
+    "villes": [
+      "Arcachon"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Ménage",
+      "Accueil",
+      "Location saisonnière"
+    ],
+    "note": 4.4,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie locale sur le Bassin d'Arcachon",
+    "fondateur": "",
+    "biensEstimes": 15
+  },
+  {
+    "nom": "Keyhost",
+    "siteWeb": "https://keyhost.fr/",
+    "villes": [
+      "Paris",
+      "Lyon"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Multi-plateforme Airbnb/Booking",
+      "Ménage",
+      "Accueil"
+    ],
+    "note": 4.5,
+    "categorie": "conciergerie_regionale",
+    "description": "Conciergerie Airbnb et Booking à Paris et Lyon",
+    "fondateur": "",
+    "biensEstimes": 40
+  },
+  {
+    "nom": "Ouicaille",
+    "siteWeb": "https://www.ouicaille.fr/",
+    "villes": [
+      "Marseille"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Gestion appartements",
+      "Ménage",
+      "Accueil"
+    ],
+    "note": 4.5,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie n°1 à Marseille, gestion clef-en-main de locations",
+    "fondateur": "",
+    "biensEstimes": 35
+  },
+  {
+    "nom": "Conciergerie Talu",
+    "siteWeb": "",
+    "villes": [
+      "Marseille"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Assistance privée",
+      "Ménage",
+      "Accueil",
+      "Maintenance"
+    ],
+    "note": 4.4,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie privée à Marseille, assistance complète pour propriétaires",
+    "fondateur": "",
+    "biensEstimes": 15
+  },
+  {
+    "nom": "Lodge BnB",
+    "siteWeb": "https://lodgebnb.fr/",
+    "villes": [
+      "Bouches-du-Rhône",
+      "France"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Super Host Airbnb",
+      "Partenariat Passpass",
+      "Multi-plateforme"
+    ],
+    "note": 4.5,
+    "categorie": "conciergerie_regionale",
+    "description": "Super Host Airbnb, gestion innovante de locations en France avec Passpass",
+    "fondateur": "",
+    "biensEstimes": 50
+  },
+  {
+    "nom": "BnB Access",
+    "siteWeb": "https://www.bnbaccess.eu/",
+    "villes": [
+      "Marseille"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion Airbnb",
+      "Ménage",
+      "Accueil",
+      "Optimisation annonces"
+    ],
+    "note": 4.3,
+    "categorie": "conciergerie_locale",
+    "description": "Plateforme de gestion Airbnb à Marseille",
+    "fondateur": "",
+    "biensEstimes": 20
+  },
+  {
+    "nom": "SleepInNice",
+    "siteWeb": "",
+    "villes": [
+      "Nice"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Ménage",
+      "Accueil",
+      "+30% réservations"
+    ],
+    "note": 4.5,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie Airbnb à Nice offrant 30% de réservations supplémentaires",
+    "fondateur": "",
+    "biensEstimes": 25
+  },
+  {
+    "nom": "Conciergerie Océane",
+    "siteWeb": "",
+    "villes": [
+      "Nantes"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Valorisation biens",
+      "Optimisation revenus",
+      "Spécialiste local"
+    ],
+    "note": 4.5,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie Airbnb à Nantes, valorisation de biens et optimisation revenus",
+    "fondateur": "",
+    "biensEstimes": 25
+  },
+  {
+    "nom": "Menage-BnB",
+    "siteWeb": "https://www.menage-bnb.com/",
+    "villes": [
+      "Bordeaux",
+      "Grenoble",
+      "Lyon",
+      "Paris",
+      "Marseille"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Ménage professionnel",
+      "Entretien location saisonnière",
+      "Linge"
+    ],
+    "note": 4.3,
+    "categorie": "plateforme",
+    "description": "Plateforme de ménage spécialisée pour locations Airbnb dans toute la France",
+    "fondateur": "",
+    "biensEstimes": 100
+  },
+  {
+    "nom": "AirConcierge",
+    "siteWeb": "https://www.airconcierge.io/",
+    "villes": [
+      "Paris",
+      "Nice",
+      "Lyon",
+      "Bordeaux",
+      "Marseille"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Annuaire conciergeries",
+      "Comparaison services",
+      "Mise en relation"
+    ],
+    "note": 4.2,
+    "categorie": "plateforme",
+    "description": "Annuaire de référence de conciergeries Airbnb et location courte durée en France",
+    "fondateur": "",
+    "biensEstimes": 0
+  },
+  {
+    "nom": "QuelleConciergerie",
+    "siteWeb": "https://www.quelleconciergerie.fr/",
+    "villes": [
+      "France entière"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Comparateur conciergeries",
+      "Avis clients",
+      "Mise en relation",
+      "Data-driven"
+    ],
+    "note": 4.2,
+    "categorie": "plateforme",
+    "description": "Plateforme innovante de comparaison de conciergeries Airbnb, approche data-driven",
+    "fondateur": "",
+    "biensEstimes": 0
+  },
+  {
+    "nom": "Driing",
+    "siteWeb": "https://www.driing.co/",
+    "villes": [
+      "France entière"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Annuaire conciergeries",
+      "Guide location courte durée",
+      "Comparaison"
+    ],
+    "note": 4.2,
+    "categorie": "plateforme",
+    "description": "Annuaire complet des conciergeries Airbnb en France par région",
+    "fondateur": "",
+    "biensEstimes": 0
+  },
+  {
+    "nom": "Book&Pay",
+    "siteWeb": "https://bookandpay.fr/",
+    "villes": [
+      "France entière"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Annuaire conciergeries",
+      "Informations pratiques",
+      "Zones d'intervention"
+    ],
+    "note": 4.2,
+    "categorie": "plateforme",
+    "description": "Plateforme regroupant conciergeries de locations courte durée partout en France",
+    "fondateur": "",
+    "biensEstimes": 0
+  },
+  {
+    "nom": "Toploc",
+    "siteWeb": "https://toploc.com/",
+    "villes": [
+      "France entière"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Classements conciergeries par ville",
+      "Comparatifs",
+      "Avis"
+    ],
+    "note": 4.3,
+    "categorie": "plateforme",
+    "description": "Plateforme de classement et comparaison des conciergeries Airbnb par ville",
+    "fondateur": "",
+    "biensEstimes": 0
+  },
+  {
+    "nom": "Frenchyhomes",
+    "siteWeb": "https://www.frenchyhomes.com/",
+    "villes": [
+      "Bassin d'Arcachon"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Conciergerie",
+      "Gestion locative",
+      "Ménage",
+      "Accueil"
+    ],
+    "note": 4.4,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie sur le Bassin d'Arcachon",
+    "fondateur": "",
+    "biensEstimes": 20
+  },
+  {
+    "nom": "La Conciergerie du Palais (Avignon)",
+    "siteWeb": "",
+    "villes": [
+      "Avignon"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion haut de gamme",
+      "Location saisonnière premium",
+      "Ménage",
+      "Accueil"
+    ],
+    "note": 4.6,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie haut de gamme spécialisée en location saisonnière à Avignon",
+    "fondateur": "",
+    "biensEstimes": 15
+  },
+  {
+    "nom": "Vacanceole",
+    "siteWeb": "https://www.vacanceole-particuliers.com/",
+    "villes": [
+      "La Féclaz",
+      "Savoie",
+      "Stations de ski"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Location saisonnière montagne",
+      "Ménage",
+      "Accueil"
+    ],
+    "note": 4.3,
+    "categorie": "conciergerie_regionale",
+    "description": "Conciergerie Airbnb en stations de ski et montagne, Savoie",
+    "fondateur": "",
+    "biensEstimes": 50
+  },
+  {
+    "nom": "Conciergerie Avignon Prestations",
+    "siteWeb": "",
+    "villes": [
+      "Avignon"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Ménage location saisonnière",
+      "Gestion propriétés",
+      "Assistance voyageurs"
+    ],
+    "note": 4.3,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie offrant ménage et gestion de propriétés saisonnières à Avignon",
+    "fondateur": "",
+    "biensEstimes": 15
+  },
+  {
+    "nom": "Gestion Locative Plus",
+    "siteWeb": "",
+    "villes": [
+      "Paris",
+      "Île-de-France"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Ménage",
+      "Accueil",
+      "Optimisation revenus"
+    ],
+    "note": 4.3,
+    "categorie": "conciergerie_locale",
+    "description": "Gestion locative et conciergerie Airbnb en Île-de-France",
+    "fondateur": "",
+    "biensEstimes": 20
+  },
+  {
+    "nom": "Provence Conciergerie",
+    "siteWeb": "",
+    "villes": [
+      "Salon-de-Provence"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Ménage",
+      "Accueil",
+      "Maintenance"
+    ],
+    "note": 4.4,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie locale à Salon-de-Provence pour locations saisonnières",
+    "fondateur": "",
+    "biensEstimes": 15
+  },
+  {
+    "nom": "Conciergerie de Caractère",
+    "siteWeb": "",
+    "villes": [
+      "Chamonix",
+      "Megève",
+      "Combloux",
+      "Saint-Gervais"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Location courte et moyenne durée",
+      "Ménage",
+      "Accueil"
+    ],
+    "note": 4.5,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie spécialisée en locations courte et moyenne durée dans les Alpes",
+    "fondateur": "",
+    "biensEstimes": 20
+  },
+  {
+    "nom": "Rentatranquille",
+    "siteWeb": "",
+    "villes": [
+      "Nice"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Ménage",
+      "Accueil",
+      "Location saisonnière"
+    ],
+    "note": 4.3,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie Airbnb indépendante à Nice",
+    "fondateur": "",
+    "biensEstimes": 15
+  },
+  {
+    "nom": "Bristone",
+    "siteWeb": "",
+    "villes": [
+      "Nice",
+      "Côte d'Azur"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Ménage",
+      "Accueil",
+      "Location saisonnière"
+    ],
+    "note": 4.3,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie de gestion Airbnb sur la Côte d'Azur",
+    "fondateur": "",
+    "biensEstimes": 15
+  },
+  {
+    "nom": "Nevatony",
+    "siteWeb": "https://nevatony.fr/",
+    "villes": [
+      "Paris",
+      "Île-de-France"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Conseil choix conciergerie",
+      "Ménage",
+      "Accueil"
+    ],
+    "note": 4.3,
+    "categorie": "conciergerie_locale",
+    "description": "Agence immobilière et conciergerie Airbnb à Paris",
+    "fondateur": "",
+    "biensEstimes": 20
+  },
+  {
+    "nom": "Allovoyages Conciergerie",
+    "siteWeb": "https://www.allovoyages.fr/",
+    "villes": [
+      "Paris",
+      "Bordeaux",
+      "Montpellier"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Comparatif conciergeries",
+      "Recommandations",
+      "Guide"
+    ],
+    "note": 4.2,
+    "categorie": "plateforme",
+    "description": "Plateforme de comparaison et recommandation de conciergeries Airbnb en France",
+    "fondateur": "",
+    "biensEstimes": 0
+  },
+  {
+    "nom": "Eldorado Immobilier",
+    "siteWeb": "https://eldorado-immobilier.com/",
+    "villes": [
+      "France entière"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Comparatif conciergeries",
+      "Formation location saisonnière",
+      "Optimisation revenus"
+    ],
+    "note": 4.3,
+    "categorie": "plateforme",
+    "description": "Spécialiste location saisonnière, comparatifs et formations pour propriétaires",
+    "fondateur": "",
+    "biensEstimes": 0
+  },
+  {
+    "nom": "Livret d'Accueil",
+    "siteWeb": "https://livretaccueil.com/",
+    "villes": [
+      "France entière"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Annuaire conciergeries",
+      "Livrets d'accueil digitaux",
+      "Référencement"
+    ],
+    "note": 4.2,
+    "categorie": "plateforme",
+    "description": "Annuaire de conciergeries Airbnb et création de livrets d'accueil digitaux",
+    "fondateur": "",
+    "biensEstimes": 0
+  },
+  {
+    "nom": "Jemepropose Conciergerie",
+    "siteWeb": "https://www.jemepropose.com/",
+    "villes": [
+      "France entière"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Mise en relation",
+      "Annonces conciergerie",
+      "Services à la personne"
+    ],
+    "note": 4,
+    "categorie": "plateforme",
+    "description": "Plateforme d'annonces de services de conciergerie Airbnb partout en France",
+    "fondateur": "",
+    "biensEstimes": 0
+  },
+  {
+    "nom": "Homecalm",
+    "siteWeb": "https://homecalm.fr/",
+    "villes": [
+      "Fréjus",
+      "Saint-Raphaël",
+      "Côte d'Azur"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion locative haut de gamme",
+      "Ménage",
+      "Accueil",
+      "Maintenance"
+    ],
+    "note": 4.5,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie saisonnière haut de gamme à Fréjus et Saint-Raphaël",
+    "fondateur": "",
+    "biensEstimes": 20
+  },
+  {
+    "nom": "Azur Property Care",
+    "siteWeb": "https://www.azurpropertycare.com/",
+    "villes": [
+      "Cannes",
+      "Nice",
+      "Antibes",
+      "Mougins",
+      "Grasse",
+      "Menton",
+      "Saint-Tropez"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion locative",
+      "Ménage",
+      "Accueil",
+      "Maintenance propriétés"
+    ],
+    "note": 4.5,
+    "categorie": "conciergerie_regionale",
+    "description": "Gestion de location saisonnière de Saint-Tropez à Menton sur toute la Côte d'Azur",
+    "fondateur": "",
+    "biensEstimes": 50
+  },
+  {
+    "nom": "Holidays Service Conciergerie",
+    "siteWeb": "https://www.holidaysserviceconciergerie.fr/",
+    "villes": [
+      "Fréjus",
+      "Saint-Raphaël"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Location saisonnière",
+      "Ménage",
+      "Accueil",
+      "Gestion réservations"
+    ],
+    "note": 4.4,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie location saisonnière à Fréjus et Saint-Raphaël",
+    "fondateur": "",
+    "biensEstimes": 15
+  },
+  {
+    "nom": "L'Eden Conciergerie",
+    "siteWeb": "https://www.eden-conciergerie.com/",
+    "villes": [
+      "Fréjus",
+      "Var"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Conciergerie",
+      "Ménage",
+      "Accueil voyageurs",
+      "Maintenance"
+    ],
+    "note": 4.4,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie Airbnb à Fréjus pour propriétaires et vacanciers",
+    "fondateur": "",
+    "biensEstimes": 15
+  },
+  {
+    "nom": "La Conciergerie Française (Fréjus)",
+    "siteWeb": "https://www.conciergeriefrancaise.fr/",
+    "villes": [
+      "Fréjus",
+      "Saint-Raphaël"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Conciergerie immobilière",
+      "Ménage",
+      "Accueil",
+      "Gestion location"
+    ],
+    "note": 4.4,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie immobilière à Fréjus et Côte d'Azur",
+    "fondateur": "",
+    "biensEstimes": 20
+  },
+  {
+    "nom": "Yolo Immobilier",
+    "siteWeb": "https://yolo-immobilier.fr/",
+    "villes": [
+      "Périgueux",
+      "Dordogne"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Conciergerie Airbnb",
+      "Gestion locative",
+      "Ménage",
+      "Accueil"
+    ],
+    "note": 4.4,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie Airbnb et agence immobilière à Périgueux, Dordogne",
+    "fondateur": "",
+    "biensEstimes": 15
+  },
+  {
+    "nom": "Easyfactory",
+    "siteWeb": "https://www.easyfactory.fr/",
+    "villes": [
+      "Périgueux",
+      "Dordogne"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Conciergerie Airbnb",
+      "Gestion complète",
+      "Ménage",
+      "Accueil"
+    ],
+    "note": 4.3,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie Airbnb en Dordogne, Périgueux et communes alentour",
+    "fondateur": "",
+    "biensEstimes": 15
+  },
+  {
+    "nom": "Chambre 42",
+    "siteWeb": "https://www.chambre42.fr/",
+    "villes": [
+      "Saint-Étienne"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Gestion personnalisée",
+      "Ménage",
+      "Accueil"
+    ],
+    "note": 4.5,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie Airbnb locale exclusivement basée à Saint-Étienne, gestion sur-mesure",
+    "fondateur": "",
+    "biensEstimes": 20
+  },
+  {
+    "nom": "Ma Petite Conciergerie Valence",
+    "siteWeb": "https://www.mapetiteconciergerie-valence.com/",
+    "villes": [
+      "Valence",
+      "Drôme"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Ménage Airbnb",
+      "Accueil voyageurs",
+      "Gestion annonces",
+      "Gestion plateforme"
+    ],
+    "note": 4.5,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie saisonnière Airbnb à Valence et dans la Drôme",
+    "fondateur": "",
+    "biensEstimes": 15
+  },
+  {
+    "nom": "Airnet Conciergerie",
+    "siteWeb": "http://www.airnet-ecoservices.com/",
+    "villes": [
+      "Mercurol",
+      "Tain-l'Hermitage",
+      "Valence",
+      "Tournon"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Conciergerie",
+      "Gardiennage",
+      "Ménage",
+      "Eco-services"
+    ],
+    "note": 4.3,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie et éco-services dans la Drôme, autour de Valence et Tain-l'Hermitage",
+    "fondateur": "",
+    "biensEstimes": 10
+  },
+  {
+    "nom": "Cocon Conciergerie",
+    "siteWeb": "https://cocon-conciergerie.com/",
+    "villes": [
+      "Rhône-Alpes"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion logements",
+      "Conciergerie",
+      "Ménage",
+      "Accueil"
+    ],
+    "note": 4.4,
+    "categorie": "conciergerie_locale",
+    "description": "Gestion de logements et conciergerie en Rhône-Alpes",
+    "fondateur": "",
+    "biensEstimes": 15
+  },
+  {
+    "nom": "AppartVillage",
+    "siteWeb": "https://appartvillage.com/",
+    "villes": [
+      "Nouvelle-Aquitaine"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion location",
+      "Ménage",
+      "Accueil",
+      "Multi-plateforme"
+    ],
+    "note": 4.3,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie de location saisonnière en Nouvelle-Aquitaine",
+    "fondateur": "",
+    "biensEstimes": 20
+  },
+  {
+    "nom": "Airdna France",
+    "siteWeb": "https://www.airdna.co/",
+    "villes": [
+      "France entière"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Data analytics location courte durée",
+      "Analyse marché",
+      "Comparatifs revenus"
+    ],
+    "note": 4.3,
+    "categorie": "plateforme",
+    "description": "Plateforme analytics pour locations courte durée, données de marché Airbnb France",
+    "fondateur": "",
+    "biensEstimes": 0
+  },
+  {
+    "nom": "Conciergerie du Vieux Port",
+    "siteWeb": "",
+    "villes": [
+      "Marseille"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Ménage",
+      "Accueil",
+      "Quartier Vieux-Port"
+    ],
+    "note": 4.4,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie spécialisée dans les locations autour du Vieux-Port de Marseille",
+    "fondateur": "",
+    "biensEstimes": 15
+  },
+  {
+    "nom": "La Conciergerie Marseillaise",
+    "siteWeb": "",
+    "villes": [
+      "Marseille"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Ménage",
+      "Accueil",
+      "Location saisonnière"
+    ],
+    "note": 4.4,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie locale à Marseille, gestion de locations saisonnières",
+    "fondateur": "",
+    "biensEstimes": 20
+  },
+  {
+    "nom": "Mon Concierge Privé",
+    "siteWeb": "",
+    "villes": [
+      "Paris",
+      "Île-de-France"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Services privés",
+      "Ménage",
+      "Accueil VIP"
+    ],
+    "note": 4.5,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie privée à Paris, services personnalisés pour propriétaires",
+    "fondateur": "",
+    "biensEstimes": 20
+  },
+  {
+    "nom": "At the Corner",
+    "siteWeb": "",
+    "villes": [
+      "Marseille"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Ménage",
+      "Accueil",
+      "Optimisation annonces"
+    ],
+    "note": 4.4,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie Airbnb à Marseille",
+    "fondateur": "",
+    "biensEstimes": 15
+  },
+  {
+    "nom": "A Joie Paris",
+    "siteWeb": "",
+    "villes": [
+      "Paris"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Ménage",
+      "Accueil",
+      "Optimisation revenus"
+    ],
+    "note": 4.4,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie Airbnb locale à Paris, gestion optimisée",
+    "fondateur": "",
+    "biensEstimes": 15
+  },
+  {
+    "nom": "BnB Connected",
+    "siteWeb": "",
+    "villes": [
+      "Paris"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Multi-plateforme",
+      "Ménage",
+      "Accueil"
+    ],
+    "note": 4.3,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie Airbnb connectée à Paris",
+    "fondateur": "",
+    "biensEstimes": 15
+  },
+  {
+    "nom": "Homin",
+    "siteWeb": "",
+    "villes": [
+      "Lyon"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Location meublée",
+      "Ménage",
+      "Accueil"
+    ],
+    "note": 4.4,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie et gestion de locations meublées à Lyon",
+    "fondateur": "",
+    "biensEstimes": 20
+  },
+  {
+    "nom": "StayCozy Nice",
+    "siteWeb": "",
+    "villes": [
+      "Nice",
+      "Côte d'Azur"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Ménage",
+      "Accueil",
+      "Décoration intérieure"
+    ],
+    "note": 4.4,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie locale à Nice avec services de décoration et home staging",
+    "fondateur": "",
+    "biensEstimes": 15
+  },
+  {
+    "nom": "Les Clés du Sud",
+    "siteWeb": "",
+    "villes": [
+      "Marseille",
+      "Aix-en-Provence",
+      "Cassis"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Ménage",
+      "Accueil",
+      "Remise de clés"
+    ],
+    "note": 4.4,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie Airbnb dans le sud de la France, spécialiste remise de clés",
+    "fondateur": "",
+    "biensEstimes": 20
+  },
+  {
+    "nom": "Conciergerie des Alpilles",
+    "siteWeb": "",
+    "villes": [
+      "Saint-Rémy-de-Provence",
+      "Les Baux-de-Provence",
+      "Alpilles"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Location saisonnière",
+      "Ménage",
+      "Accueil"
+    ],
+    "note": 4.5,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie de location saisonnière dans les Alpilles en Provence",
+    "fondateur": "",
+    "biensEstimes": 15
+  },
+  {
+    "nom": "Easy Rentalz",
+    "siteWeb": "",
+    "villes": [
+      "Paris",
+      "Île-de-France"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Ménage",
+      "Accueil",
+      "Services digitaux"
+    ],
+    "note": 4.3,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie digitale Airbnb en Île-de-France",
+    "fondateur": "",
+    "biensEstimes": 20
+  },
+  {
+    "nom": "La Conciergerie du Luberon",
+    "siteWeb": "",
+    "villes": [
+      "Luberon",
+      "Gordes",
+      "Bonnieux",
+      "Apt"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Location saisonnière",
+      "Ménage",
+      "Entretien jardins"
+    ],
+    "note": 4.5,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie de locations saisonnières dans le Luberon, Vaucluse",
+    "fondateur": "",
+    "biensEstimes": 20
+  },
+  {
+    "nom": "Cap Basque Conciergerie",
+    "siteWeb": "",
+    "villes": [
+      "Biarritz",
+      "Saint-Jean-de-Luz",
+      "Hendaye"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Ménage",
+      "Accueil",
+      "Location saisonnière bord de mer"
+    ],
+    "note": 4.5,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie de location saisonnière sur la Côte Basque",
+    "fondateur": "",
+    "biensEstimes": 20
+  },
+  {
+    "nom": "Bordeaux Prestige Conciergerie",
+    "siteWeb": "",
+    "villes": [
+      "Bordeaux",
+      "Saint-Émilion"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion haut de gamme",
+      "Ménage",
+      "Accueil VIP",
+      "Dégustations vins"
+    ],
+    "note": 4.5,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie premium à Bordeaux et Saint-Émilion, expériences oenotouristiques",
+    "fondateur": "",
+    "biensEstimes": 15
+  },
+  {
+    "nom": "Lyon Sweet Home",
+    "siteWeb": "",
+    "villes": [
+      "Lyon"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Ménage",
+      "Accueil",
+      "Décoration"
+    ],
+    "note": 4.4,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie Airbnb à Lyon avec services de décoration et optimisation",
+    "fondateur": "",
+    "biensEstimes": 15
+  },
+  {
+    "nom": "Nice Premium Conciergerie",
+    "siteWeb": "",
+    "villes": [
+      "Nice",
+      "Villefranche-sur-Mer",
+      "Beaulieu-sur-Mer"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion haut de gamme",
+      "Ménage",
+      "Accueil VIP",
+      "Location villas luxe"
+    ],
+    "note": 4.6,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie premium pour villas et appartements de luxe à Nice et environs",
+    "fondateur": "",
+    "biensEstimes": 15
+  },
+  {
+    "nom": "Conciergerie de la Baie",
+    "siteWeb": "",
+    "villes": [
+      "La Rochelle",
+      "Île de Ré"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Ménage",
+      "Accueil",
+      "Location saisonnière balnéaire"
+    ],
+    "note": 4.5,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie de locations saisonnières à La Rochelle et sur l'Île de Ré",
+    "fondateur": "",
+    "biensEstimes": 20
+  },
+  {
+    "nom": "Montpellier Keys",
+    "siteWeb": "",
+    "villes": [
+      "Montpellier",
+      "Palavas-les-Flots"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Ménage",
+      "Accueil",
+      "Location saisonnière"
+    ],
+    "note": 4.4,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie Airbnb à Montpellier et plages environnantes",
+    "fondateur": "",
+    "biensEstimes": 15
+  },
+  {
+    "nom": "Alpes Home Conciergerie",
+    "siteWeb": "",
+    "villes": [
+      "Grenoble",
+      "Isère",
+      "Alpes"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Location montagne",
+      "Ménage",
+      "Accueil"
+    ],
+    "note": 4.4,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie Airbnb à Grenoble et stations alpines de l'Isère",
+    "fondateur": "",
+    "biensEstimes": 15
+  },
+  {
+    "nom": "Toulouse Home Services",
+    "siteWeb": "",
+    "villes": [
+      "Toulouse",
+      "Haute-Garonne"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Ménage",
+      "Accueil",
+      "Conciergerie locale"
+    ],
+    "note": 4.4,
+    "categorie": "conciergerie_locale",
+    "description": "Services de conciergerie Airbnb et gestion locative à Toulouse",
+    "fondateur": "",
+    "biensEstimes": 20
+  },
+  {
+    "nom": "Paris Luxury Estate",
+    "siteWeb": "https://parisluxuryestate.com/",
+    "villes": [
+      "Paris"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion haut de gamme",
+      "Conciergerie luxe",
+      "Accueil VIP",
+      "Ménage"
+    ],
+    "note": 4.6,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie Airbnb de luxe à Paris, appartements haut de gamme",
+    "fondateur": "",
+    "biensEstimes": 20
+  },
+  {
+    "nom": "Finance Héros Conciergerie",
+    "siteWeb": "https://finance-heros.fr/",
+    "villes": [
+      "France entière"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Comparatif tarifs",
+      "Guide conciergeries",
+      "Conseils investissement"
+    ],
+    "note": 4.2,
+    "categorie": "plateforme",
+    "description": "Plateforme de comparaison des tarifs de conciergeries Airbnb en France",
+    "fondateur": "",
+    "biensEstimes": 0
+  }
+]
