@@ -31,31 +31,34 @@ const allLots: LotsRecord = { ...(lotsV2 as LotsRecord), ...(lotsV1 as LotsRecor
 type FondateursRecord = Record<string, { fondateur: string; linkedin?: string | null }>;
 const allFondateurs = fondateursData as FondateursRecord;
 
+export function convertScrapedData(): Conciergerie[] {
+  return (scrapedData as ScrapedEntry[])
+    .filter((entry) => entry.categorie !== "plateforme")
+    .map((entry) => ({
+      id: crypto.randomUUID(),
+      nom: entry.nom,
+      responsable: allFondateurs[entry.nom]?.fondateur || entry.fondateur || "",
+      email: entry.email || "",
+      telephone: entry.telephone || "",
+      ville: entry.villes?.join(", ") || "",
+      biensEnGestion: allLots[entry.nom]?.lots || entry.biensEstimes || 0,
+      biensOccupes: 0,
+      revenuMensuel: 0,
+      tauxOccupation: 0,
+      note: entry.note || 0,
+      statut: "actif" as const,
+      dateCreation: new Date().toISOString().split("T")[0],
+      siteWeb: entry.siteWeb || "",
+      services: entry.services || [],
+      categorie: entry.categorie || "",
+      description: entry.description || "",
+      linkedin: allFondateurs[entry.nom]?.linkedin || undefined,
+    }));
+}
+
 export function LoadScrapedData({ onLoad }: LoadScrapedDataProps) {
   const handleLoad = () => {
-    const converted: Conciergerie[] = (scrapedData as ScrapedEntry[])
-      .filter((entry) => entry.categorie !== "plateforme")
-      .map((entry) => ({
-        id: crypto.randomUUID(),
-        nom: entry.nom,
-        responsable: allFondateurs[entry.nom]?.fondateur || entry.fondateur || "",
-        email: entry.email || "",
-        telephone: entry.telephone || "",
-        ville: entry.villes?.join(", ") || "",
-        biensEnGestion: allLots[entry.nom]?.lots || entry.biensEstimes || 0,
-        biensOccupes: 0,
-        revenuMensuel: 0,
-        tauxOccupation: 0,
-        note: entry.note || 0,
-        statut: "actif" as const,
-        dateCreation: new Date().toISOString().split("T")[0],
-        siteWeb: entry.siteWeb || "",
-        services: entry.services || [],
-        categorie: entry.categorie || "",
-        description: entry.description || "",
-        linkedin: allFondateurs[entry.nom]?.linkedin || undefined,
-      }));
-    onLoad(converted);
+    onLoad(convertScrapedData());
   };
 
   return (

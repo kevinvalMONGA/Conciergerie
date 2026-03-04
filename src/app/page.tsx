@@ -5,7 +5,7 @@ import { StatCard } from "@/components/StatCard";
 import { ConciergerieTable } from "@/components/ConciergerieTable";
 import { AddConciergerieModal } from "@/components/AddConciergerieModal";
 import { ExcelImport } from "@/components/ExcelImport";
-import { LoadScrapedData } from "@/components/LoadScrapedData";
+import { LoadScrapedData, convertScrapedData } from "@/components/LoadScrapedData";
 import { Conciergerie } from "@/types";
 
 const STORAGE_KEY = "conciergeries-data";
@@ -19,6 +19,8 @@ export default function DashboardPage() {
     const saved = localStorage.getItem(STORAGE_KEY);
     if (saved) {
       setData(JSON.parse(saved));
+    } else {
+      setData(convertScrapedData());
     }
     setLoaded(true);
   }, []);
