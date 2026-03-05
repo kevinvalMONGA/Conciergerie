@@ -1,0 +1,715 @@
+[
+  {
+    "nom": "Agence CVR",
+    "siteWeb": "https://agencecvr.com/",
+    "villes": [
+      "Méribel",
+      "Val d'Isère",
+      "Courchevel"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Tarification dynamique",
+      "Diffusion multi-plateformes",
+      "Ménage",
+      "Check-in/Check-out",
+      "Conseil fiscal"
+    ],
+    "note": 4.8,
+    "categorie": "conciergerie_regionale",
+    "description": "Agence immobilière spécialisée dans la gestion de chalets et appartements à Méribel et Val d'Isère, plus de 150 biens gérés avec commission de 25% TTC",
+    "fondateur": "",
+    "biensEstimes": 220,
+    "commission": "25%"
+  },
+  {
+    "nom": "White House Concierge",
+    "siteWeb": "https://white-house-concierge.com/",
+    "villes": [
+      "Val Thorens",
+      "Les Menuires",
+      "Méribel"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Création d'annonces",
+      "Communication voyageurs",
+      "Ménage",
+      "Maintenance"
+    ],
+    "note": 4.6,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie spécialisée dans la gestion locative saisonnière dans les 3 Vallées, création et diffusion d'annonces Airbnb",
+    "fondateur": "",
+    "biensEstimes": 45,
+    "commission": "22%"
+  },
+  {
+    "nom": "Emerald Stay",
+    "siteWeb": "https://emeraldstay.com/",
+    "villes": [
+      "Morzine",
+      "Méribel",
+      "Courchevel",
+      "Tignes",
+      "Verbier"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Conciergerie haut de gamme",
+      "Chef à domicile",
+      "Ménage",
+      "Check-in/Check-out",
+      "Assistance 7j/7"
+    ],
+    "note": 4.8,
+    "categorie": "conciergerie_regionale",
+    "description": "Service de conciergerie innovant pour propriétés saisonnières haut de gamme dans les Alpes, équipe disponible 7j/7",
+    "fondateur": "",
+    "biensEstimes": 180,
+    "commission": "25%"
+  },
+  {
+    "nom": "Conciergerie Léman",
+    "siteWeb": "https://conciergerie-leman.fr/",
+    "villes": [
+      "Les Gets",
+      "Morzine"
+    ],
+    "telephone": "07 56 80 19 12",
+    "email": "contact@conciergerie-leman.fr",
+    "services": [
+      "Gestion complète",
+      "Création d'annonces",
+      "Communication voyageurs",
+      "Check-in/Check-out",
+      "Ménage"
+    ],
+    "note": 4.7,
+    "categorie": "conciergerie_locale",
+    "description": "Expert en gestion de locations Airbnb aux Gets et Morzine, prise en charge complète de la création d'annonce à la coordination des arrivées/départs",
+    "fondateur": "",
+    "biensEstimes": 35,
+    "commission": "20%"
+  },
+  {
+    "nom": "Alpes Conciergerie",
+    "siteWeb": "https://alpesconciergerie.com/",
+    "villes": [
+      "Morzine",
+      "Avoriaz",
+      "Montriond"
+    ],
+    "telephone": "06 60 84 01 99",
+    "email": "alpesconciergerie@gmail.com",
+    "services": [
+      "Gestion complète",
+      "Location de linge",
+      "Transferts aéroport",
+      "Réservation forfaits ski",
+      "Chef à domicile",
+      "Gardiennage"
+    ],
+    "note": 4.7,
+    "categorie": "conciergerie_locale",
+    "description": "Service de conciergerie privée sur-mesure à Morzine et environs, fondé par Nathalie et Ludovic, location de linge et équipements bébé",
+    "fondateur": "Nathalie et Ludovic",
+    "biensEstimes": 50,
+    "commission": "20%"
+  },
+  {
+    "nom": "Blanc Séjour Immobilier",
+    "siteWeb": "https://blancsejour.com/",
+    "villes": [
+      "Les Arcs",
+      "Bourg-Saint-Maurice"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Ménage",
+      "Linge",
+      "Check-in/Check-out",
+      "Tarification dynamique",
+      "Maintenance"
+    ],
+    "note": 4.8,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie en partenariat avec HostnFly à Bourg-Saint-Maurice Les Arcs, satisfaction voyageurs supérieure à 4.8/5",
+    "fondateur": "",
+    "biensEstimes": 60,
+    "commission": "20%"
+  },
+  {
+    "nom": "Mont-Keys",
+    "siteWeb": "https://mont-keys.fr/",
+    "villes": [
+      "Les Arcs",
+      "Bourg-Saint-Maurice"
+    ],
+    "telephone": "07 69 54 96 96",
+    "email": "contact@mont-keys.fr",
+    "services": [
+      "Gestion complète",
+      "Services premium",
+      "Ménage",
+      "Linge",
+      "Check-in/Check-out",
+      "Maintenance"
+    ],
+    "note": 4.7,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie premium aux Arcs et Bourg-Saint-Maurice, services haut de gamme pour propriétaires de résidences de montagne",
+    "fondateur": "",
+    "biensEstimes": 40,
+    "commission": "22%"
+  },
+  {
+    "nom": "La Conciergerie des Alpes",
+    "siteWeb": "https://laconciergeriedesalpes.com/",
+    "villes": [
+      "Val d'Isère",
+      "Tignes",
+      "Les Arcs"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Ménage",
+      "Remise de clés",
+      "Location de linge",
+      "Rénovation",
+      "Livraison de repas"
+    ],
+    "note": 4.7,
+    "categorie": "conciergerie_regionale",
+    "description": "Conciergerie fondée par un ancien directeur marketing de la station de Tignes, 25 ans d'expérience en montagne et tourisme",
+    "fondateur": "Johan",
+    "biensEstimes": 80,
+    "commission": "20%"
+  },
+  {
+    "nom": "Atlantic Selection",
+    "siteWeb": "https://atlanticselection.com/",
+    "villes": [
+      "Hossegor",
+      "Capbreton",
+      "Seignosse"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Revenue management",
+      "Ménage professionnel",
+      "Linge hôtelier",
+      "Communication clients",
+      "Photos professionnelles"
+    ],
+    "note": 4.8,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie spécialisée dans la gestion locative saisonnière à Hossegor et Capbreton, fondée par un spécialiste revenue management ayant triplé les revenus d'un studio à 33 000€/an",
+    "fondateur": "Mathieu Quiros et Clément Delpouve",
+    "biensEstimes": 55,
+    "commission": "20%"
+  },
+  {
+    "nom": "La Conciergerie Hossegor",
+    "siteWeb": "https://www.hossegorlaconciergerie.com/",
+    "villes": [
+      "Hossegor",
+      "Soorts-Hossegor"
+    ],
+    "telephone": "+33 7 72 04 92 01",
+    "email": "hossegor.laconciergerie@gmail.com",
+    "services": [
+      "Gestion complète",
+      "Location saisonnière de villas",
+      "Ménage",
+      "Check-in/Check-out",
+      "Maintenance"
+    ],
+    "note": 4.6,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie dédiée à la gestion et location saisonnière de villas haut de gamme à Hossegor",
+    "fondateur": "Nina Roma",
+    "biensEstimes": 30,
+    "commission": "20%"
+  },
+  {
+    "nom": "Exya Conciergerie",
+    "siteWeb": "https://exya-conciergerie.com/",
+    "villes": [
+      "Hossegor",
+      "Capbreton",
+      "Seignosse"
+    ],
+    "telephone": "07 66 11 13 59",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Gestion locative",
+      "Ménages réguliers",
+      "Ménage fin de séjour",
+      "Linge",
+      "Maintenance"
+    ],
+    "note": 4.7,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie privée fondée en 2019 par deux sœurs entrepreneures à Hossegor, gestion locative et ménages pour propriétaires",
+    "fondateur": "Sophie et Audrey Audibert",
+    "biensEstimes": 45,
+    "commission": "18%"
+  },
+  {
+    "nom": "Je M'en Charge",
+    "siteWeb": "https://www.jemencharge.fr/",
+    "villes": [
+      "Lacanau",
+      "Lège-Cap-Ferret"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Conciergerie de luxe",
+      "Accueil vacanciers",
+      "Gestion réservations",
+      "Remise de clés",
+      "Services à domicile"
+    ],
+    "note": 4.6,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie privée à Lacanau et Cap Ferret, gestion de résidences secondaires et locations saisonnières",
+    "fondateur": "Julien Trappe",
+    "biensEstimes": 40,
+    "commission": "20%"
+  },
+  {
+    "nom": "La Conciergerie Pays Basque",
+    "siteWeb": "https://www.laconciergeriedupaysbasque.com/",
+    "villes": [
+      "Saint-Jean-de-Luz",
+      "Biarritz",
+      "Bayonne"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Création d'annonces",
+      "Communication voyageurs",
+      "Préparation logement",
+      "Check-in/Check-out",
+      "Ménage"
+    ],
+    "note": 4.7,
+    "categorie": "conciergerie_regionale",
+    "description": "Conciergerie spécialisée Côte Basque avec deux formules à 16% et 20% de commission, de la création d'annonce à l'accueil des voyageurs",
+    "fondateur": "",
+    "biensEstimes": 65,
+    "commission": "16-20%"
+  },
+  {
+    "nom": "Welcome Services 83",
+    "siteWeb": "https://www.welcome-services83.fr/",
+    "villes": [
+      "Bandol",
+      "Six-Fours-les-Plages",
+      "Sanary-sur-Mer",
+      "La Cadière-d'Azur"
+    ],
+    "telephone": "06 64 29 55 46",
+    "email": "contact@welcome-services83.fr",
+    "services": [
+      "Gestion complète",
+      "Accueil voyageurs",
+      "Ménage professionnel",
+      "Linge",
+      "Entretien extérieur",
+      "Assistance 24h/24"
+    ],
+    "note": 4.6,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie complète pour locations saisonnières entre Bandol, Sanary et Six-Fours, optimisation des revenus et gestion multi-plateformes",
+    "fondateur": "",
+    "biensEstimes": 35,
+    "commission": "20%"
+  },
+  {
+    "nom": "La Clé Bandolaise",
+    "siteWeb": "https://www.laclebandolaise.com/",
+    "villes": [
+      "Bandol"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Location saisonnière",
+      "Ménage",
+      "Check-in/Check-out",
+      "Linge"
+    ],
+    "note": 4.7,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie locale dédiée exclusivement à Bandol, gestion de studios, T2 et T3 en location saisonnière Airbnb",
+    "fondateur": "",
+    "biensEstimes": 25,
+    "commission": "20%"
+  },
+  {
+    "nom": "Moya Conciergerie",
+    "siteWeb": "https://moyaconciergerie.com/",
+    "villes": [
+      "Sanary-sur-Mer",
+      "Six-Fours-les-Plages",
+      "Bandol",
+      "La Seyne-sur-Mer"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Location saisonnière",
+      "Ménage",
+      "Linge",
+      "Accueil voyageurs"
+    ],
+    "note": 4.6,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie fondée en 2023 par Julie Moya, gestion locative saisonnière à Sanary, Bandol et Six-Fours",
+    "fondateur": "Julie Moya",
+    "biensEstimes": 20,
+    "commission": "18%"
+  },
+  {
+    "nom": "La Conciergerie Pornicaise",
+    "siteWeb": "https://laconciergeriepornicaise.fr/",
+    "villes": [
+      "Pornic"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Location saisonnière",
+      "Ménage",
+      "Accueil voyageurs",
+      "Gardiennage"
+    ],
+    "note": 4.5,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie locale à Pornic fondée en 2019, services pour propriétaires de résidences secondaires et plaisanciers",
+    "fondateur": "Bastien",
+    "biensEstimes": 20,
+    "commission": null
+  },
+  {
+    "nom": "La Conciergerie de Sandra",
+    "siteWeb": "https://conciergeriedesandra.com/",
+    "villes": [
+      "Pornic",
+      "Les Moutiers-en-Retz",
+      "La Bernerie-en-Retz"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Location saisonnière Airbnb",
+      "Ménage",
+      "Accueil voyageurs",
+      "Check-in/Check-out"
+    ],
+    "note": 4.6,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie Airbnb locale dédiée aux locations courte durée sur la côte de Jade, bord de mer et zones rurales",
+    "fondateur": "Sandra Poisson",
+    "biensEstimes": 25,
+    "commission": "18%"
+  },
+  {
+    "nom": "La Conciergerie de Retz",
+    "siteWeb": "https://www.laconciergeriederetz.fr/",
+    "villes": [
+      "Pornic",
+      "Pays de Retz"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Location saisonnière",
+      "Ménage",
+      "Accueil",
+      "Maintenance"
+    ],
+    "note": 4.5,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie personnalisée pour locations saisonnières dans le Pays de Retz depuis 2019",
+    "fondateur": "",
+    "biensEstimes": 15,
+    "commission": null
+  },
+  {
+    "nom": "2Keys Immobilier",
+    "siteWeb": "https://2keys.fr/",
+    "villes": [
+      "Angers"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Gestion locative",
+      "Conciergerie courte durée",
+      "Stratégie patrimoniale",
+      "Ménage",
+      "Check-in/Check-out"
+    ],
+    "note": 4.7,
+    "categorie": "conciergerie_locale",
+    "description": "Agence immobilière indépendante à Angers proposant gestion locative, conciergerie courte durée et stratégies adaptées à chaque bien",
+    "fondateur": "",
+    "biensEstimes": 40,
+    "commission": "20%"
+  },
+  {
+    "nom": "Angers Conciergerie Services",
+    "siteWeb": "https://angersconciergerieservices.fr/",
+    "villes": [
+      "Angers"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Accueil voyageurs",
+      "Ménage",
+      "Communication rapide",
+      "Optimisation revenus"
+    ],
+    "note": 4.6,
+    "categorie": "conciergerie_locale",
+    "description": "Service de conciergerie Airbnb à Angers spécialisé dans l'accueil voyageurs et la maximisation des revenus locatifs",
+    "fondateur": "",
+    "biensEstimes": 30,
+    "commission": "18%"
+  },
+  {
+    "nom": "LocalEasy",
+    "siteWeb": "https://localeasy.fr/",
+    "villes": [
+      "Angers"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Location courte durée",
+      "Ménage",
+      "Linge",
+      "Check-in/Check-out",
+      "Optimisation annonces"
+    ],
+    "note": 4.5,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie Airbnb à Angers, gestion complète de biens en location courte durée avec devis gratuit",
+    "fondateur": "",
+    "biensEstimes": 25,
+    "commission": "20%"
+  },
+  {
+    "nom": "La Conciergerie des Sacres",
+    "siteWeb": "https://conciergerie-des-sacres.fr/",
+    "villes": [
+      "Reims"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Conciergerie BnB",
+      "Ménage",
+      "Accueil voyageurs",
+      "Optimisation revenus"
+    ],
+    "note": 4.7,
+    "categorie": "conciergerie_locale",
+    "description": "SAS de conciergerie BnB à Reims, équipe réactive dirigée par Emmanuel Padiou et Maximilien Herblot",
+    "fondateur": "Emmanuel Padiou et Maximilien Herblot",
+    "biensEstimes": 45,
+    "commission": "20%"
+  },
+  {
+    "nom": "La Conciergerie des Puys",
+    "siteWeb": "https://www.laconciergeriedespuys.fr/",
+    "villes": [
+      "Clermont-Ferrand"
+    ],
+    "telephone": "07 57 84 84 24",
+    "email": "info@laconciergeriedespuys.fr",
+    "services": [
+      "Gestion complète",
+      "Ménage",
+      "Check-in/Check-out",
+      "Linge",
+      "Maintenance"
+    ],
+    "note": 4.6,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie familiale à Clermont-Ferrand, objectif de satisfaire les voyageurs tout en défendant les intérêts des propriétaires",
+    "fondateur": "",
+    "biensEstimes": 30,
+    "commission": "20%"
+  },
+  {
+    "nom": "La Conciergerie des Volcans",
+    "siteWeb": "https://www.lcd-volcans.fr/",
+    "villes": [
+      "Clermont-Ferrand"
+    ],
+    "telephone": "06 800 311 35",
+    "email": "contact@lcd-volcans.fr",
+    "services": [
+      "Gestion complète",
+      "Conciergerie Airbnb",
+      "Conciergerie Booking",
+      "Ménage",
+      "Check-in/Check-out"
+    ],
+    "note": 4.6,
+    "categorie": "conciergerie_locale",
+    "description": "Gestion clé en main de meublés en location courte durée à Clermont-Ferrand, service professionnel pour particuliers",
+    "fondateur": "",
+    "biensEstimes": 25,
+    "commission": "20%"
+  },
+  {
+    "nom": "La Conciergerie Paloise",
+    "siteWeb": "https://laconciergeriepaloise.com/",
+    "villes": [
+      "Pau"
+    ],
+    "telephone": "+33 6 60 09 81 14",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Location courte durée",
+      "Ménage",
+      "Check-in/Check-out",
+      "Optimisation revenus"
+    ],
+    "note": 4.6,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie Airbnb premium à Pau, commission de 20% sur revenus locatifs, taux d'occupation +50% grâce à un suivi personnalisé",
+    "fondateur": "",
+    "biensEstimes": 35,
+    "commission": "20%"
+  },
+  {
+    "nom": "Viva Conciergerie",
+    "siteWeb": "https://vivaconciergerie.com/",
+    "villes": [
+      "Perpignan"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Location courte durée",
+      "Ménage",
+      "Check-in/Check-out",
+      "Optimisation annonces"
+    ],
+    "note": 4.6,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie Airbnb à Perpignan, un T2 dans les Pyrénées-Orientales peut générer jusqu'à 3 250€/mois de revenus",
+    "fondateur": "",
+    "biensEstimes": 30,
+    "commission": "20%"
+  },
+  {
+    "nom": "Guesty Home",
+    "siteWeb": "https://www.guestyhome.com/",
+    "villes": [
+      "Perpignan",
+      "Canet-en-Roussillon"
+    ],
+    "telephone": "07 68 90 05 92",
+    "email": "degeorge.sophie@gmail.com",
+    "services": [
+      "Gestion complète",
+      "Location saisonnière",
+      "Séjours touristiques",
+      "Ménage",
+      "Check-in/Check-out",
+      "Gestion villas et bateaux"
+    ],
+    "note": 4.6,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie active depuis 2018 à Perpignan et Canet-en-Roussillon, gestion de villas, appartements et bateaux en location courte durée",
+    "fondateur": "Sophie Degeorge",
+    "biensEstimes": 35,
+    "commission": "20%"
+  },
+  {
+    "nom": "BNB Conciergerie Tahiti",
+    "siteWeb": "https://www.bnbconciergerietahiti.com/",
+    "villes": [
+      "Papeete",
+      "Arue",
+      "Mahina",
+      "Punaauia",
+      "Paea",
+      "Papara"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Remise de clés",
+      "Ménage",
+      "Linge",
+      "Assistance technique",
+      "Conciergerie voyageurs 7j/7"
+    ],
+    "note": 4.7,
+    "categorie": "conciergerie_regionale",
+    "description": "Première conciergerie de location saisonnière à Tahiti créée en 2018, présente sur toute l'île et jusqu'aux Marquises, commission de 20% TTC",
+    "fondateur": "Martine, Michaël, Diane et Rudy",
+    "biensEstimes": 60,
+    "commission": "20%"
+  },
+  {
+    "nom": "My Room Conciergerie",
+    "siteWeb": "https://www.myroomconciergerie.nc/",
+    "villes": [
+      "Nouméa"
+    ],
+    "telephone": "",
+    "email": "",
+    "services": [
+      "Gestion complète",
+      "Location Airbnb",
+      "Ménage",
+      "Logistique voyageurs",
+      "Check-in/Check-out"
+    ],
+    "note": 4.5,
+    "categorie": "conciergerie_locale",
+    "description": "Conciergerie Airbnb à Nouméa créée en 2022, partenaire pour la gestion locative en Nouvelle-Calédonie, supervision logistique complète",
+    "fondateur": "",
+    "biensEstimes": 20,
+    "commission": null
+  }
+]

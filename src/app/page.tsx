@@ -9,7 +9,7 @@ import { LoadScrapedData, convertScrapedData } from "@/components/LoadScrapedDat
 import { Conciergerie } from "@/types";
 
 const STORAGE_KEY = "conciergeries-data";
-const DATA_VERSION = "v3";
+const DATA_VERSION = "v4";
 const VERSION_KEY = "conciergeries-version";
 
 export default function DashboardPage() {
