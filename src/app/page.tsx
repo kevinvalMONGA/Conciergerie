@@ -9,6 +9,8 @@ import { LoadScrapedData, convertScrapedData } from "@/components/LoadScrapedDat
 import { Conciergerie } from "@/types";
 
 const STORAGE_KEY = "conciergeries-data";
+const DATA_VERSION = "v3";
+const VERSION_KEY = "conciergeries-version";
 
 export default function DashboardPage() {
   const [data, setData] = useState<Conciergerie[]>([]);
@@ -16,12 +18,18 @@ export default function DashboardPage() {
   const [loaded, setLoaded] = useState(false);
 
   useEffect(() => {
-    const saved = localStorage.getItem(STORAGE_KEY);
-    if (saved) {
-      setData(JSON.parse(saved));
-    } else {
-      setData(convertScrapedData());
+    const savedVersion = localStorage.getItem(VERSION_KEY);
+    if (savedVersion === DATA_VERSION) {
+      const saved = localStorage.getItem(STORAGE_KEY);
+      if (saved) {
+        setData(JSON.parse(saved));
+        setLoaded(true);
+        return;
+      }
     }
+    const fresh = convertScrapedData();
+    setData(fresh);
+    localStorage.setItem(VERSION_KEY, DATA_VERSION);
     setLoaded(true);
   }, []);
 
