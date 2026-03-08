@@ -75,3 +75,12 @@ Quand on fait des appels API Claude (directement ou via LiteLLM):
 - **Ordre dans le prompt**: tools → system (cache ici) → messages
 - Ne PAS cacher le contenu qui change a chaque requete
 - Verifier `cache_read_input_tokens` dans les reponses pour confirmer les hits
+
+
+## PROJECT_STATUS.md — Mise a jour automatique
+A CHAQUE debut et fin de session de travail sur ce projet:
+1. Lire `PROJECT_STATUS.md` a la racine du projet
+2. Mettre a jour la section "Historique des Sessions" avec la date et un resume concis du travail effectue
+3. Mettre a jour "Prochaines Etapes" si pertinent
+4. Mettre a jour "Dernier commit" et le nombre de fichiers si ca a change
+5. Commit + push le fichier mis a jour avec le reste des changements
