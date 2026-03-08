@@ -84,3 +84,11 @@ A CHAQUE debut et fin de session de travail sur ce projet:
 3. Mettre a jour "Prochaines Etapes" si pertinent
 4. Mettre a jour "Dernier commit" et le nombre de fichiers si ca a change
 5. Commit + push le fichier mis a jour avec le reste des changements
+
+## .claude/RECAP.md — Suivi fait/pas fait
+A CHAQUE session:
+1. Lire `.claude/RECAP.md` pour savoir ou on en est (fait/pas fait)
+2. Apres chaque tache terminee, cocher la case correspondante (- [x])
+3. Ajouter de nouvelles taches si decouvertes en cours de session
+4. Mettre a jour le pourcentage d avancement global
+5. Inclure dans le commit+push
