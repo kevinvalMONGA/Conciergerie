@@ -1,0 +1,1793 @@
+[
+  {
+    "nom": "All In Lyon",
+    "siteWeb": "https://www.allinlyon.com",
+    "villes": [
+      "Lyon"
+    ],
+    "fondateur": "Gautier",
+    "titre": "Fondateur & CEO",
+    "linkedin_ceo": "https://www.linkedin.com/in/gautier-giraud-b64424a0/",
+    "cofondateurs": [],
+    "email_ceo": null,
+    "email_contact": "contact@allinlyon.com",
+    "email_confidence": "aucun",
+    "telephone": "+33 9 50 58 32 81",
+    "adresse": "25 bis Quai Romain Rolland, 69005 Lyon",
+    "siret": "82072333600021",
+    "forme_juridique": "SAS",
+    "linkedin_societe": null,
+    "instagram": "https://www.instagram.com/_allinlyon/",
+    "facebook": null,
+    "note_existante": "Prenom uniquement identifie, creee en 2016",
+    "sources": [
+      "https://www.allinlyon.com",
+      "https://www.allinlyon.com/l-equipe",
+      "https://www.allinlyon.com/contactez-nous",
+      "https://www.societe.com/etablissement/all-in-lyon-82072333600021.html",
+      "https://www.linkedin.com/in/gautier-giraud-b64424a0/",
+      "https://www.lyonplus.com/tendances/2016/08/29/all-in-lyon-un-service-de-conciergerie-pour-les-logements-de-courte-duree"
+    ],
+    "enriched_at": "2026-05-11",
+    "note": "Cogerant Maxime aussi mentionne. Activite NAF 9609Z (conciergerie + bagagerie). Capital 2000 EUR. Cree 03/06/2016, president Gautier Giraud depuis 04/11/2017."
+  },
+  {
+    "nom": "Aurora Conciergerie",
+    "siteWeb": "https://www.auroraconciergerie.com",
+    "villes": [
+      "Paris"
+    ],
+    "fondateur": "Eden Stamm",
+    "titre": "Co-fondatrice",
+    "linkedin_ceo": "https://www.linkedin.com/in/edenstamm/",
+    "cofondateurs": [
+      "Guillaume Meunier"
+    ],
+    "email_ceo": null,
+    "email_contact": "contact@auroraconciergerie.com",
+    "email_confidence": "aucun",
+    "telephone": "+33 7 75 77 21 76",
+    "adresse": "29 rue de la Ferronnerie, 75001 Paris",
+    "siret": "92506797700015",
+    "forme_juridique": "SAS",
+    "linkedin_societe": "https://www.linkedin.com/company/aurora-conciergerie/",
+    "instagram": "https://www.instagram.com/aurora.groupe/",
+    "facebook": "https://www.facebook.com/AuroraConciergerie",
+    "note_existante": "Creee en 2024, Eden Stamm (ESSCA) et Guillaume Meunier (EDHEC)",
+    "sources": [
+      "https://www.auroraconciergerie.com",
+      "https://www.auroraconciergerie.com/contact",
+      "https://www.auroraconciergerie.com/agence",
+      "https://www.societe.com/societe/aurora-conciergerie-925067977.html",
+      "https://www.pappers.fr/entreprise/aurora-conciergerie-925067977",
+      "https://www.linkedin.com/in/edenstamm/"
+    ],
+    "enriched_at": "2026-05-11",
+    "note": "Capital 1000 EUR. Cree 28/03/2024. RCS Paris 925 067 977. Guillaume Meunier (EDHEC) maintenant President. Eden Stamm (ESSCA) initial president."
+  },
+  {
+    "nom": "BnB Facile",
+    "siteWeb": "",
+    "villes": [
+      "Toulouse"
+    ],
+    "fondateur": "Fanny et Gregoire",
+    "titre": "Co-fondateurs",
+    "linkedin_ceo": "https://fr.linkedin.com/in/gr%C3%A9goire-donaint-76068b44",
+    "cofondateurs": [],
+    "email_ceo": null,
+    "email_contact": null,
+    "email_confidence": "aucun",
+    "telephone": null,
+    "adresse": "23 rue des Olivettes, 44000 Nantes",
+    "siret": "82959142900024",
+    "forme_juridique": "SARL",
+    "linkedin_societe": null,
+    "instagram": "https://www.instagram.com/bnbfacile/",
+    "facebook": "https://fr-fr.facebook.com/bnbfacile/",
+    "note_existante": "Fondee fin 2015 a Nantes, conciergerie eco-responsable",
+    "sources": [
+      "https://www.societe.com/societe/bnbfacile-829591429.html",
+      "https://bnbfacile.fr/a-propos/",
+      "https://www.tendancehotellerie.fr/articles-breves/communique-de-presse/6761-article/bnb-facile-un-nouveau-service-d-aide-a-la-location-saisonniere-sur-nantes",
+      "https://fr.linkedin.com/in/gr%C3%A9goire-donaint-76068b44"
+    ],
+    "enriched_at": "2026-05-11",
+    "note": "ATTENTION : entreprise en liquidation judiciaire (debutee 19/10/2022, cloturee 18/10/2024). Site bnbfacile.fr inaccessible (ECONNREFUSED). Activite probablement cessee. Toulouse mentionne dans la donnee batch est probablement une erreur — entreprise basee a Nantes."
+  },
+  {
+    "nom": "BnB Groom Services",
+    "siteWeb": "https://www.bnbgroomservices.com",
+    "villes": [
+      "Nice",
+      "Cannes",
+      "Côte d'Azur"
+    ],
+    "fondateur": "Julien",
+    "titre": "CEO",
+    "linkedin_ceo": "",
+    "cofondateurs": [],
+    "email_ceo": null,
+    "email_contact": "contact@bnbgroomservices.com",
+    "email_confidence": "aucun",
+    "telephone": "+33 6 19 21 51 61",
+    "adresse": "2 Avenue Saint-Jean-Baptiste, 06000 Nice",
+    "siret": "82080895400029",
+    "forme_juridique": "SAS (Societe par Actions Simplifiee a Associe Unique)",
+    "linkedin_societe": null,
+    "instagram": "https://www.instagram.com/bnbgroomservices/",
+    "facebook": "https://www.facebook.com/bnbgroomservices/",
+    "note_existante": "Prenom uniquement identifie, etabli sur la Cote d'Azur depuis 2014",
+    "sources": [
+      "https://www.bnbgroomservices.com",
+      "https://www.bnbgroomservices.com/mentions-legales",
+      "https://www.societe.com/societe/bnb-groom-services-820808954.html",
+      "https://www.pappers.fr/entreprise/bnb-groom-services-820808954"
+    ],
+    "enriched_at": "2026-05-11",
+    "note": "RCS Nice 820 808 954. President Julien Bridoux depuis 09/06/2016. TVA FR06820808954. Capital 1500 EUR. CA 2024: 519 626 EUR."
+  },
+  {
+    "nom": "BnbLord",
+    "siteWeb": "https://www.bnblord.com",
+    "villes": [
+      "Paris",
+      "Lyon",
+      "Bordeaux",
+      "Marseille",
+      "Toulouse",
+      "Nice"
+    ],
+    "fondateur": "Jacques Lavie",
+    "titre": "Co-fondateur & CEO",
+    "linkedin_ceo": "",
+    "cofondateurs": [
+      "Leo Bonnet"
+    ],
+    "email_ceo": null,
+    "email_contact": null,
+    "email_confidence": "aucun",
+    "telephone": "+33 1 79 75 70 40",
+    "adresse": null,
+    "siret": "81180468100047",
+    "forme_juridique": "SAS",
+    "linkedin_societe": null,
+    "instagram": "https://www.instagram.com/bnblord",
+    "facebook": "https://www.facebook.com/bnblord",
+    "note_existante": "Rachete par GuestReady en 2019",
+    "sources": [
+      "https://www.bnblord.com",
+      "https://www.societe.com/societe/bnblord-811804681.html",
+      "https://fr.wikipedia.org/wiki/BnbLord",
+      "https://www.maddyness.com/2019/12/15/maddyrex-pourquoi-vendre-startup-en-croissance/"
+    ],
+    "enriched_at": "2026-05-11",
+    "note": "ATTENTION : BnbLord rachete par GuestReady (Suisse) en 2019. Nom legal change en GUESTREADY FRANCE depuis 27/01/2021. Dirigeant actuel : GUESTREADY AG (Suisse), represente par Raphael Florent Alexandre Oren. Jacques Lavie n'est plus aux commandes — il a vendu la societe. Pour prospection : contacter via le contact GuestReady ou directement Jacques Lavie sur ses nouveaux projets."
+  },
+  {
+    "nom": "BnbSitter",
+    "siteWeb": "https://www.bnbsitter.com",
+    "villes": [
+      "Paris"
+    ],
+    "fondateur": "Piero Cipriano",
+    "titre": "Co-fondateur & CEO",
+    "linkedin_ceo": "",
+    "cofondateurs": [
+      "Biagio Tumino"
+    ],
+    "email_ceo": null,
+    "email_contact": null,
+    "email_confidence": "aucun",
+    "telephone": "+33 1 88 24 88 88",
+    "adresse": "46/48 Rue Rene Clair, 75018 Paris (siege historique)",
+    "siret": "79424136400031",
+    "forme_juridique": "SAS",
+    "linkedin_societe": "https://www.linkedin.com/company/bnbsitter",
+    "instagram": null,
+    "facebook": "https://fr-fr.facebook.com/bnbsitter/",
+    "note_existante": "Activites reprises par CheckMyGuest apres fermeture",
+    "sources": [
+      "https://fr.bnbsitter.com/",
+      "https://www.societe.com/societe/bnbsitter-794241364.html",
+      "https://www.frenchweb.fr/proptech-checkmyguest-reprend-les-activites-de-bnbsitter-a-la-suite-de-sa-fermeture/389436",
+      "https://www.crunchbase.com/person/piero-cipriano"
+    ],
+    "enriched_at": "2026-05-11",
+    "note": "ATTENTION : BnbSitter ferme en 2020. Activites reprises par CheckMyGuest (K&J Consulting). Cloture pour insuffisance d'actif prononcee 15/05/2024. Piero Cipriano est devenu Chief UX and Marketing Officer chez Checkmyguest. Le site fr.bnbsitter.com est juste une marque/redirection. Pour prospection : passer par CheckMyGuest directement, ou contacter Piero Cipriano via LinkedIn."
+  },
+  {
+    "nom": "Butler",
+    "siteWeb": "https://www.butler-paris.com",
+    "villes": [
+      "Paris",
+      "Ile-de-France"
+    ],
+    "fondateur": "Idrissa Nimaga",
+    "titre": "Fondateur & Dirigeant",
+    "linkedin_ceo": "https://www.linkedin.com/in/idrissa-nimaga-7a2954136/",
+    "cofondateurs": [],
+    "email_ceo": null,
+    "email_contact": null,
+    "email_confidence": "aucun",
+    "telephone": null,
+    "adresse": "Elancourt (region IDF) — adresse precise non publique",
+    "siret": null,
+    "forme_juridique": null,
+    "linkedin_societe": null,
+    "instagram": null,
+    "facebook": null,
+    "note_existante": "",
+    "sources": [
+      "https://www.linkedin.com/in/idrissa-nimaga-7a2954136/",
+      "https://www.societe.com/societe/the-butler-823659289.html",
+      "https://www.pappers.fr/entreprise/butler-931576615",
+      "https://www.agence-butler.com/",
+      "https://www.agence-butler.com/agence"
+    ],
+    "enriched_at": "2026-05-11",
+    "note": "AVERTISSEMENT IMPORTANT : Le site butler-paris.com fourni dans la donnee batch est INACCESSIBLE (ECONNREFUSED / DNS error). Idrissa Nimaga est associe selon LinkedIn a 'butler conciergerie' a Elancourt avec le site butlerconciergerie.fr (egalement inaccessible). Il EXISTE 3 entites Butler differentes : (1) THE BUTLER SAS, SIRET 82365928900016, 239 Rue Saint-Martin 75003 Paris, president Michael Hauser ; (2) BUTLER SAS / Agence Butler (agence-butler.com), SIRET 931576615, 58 rue de Monceau 75008 Paris, dirigee par Lucas Malguy (president), Louis Carrel-Billiard (DG), Antoine Royon (ex-president) — emails aroyon@/lmalguy@/lcarrel-billiard@agence-butler.com, contact@agence-butler.com, tel +33 1 84 80 12 77 ; (3) l'entite d'Idrissa Nimaga, dont la presence en ligne semble eteinte. A VERIFIER avec le client si la cible visee est vraiment l'entite Idrissa Nimaga ou l'une des autres."
+  },
+  {
+    "nom": "Chamonix All Year",
+    "siteWeb": "https://www.chamonixallyear.com",
+    "villes": [
+      "Chamonix",
+      "Vallée de Chamonix"
+    ],
+    "fondateur": "Joanne Elizabeth Saw",
+    "titre": "Fondatrice & Gerante",
+    "linkedin_ceo": "",
+    "cofondateurs": [],
+    "email_ceo": null,
+    "email_contact": "info@chamonixallyear.com",
+    "email_confidence": "aucun",
+    "telephone": null,
+    "adresse": null,
+    "siret": "52414684200033",
+    "forme_juridique": "SAS (anciennement SARL a associe unique, transformee 28/12/2023)",
+    "linkedin_societe": null,
+    "instagram": "https://instagram.com/chamonixallyear/",
+    "facebook": "https://www.facebook.com/chamonixallyear",
+    "note_existante": "Accueille des visiteurs dans la vallee de Chamonix depuis 2003",
+    "sources": [
+      "https://www.chamonixallyear.com",
+      "https://chamonixallyear.com/about-us/chamonix-all-year-details/contact-details/",
+      "https://www.societe.com/societe/chamonix-all-year-524146842.html",
+      "https://www.verif.com/societe/CHAMONIX-ALL-YEAR-524146842"
+    ],
+    "enriched_at": "2026-05-11",
+    "note": "Capital 1000 EUR. Cree en juin 2010. Joanne Rollason president. Mari Nick Saw implique aussi."
+  },
+  {
+    "nom": "CheckMyGuest",
+    "siteWeb": "https://www.checkmyguest.fr",
+    "villes": [
+      "Paris",
+      "Lyon",
+      "Marseille",
+      "Bordeaux",
+      "Nice"
+    ],
+    "fondateur": "Julien Madar",
+    "titre": "Co-fondateur",
+    "linkedin_ceo": "https://fr.linkedin.com/in/julienmadar",
+    "cofondateurs": [
+      "Kevin Cohen",
+      "Joffrey Ichbia"
+    ],
+    "email_ceo": null,
+    "email_contact": null,
+    "email_confidence": "aucun",
+    "telephone": "+33 1 88 24 24 24",
+    "adresse": "33 avenue de Wagram, 75017 Paris",
+    "siret": "82294926900044",
+    "forme_juridique": "SAS",
+    "linkedin_societe": null,
+    "instagram": null,
+    "facebook": null,
+    "note_existante": "",
+    "sources": [
+      "https://www.checkmyguest.fr",
+      "https://gestion.checkmyguest.fr/fr/legal",
+      "https://gestion.checkmyguest.fr/fr/contact",
+      "https://www.societe.com/societe/k-j-consulting-822949269.html",
+      "https://annuaire-entreprises.data.gouv.fr/entreprise/k-j-consulting-checkmyguest-822949269",
+      "https://fr.linkedin.com/in/julienmadar",
+      "https://fr.linkedin.com/in/kevin-cohen-95157563"
+    ],
+    "enriched_at": "2026-05-11",
+    "note": "ATTENTION : CheckMyGuest a ete rachete par OYO (geant indien). President actuel : Arjun KARANGIYA. DG : KC HOLDING, JI HOLDING, JSM (holdings des fondateurs). Julien Madar reste Co-Fondateur & DG. Kevin Cohen et Joffrey Ichbia toujours impliques. 44 employes. Mises a jour site par Jeremy Houchat."
+  },
+  {
+    "nom": "ClickYourFlat",
+    "siteWeb": "https://www.clickyourflat.com",
+    "villes": [
+      "Paris"
+    ],
+    "fondateur": "Non trouve",
+    "titre": "Non trouve",
+    "linkedin_ceo": "https://www.linkedin.com/in/gregory-allouche-82083423a/",
+    "cofondateurs": [],
+    "email_ceo": null,
+    "email_contact": "contact@clickyourflat.com",
+    "email_confidence": "aucun",
+    "telephone": "+33 1 89 70 60 18",
+    "adresse": "17 rue du Caire, 75002 Paris",
+    "siret": "84073849600032",
+    "forme_juridique": "SAS",
+    "linkedin_societe": "https://www.linkedin.com/company/clickyourflat/",
+    "instagram": "https://www.instagram.com/clickyourflat/",
+    "facebook": "https://www.facebook.com/profile.php?id=100090545410069",
+    "note_existante": "SAS creee en 2018, 17 rue du Caire 75002 Paris",
+    "sources": [
+      "https://www.clickyourflat.com",
+      "https://www.clickyourflat.com/mentions-legales",
+      "https://www.societe.com/societe/clickyourflat-840738496.html",
+      "https://www.crunchbase.com/person/gregory-allouche",
+      "https://www.linkedin.com/in/gregory-allouche-82083423a/",
+      "https://www.linkedin.com/in/cedric-allouche-218206148/"
+    ],
+    "enriched_at": "2026-05-11",
+    "note": "Note du batch : 'SAS creee en 2018'. Crunchbase confirme Gregory Allouche comme Founder/CEO/MD. Loic Legrand mentionne comme representant legal sur mentions legales (peut etre un role operationnel/representation, pas le fondateur)."
+  },
+  {
+    "nom": "Cocoonr",
+    "siteWeb": "https://www.cocoonr.fr",
+    "villes": [
+      "Nantes",
+      "La Baule",
+      "Pornic",
+      "Bretagne Sud"
+    ],
+    "fondateur": "Antoine Serrurier",
+    "titre": "Fondateur & CEO",
+    "linkedin_ceo": "https://www.linkedin.com/in/antoine-serrurier-6a505917/",
+    "cofondateurs": [
+      "Roman Ohier",
+      "Antoine Pinsard"
+    ],
+    "email_ceo": "antoine.serrurier@cocoonr.fr",
+    "email_contact": "contact@cocoonr.fr",
+    "email_confidence": "moyenne",
+    "telephone": "09 70 70 08 59",
+    "adresse": "6 rue de Lorient, 35000 Rennes (siege legal HOSTING DVPT)",
+    "siret": "813 786 563 (SIREN) / etablissement Rennes 81378656300151",
+    "forme_juridique": "SAS",
+    "linkedin_societe": "https://www.linkedin.com/company/cocoonr",
+    "instagram": "https://www.instagram.com/cocoonr.fr",
+    "facebook": "https://www.facebook.com/cocoonr",
+    "note_existante": "",
+    "sources": [
+      "https://www.cocoonr.fr/apropos/mentions-legales/",
+      "https://www.cocoonr.fr/apropos/contact/",
+      "https://www.cocoonr.fr",
+      "https://annuaire-entreprises.data.gouv.fr/etablissement/81378656300151"
+    ],
+    "enriched_at": "2026-05-11"
+  },
+  {
+    "nom": "ConciergeBB",
+    "siteWeb": "https://www.conciergebb.fr",
+    "villes": [
+      "France entière"
+    ],
+    "fondateur": "Arnaud",
+    "titre": "Fondateur",
+    "linkedin_ceo": "",
+    "cofondateurs": [],
+    "email_ceo": null,
+    "email_contact": "demande@conciergebb.fr",
+    "email_confidence": "aucun",
+    "telephone": "09 80 80 12 66 (standard) / 07 59 79 05 34 (commercial) / +33 6 58 93 82 19 (sales EN)",
+    "adresse": "9 rue Saint Saens, 29200 Brest",
+    "siret": "934 887 894 (SIREN) - RCS Brest",
+    "forme_juridique": "SAS",
+    "linkedin_societe": null,
+    "instagram": "https://www.instagram.com/concierge.bb/",
+    "facebook": "https://www.facebook.com/conciergebb29",
+    "note_existante": "Prenom uniquement identifie, expert immobilier depuis plus de 20 ans",
+    "sources": [
+      "https://www.conciergebb.fr/pages/mentions-legales",
+      "https://www.conciergebb.fr"
+    ],
+    "enriched_at": "2026-05-11"
+  },
+  {
+    "nom": "Cozy-appart",
+    "siteWeb": "",
+    "villes": [
+      "Toulouse"
+    ],
+    "fondateur": "Zakari Bouzalmat",
+    "titre": "Fondateur & President",
+    "linkedin_ceo": "",
+    "cofondateurs": [],
+    "email_ceo": "zakari.bouzalmat@cozy-appart.fr",
+    "email_contact": "contact@cozy-appart.fr",
+    "email_confidence": "moyenne",
+    "telephone": "07 56 86 43 79",
+    "adresse": "11 rue Lucie Laubrac, 31150 Gratentour (siege legal) / 11 Place Etienne Esquirol, 31000 Toulouse (bureau)",
+    "siret": "889 324 794 00029",
+    "forme_juridique": "SAS",
+    "linkedin_societe": null,
+    "instagram": null,
+    "facebook": "https://www.facebook.com/Cozy-Appart-109070071822708",
+    "note_existante": "Creee en 2020 a Gratentour/Toulouse",
+    "sources": [
+      "https://cozy-appart.fr/",
+      "https://cozy-appart.fr/a-propos/",
+      "https://www.societe.com/societe/cozyappart-889324794.html",
+      "https://www.societe.com/manager/Zakari.BOUZALMAT.seUMYN_e66o.html"
+    ],
+    "enriched_at": "2026-05-11"
+  },
+  {
+    "nom": "Groomi",
+    "siteWeb": "https://www.conciergerie-groomi.fr",
+    "villes": [
+      "Montpellier",
+      "Alpes"
+    ],
+    "fondateur": "Manon Gorassini",
+    "titre": "Fondatrice & Dirigeante",
+    "linkedin_ceo": "",
+    "cofondateurs": [],
+    "email_ceo": "manon.gorassini@conciergerie-groomi.fr",
+    "email_contact": "contact@conciergerie-groomi.fr",
+    "email_confidence": "moyenne",
+    "telephone": "04 65 84 82 11 (bureau) / 07 82 28 30 12 (mobile direction)",
+    "adresse": "5 rue Folco de Baroncellie, 34160 Restinclieres (siege) / 4 bis rue des Freres Lumiere, 34830 Jacou (bureau)",
+    "siret": "799 665 880 00016",
+    "forme_juridique": "SARL unipersonnelle (EURL)",
+    "linkedin_societe": "https://www.linkedin.com/company/conciergerie-groomi",
+    "instagram": "https://www.instagram.com/conciergeriegroomi34",
+    "facebook": "https://www.facebook.com/conciergeriegroomi",
+    "note_existante": "Entreprise familiale a Montpellier et Oisans, plus de 10 ans d'experience",
+    "sources": [
+      "https://www.conciergerie-groomi.fr/mentions-legales",
+      "https://www.conciergerie-groomi.fr"
+    ],
+    "enriched_at": "2026-05-11"
+  },
+  {
+    "nom": "Groomlidays",
+    "siteWeb": "https://www.groomlidays.com",
+    "villes": [
+      "Paris",
+      "Côte d'Azur",
+      "Provence"
+    ],
+    "fondateur": "Non trouve",
+    "titre": "Non trouve",
+    "linkedin_ceo": "https://www.linkedin.com/in/nadege-ambrosi",
+    "cofondateurs": [],
+    "email_ceo": "nadege.ambrosi@groomlidays.com",
+    "email_contact": "contact@groomlidays.com",
+    "email_confidence": "basse",
+    "telephone": null,
+    "adresse": "Rue Saint Eutrope les Cigales, 83330 Le Beausset",
+    "siret": "811 143 155 00018",
+    "forme_juridique": "SAS",
+    "linkedin_societe": null,
+    "instagram": null,
+    "facebook": null,
+    "note_existante": "Entreprise fondee en 2015, fondateur non identifie publiquement",
+    "sources": [
+      "https://b-reputation.com/fr/public/811143155",
+      "https://www.pappers.fr/dirigeant/nadege_andre_1976-01",
+      "https://www.groomlidays.com"
+    ],
+    "enriched_at": "2026-05-11"
+  },
+  {
+    "nom": "GuestReady",
+    "siteWeb": "https://www.guestready.com",
+    "villes": [
+      "Paris",
+      "Lyon",
+      "Bordeaux",
+      "Marseille",
+      "Nice",
+      "Cannes"
+    ],
+    "fondateur": "Alexander Limpert",
+    "titre": "Co-fondateur & CEO",
+    "linkedin_ceo": "https://www.linkedin.com/in/alexanderlimpert/",
+    "cofondateurs": [
+      "Christian Mischler",
+      "Patrick Degen"
+    ],
+    "email_ceo": null,
+    "email_contact": null,
+    "email_confidence": "aucun",
+    "telephone": "+33 1 76 44 04 31",
+    "adresse": "32 Rue de Paradis, 75010 Paris (bureau) / 8 Rue de Sofia, 75018 Paris (autre bureau)",
+    "siret": "811 804 681 00047",
+    "forme_juridique": "SAS",
+    "linkedin_societe": "https://www.linkedin.com/company/guestready",
+    "instagram": "https://www.instagram.com/guestready",
+    "facebook": "https://www.facebook.com/guestready",
+    "note_existante": "",
+    "sources": [
+      "https://www.guestready.com/contact-us/",
+      "https://www.pappers.fr/entreprise/guestready-france-811804681",
+      "https://b-reputation.com/fr/public/811804681",
+      "https://rubypayeur.com/societe/guestready-france-811804681"
+    ],
+    "enriched_at": "2026-05-11"
+  },
+  {
+    "nom": "Guestadom",
+    "siteWeb": "https://www.guestadom.com",
+    "villes": [
+      "Paris",
+      "Ile-de-France"
+    ],
+    "fondateur": "Theo Deniau",
+    "titre": "Fondateur & CEO",
+    "linkedin_ceo": "https://www.linkedin.com/in/th%C3%A9o-deniau-144531136/",
+    "cofondateurs": [],
+    "email_ceo": "theo.deniau@guest-adom.com",
+    "email_contact": "contact@guest-adom.com",
+    "email_confidence": "moyenne",
+    "telephone": "+33 2 43 49 56 14",
+    "adresse": "Batiment Pilauthe, 6 Impasse des Tailleurs, 53810 Change",
+    "siret": "844 717 157",
+    "forme_juridique": "SAS",
+    "linkedin_societe": null,
+    "instagram": null,
+    "facebook": null,
+    "note_existante": "Cree en 2019, issu du reseau MAISON et SERVICES",
+    "sources": [
+      "https://www.pappers.fr/entreprise/guest-adom-844717157",
+      "https://www.societe.com/societe/guest-adom-844717157.html",
+      "https://rocketreach.co/theo-deniau-email_122477388",
+      "https://www.linkedin.com/in/th%C3%A9o-deniau-144531136/"
+    ],
+    "enriched_at": "2026-05-11"
+  },
+  {
+    "nom": "Guester",
+    "siteWeb": "https://www.guester.com",
+    "villes": [
+      "Paris",
+      "Lyon",
+      "Bordeaux",
+      "Marseille"
+    ],
+    "fondateur": "Non trouve",
+    "titre": "Non trouve",
+    "linkedin_ceo": "",
+    "cofondateurs": [],
+    "email_ceo": "antoine.ifergan@guester.com",
+    "email_contact": "contact@guester.com",
+    "email_confidence": "moyenne",
+    "telephone": "01 84 19 08 88",
+    "adresse": "Immeuble Ordinal - 508 F, 12 rue des Chauffours, 95000 Cergy",
+    "siret": "830 982 922 (SIREN) - RCS Pontoise",
+    "forme_juridique": "SAS",
+    "linkedin_societe": "https://www.linkedin.com/company/guesterparis",
+    "instagram": "https://www.instagram.com/guesterparis",
+    "facebook": "https://www.facebook.com/guesterparis",
+    "note_existante": "Entreprise fondee en 2015 a Meudon, fondateur non identifie publiquement",
+    "sources": [
+      "https://guester.com/mm/",
+      "https://www.guester.com"
+    ],
+    "enriched_at": "2026-05-11"
+  },
+  {
+    "nom": "Haussman Conciergerie",
+    "siteWeb": "",
+    "villes": [
+      "Montpellier"
+    ],
+    "fondateur": "Anthony Barbas",
+    "titre": "Co-fondateur & Directeur General",
+    "linkedin_ceo": "https://www.linkedin.com/in/anthonybarbas/",
+    "cofondateurs": [
+      "Nolan Barthel"
+    ],
+    "email_ceo": "anthony.barbas@haussmannconciergerie.fr",
+    "email_contact": "contact@haussmannconciergerie.fr",
+    "email_confidence": "moyenne",
+    "telephone": null,
+    "adresse": "78 avenue des Champs Elysees, Bureau 326, 75008 Paris (siege) / Place de la Comedie, 34000 Montpellier (operations)",
+    "siret": "928 077 585",
+    "forme_juridique": "SAS",
+    "linkedin_societe": null,
+    "instagram": "https://www.instagram.com/montpellierlovers.rent",
+    "facebook": null,
+    "note_existante": "Nolan Barthel est CEO et President",
+    "sources": [
+      "https://haussmannconciergerie.fr/",
+      "https://haussmannconciergerie.fr/mentions-legales/",
+      "https://www.pappers.fr/entreprise/haussmann-conciergerie-928077585",
+      "https://www.societe.com/societe/haussmann-conciergerie-928077585.html",
+      "https://fr.linkedin.com/in/nolan-barthel-305092210"
+    ],
+    "enriched_at": "2026-05-11"
+  },
+  {
+    "nom": "Hoosteur",
+    "siteWeb": "https://www.hoosteur.com",
+    "villes": [
+      "Paris",
+      "Lyon"
+    ],
+    "fondateur": "Non trouve",
+    "titre": "Non trouve",
+    "linkedin_ceo": "",
+    "cofondateurs": [],
+    "email_ceo": null,
+    "email_contact": "contact@hoosteur.com",
+    "email_confidence": "aucun",
+    "telephone": null,
+    "adresse": "Paris 75002 (siege HOOSTER SIREN 938717147) - adresse precise non publique",
+    "siret": "938 717 147 00012",
+    "forme_juridique": "SAS",
+    "linkedin_societe": null,
+    "instagram": null,
+    "facebook": null,
+    "note_existante": "Conciergerie Airbnb a Paris et Bruxelles, fondateur non identifie publiquement",
+    "sources": [
+      "https://www.hoosteur.com",
+      "https://www.pagesjaunes.fr/siret/93871714700012",
+      "https://www.pappers.fr/entreprise/hooster-938717147",
+      "https://annuaire-entreprises.data.gouv.fr/etablissement/93871714700012"
+    ],
+    "enriched_at": "2026-05-11"
+  },
+  {
+    "nom": "HostPartner",
+    "siteWeb": "https://www.hostpartnerparis.com",
+    "villes": [
+      "Paris"
+    ],
+    "fondateur": "Charlotte",
+    "titre": "Fondatrice",
+    "linkedin_ceo": "https://fr.linkedin.com/in/liabeuf-charlotte-ab7b5724",
+    "cofondateurs": [],
+    "email_ceo": "aucun",
+    "email_contact": "aucun",
+    "email_confidence": "aucun",
+    "telephone": "+33 7 68 38 62 09",
+    "adresse": "7 Rue Jules Verne, 92300 Levallois-Perret",
+    "siret": "91014092000018",
+    "forme_juridique": "SARL",
+    "linkedin_societe": null,
+    "instagram": "https://www.instagram.com/la_conciergerie_de_paris/",
+    "facebook": "https://www.facebook.com/61566866126786/",
+    "note_existante": "Prenom uniquement identifie, premiere acquisition immobiliere a 23 ans",
+    "sources": [
+      "https://www.hostpartnerparis.com",
+      "https://www.societe.com/societe/hostpartner-910140920.html",
+      "https://dirigeant.societe.com/dirigeant/Charlotte.LIABEUF.50264630.html"
+    ],
+    "enriched_at": "2026-05-11"
+  },
+  {
+    "nom": "HostnFly",
+    "siteWeb": "https://www.hostnfly.com",
+    "villes": [
+      "Paris",
+      "Lyon",
+      "Bordeaux",
+      "Marseille",
+      "Nice",
+      "Toulouse",
+      "Montpellier",
+      "Nantes",
+      "Strasbourg",
+      "Lille"
+    ],
+    "fondateur": "Quentin Brackers de Hugo",
+    "titre": "Co-fondateur & CEO",
+    "linkedin_ceo": "https://www.linkedin.com/in/quentinbrackersdehugo/",
+    "cofondateurs": [
+      "Guillaume Motte",
+      "Baptiste Maurel"
+    ],
+    "email_ceo": "aucun",
+    "email_contact": "contact@hostnfly.com",
+    "email_confidence": "haute",
+    "telephone": "+33 1 86 76 12 82",
+    "adresse": "42 Rue Marguerite de Rochechouart, 75009 Paris",
+    "siret": "81967588500050",
+    "forme_juridique": "SAS",
+    "linkedin_societe": "https://www.linkedin.com/company/hostnfly",
+    "instagram": "https://www.instagram.com/hostnfly/",
+    "facebook": "https://www.facebook.com/hostnfly",
+    "note_existante": "",
+    "sources": [
+      "https://www.hostnfly.com",
+      "https://www.hostnfly.com/legal/mentions",
+      "https://www.societe.com/societe/hostnfly-819675885.html"
+    ],
+    "enriched_at": "2026-05-11"
+  },
+  {
+    "nom": "Houst",
+    "siteWeb": "https://www.houst.com/fr",
+    "villes": [
+      "Paris"
+    ],
+    "fondateur": "James Jenkins-Yates",
+    "titre": "Fondateur & CEO",
+    "linkedin_ceo": "https://www.linkedin.com/in/jamesjenkinsyates/",
+    "cofondateurs": [
+      "Tom Jones",
+      "Daniel Scott"
+    ],
+    "email_ceo": "aucun",
+    "email_contact": "aucun",
+    "email_confidence": "aucun",
+    "telephone": "+33 1 86 47 62 80",
+    "adresse": null,
+    "siret": null,
+    "forme_juridique": null,
+    "linkedin_societe": "https://www.linkedin.com/company/houst",
+    "instagram": "https://www.instagram.com/wearehoust/",
+    "facebook": "https://www.facebook.com/wearehoust",
+    "note_existante": "Anciennement Airsorted, fonde en 2015 a Londres",
+    "sources": [
+      "https://www.houst.com/fr/conciergerie-airbnb/paris",
+      "https://www.houst.com/airbnb-management/paris",
+      "https://www.houst.com/about"
+    ],
+    "enriched_at": "2026-05-11"
+  },
+  {
+    "nom": "Jym Conciergerie",
+    "siteWeb": "",
+    "villes": [
+      "Bordeaux"
+    ],
+    "fondateur": "Jeremy Foucrier",
+    "titre": "Fondateur & President",
+    "linkedin_ceo": "https://www.linkedin.com/in/foucrier-jeremy-b8879760/",
+    "cofondateurs": [],
+    "email_ceo": "aucun",
+    "email_contact": "contact@jym-conciergerie.com",
+    "email_confidence": "haute",
+    "telephone": "+33 7 85 92 91 73",
+    "adresse": "5 rue Fénelon, 33000 Bordeaux",
+    "siret": "84086112400021",
+    "forme_juridique": "Entreprise individuelle (EI)",
+    "linkedin_societe": null,
+    "instagram": null,
+    "facebook": null,
+    "note_existante": "",
+    "sources": [
+      "https://www.jym-conciergerie.com/contact/",
+      "https://www.pappers.fr/entreprise/foucrier-jeremy-840861124",
+      "https://www.societe.com/etablissement/jym-conciergerie-bordeaux-84086112400013.html"
+    ],
+    "enriched_at": "2026-05-11"
+  },
+  {
+    "nom": "KeyNest",
+    "siteWeb": "https://www.keynest.com",
+    "villes": [
+      "Paris",
+      "France"
+    ],
+    "fondateur": "Florian Hoven",
+    "titre": "Co-fondateur",
+    "linkedin_ceo": "",
+    "cofondateurs": [
+      "Marc Figueras"
+    ],
+    "email_ceo": "aucun",
+    "email_contact": "aucun",
+    "email_confidence": "aucun",
+    "telephone": "+33 1 84 60 25 00",
+    "adresse": "258 Rue Marcadet, Chez Nov., 75018 Paris",
+    "siret": "84969472400014",
+    "forme_juridique": "Personne morale de droit étranger (Ltd UK)",
+    "linkedin_societe": "https://www.linkedin.com/company/keynest",
+    "instagram": "https://www.instagram.com/keynest_",
+    "facebook": "https://www.facebook.com/KeyNest/",
+    "note_existante": "Fonde en 2015, solution d'echange de cles securisee",
+    "sources": [
+      "https://keynest.com/fr/nous-contacter",
+      "https://www.societe.com/societe/keynest-services-ltd-849694724.html"
+    ],
+    "enriched_at": "2026-05-11"
+  },
+  {
+    "nom": "Keylodge",
+    "siteWeb": "https://www.keylodge.fr",
+    "villes": [
+      "La Réunion",
+      "Ile de la Réunion"
+    ],
+    "fondateur": "Romain Desvignes",
+    "titre": "Fondateur & CEO",
+    "linkedin_ceo": "https://www.linkedin.com/in/romain-desvignes-76ab211a7/",
+    "cofondateurs": [],
+    "email_ceo": "aucun",
+    "email_contact": "reservations@keylodge.fr",
+    "email_confidence": "haute",
+    "telephone": "+262 262 83 00 50",
+    "adresse": null,
+    "siret": null,
+    "forme_juridique": null,
+    "linkedin_societe": "https://www.linkedin.com/company/keylodge/",
+    "instagram": "https://www.instagram.com/keylodge_locations/",
+    "facebook": "https://www.facebook.com/keylodge.locations/",
+    "note_existante": "",
+    "sources": [
+      "https://www.holidays-keylodge.fr/"
+    ],
+    "enriched_at": "2026-05-11"
+  },
+  {
+    "nom": "LM Sud",
+    "siteWeb": "",
+    "villes": [
+      "Montpellier"
+    ],
+    "fondateur": "Lea Marti",
+    "titre": "Fondatrice & Directrice Generale",
+    "linkedin_ceo": "https://www.linkedin.com/in/l%C3%A9a-marti-b72970a8/",
+    "cofondateurs": [],
+    "email_ceo": "aucun",
+    "email_contact": "contact@lmsudconciergerie.com",
+    "email_confidence": "haute",
+    "telephone": "+33 7 56 98 64 01",
+    "adresse": "81 Rue Marius Carrieu, Résidence Parc le Belvédère - Bât B1, 34080 Montpellier",
+    "siret": "95342120300027",
+    "forme_juridique": "SAS",
+    "linkedin_societe": null,
+    "instagram": "https://www.instagram.com/lmsudconciergerie34/",
+    "facebook": "https://www.facebook.com/LMSUDCONCIERGERIE",
+    "note_existante": "",
+    "sources": [
+      "https://www.lmsudconciergerie.com/en",
+      "https://www.societe.com/societe/lm-sud-conciergerie-953421203.html"
+    ],
+    "enriched_at": "2026-05-11"
+  },
+  {
+    "nom": "La Conciairgerie",
+    "siteWeb": "https://www.laconciairgerie.com",
+    "villes": [
+      "Paris",
+      "France"
+    ],
+    "fondateur": "Non trouve",
+    "titre": "Non trouve",
+    "linkedin_ceo": "",
+    "cofondateurs": [],
+    "email_ceo": "aucun",
+    "email_contact": "paris@laconciairgerie.com",
+    "email_confidence": "haute",
+    "telephone": "+33 9 83 02 10 11",
+    "adresse": "200 quai de Clichy, 92110 Clichy (siège opérationnel France) / Avenue de Crédeilles 2, 1800 Vevey, Suisse (siège social)",
+    "siret": "90236903200013",
+    "forme_juridique": "Personne morale de droit étranger (Sàrl Suisse) - non immatriculée RCS France",
+    "linkedin_societe": "https://www.linkedin.com/company/la-conciairgerie",
+    "instagram": "https://www.instagram.com/laconciairgerie/",
+    "facebook": null,
+    "note_existante": "Fondee en 2011, presente en France et en Suisse",
+    "sources": [
+      "https://www.laconciairgerie.com",
+      "https://www.laconciairgerie.com/mentions-legales/",
+      "https://www.societe.com/societe/la-conciairgerie-902369032.html",
+      "https://www.moneyhouse.ch/en/company/la-conciairgerie-sarl-13708444691"
+    ],
+    "enriched_at": "2026-05-11"
+  },
+  {
+    "nom": "La Conciergerie Lyonnaise",
+    "siteWeb": "https://www.laconciergerie-lyonnaise.com",
+    "villes": [
+      "Lyon"
+    ],
+    "fondateur": "Non trouve",
+    "titre": "Non trouve",
+    "linkedin_ceo": "https://fr.linkedin.com/in/mathilde-anaya-4b0737140",
+    "cofondateurs": [],
+    "email_ceo": "aucun",
+    "email_contact": "aucun",
+    "email_confidence": "aucun",
+    "telephone": "07 43 39 83 17",
+    "adresse": "4 bis rue des Lilas, 69008 Lyon (depuis avril 2025) / précédemment 78 rue Président Edouard Herriot, 69002 Lyon",
+    "siret": null,
+    "forme_juridique": "SAS",
+    "linkedin_societe": null,
+    "instagram": "https://www.instagram.com/laconciergerielyonnaise/",
+    "facebook": null,
+    "note_existante": "Specialisee en location courte duree haut de gamme a Lyon",
+    "sources": [
+      "https://www.laconciergerie-lyonnaise.com/",
+      "https://www.laconciergerie-lyonnaise.com/contactez-nous",
+      "https://rocketreach.co/mathilde-anaya-email_361651412"
+    ],
+    "enriched_at": "2026-05-11"
+  },
+  {
+    "nom": "La Conciergerie de Finette",
+    "siteWeb": "https://laconciergeriedefinette.com",
+    "villes": [
+      "Bordeaux",
+      "CUB"
+    ],
+    "fondateur": "Non trouve",
+    "titre": "Non trouve",
+    "linkedin_ceo": "",
+    "cofondateurs": [],
+    "email_ceo": "aucun",
+    "email_contact": "contact@laconciergeriedefinette.com",
+    "email_confidence": "haute",
+    "telephone": "+33 6 13 35 76 07",
+    "adresse": "Rue Bontemps, 33400 Talence",
+    "siret": null,
+    "forme_juridique": null,
+    "linkedin_societe": null,
+    "instagram": null,
+    "facebook": "https://www.facebook.com/laConciergeriedeFinette/",
+    "note_existante": "Fondee le 1er aout 2018 a Talence (Bordeaux)",
+    "sources": [
+      "https://laconciergeriedefinette.com/",
+      "https://www.facebook.com/laConciergeriedeFinette/",
+      "https://annuaire-entreprises.data.gouv.fr/entreprise/conciergerie-de-finette-842437238",
+      "https://actulegales.fr/recherche/siren/842437238"
+    ],
+    "enriched_at": "2026-05-11"
+  },
+  {
+    "nom": "Les Cles d'Alfred",
+    "siteWeb": "",
+    "villes": [],
+    "fondateur": "Jean-Jacques Dupont",
+    "titre": "Fondateur & Gerant",
+    "linkedin_ceo": "https://www.linkedin.com/in/dupont-jean-jacques-b9312a107/",
+    "cofondateurs": [],
+    "email_ceo": null,
+    "email_contact": "contact@lesclesdalfred.fr",
+    "email_confidence": "haute",
+    "telephone": "05 64 72 01 32",
+    "adresse": "9 rue Chabry, 33000 Bordeaux",
+    "siret": "879 983 336",
+    "forme_juridique": "SARL/EURL",
+    "linkedin_societe": null,
+    "instagram": "https://www.instagram.com/lesclesdalfred/",
+    "facebook": "https://www.facebook.com/lesclesdalfred",
+    "note_existante": "",
+    "sources": [
+      "https://lesclesdalfred.fr/",
+      "https://lesclesdalfred.fr/cgv/",
+      "https://www.linkedin.com/in/dupont-jean-jacques-b9312a107/"
+    ],
+    "enriched_at": "2026-05-11"
+  },
+  {
+    "nom": "Lodgis",
+    "siteWeb": "https://www.lodgis.com",
+    "villes": [
+      "Paris"
+    ],
+    "fondateur": "Alexis Alban",
+    "titre": "CEO / President",
+    "linkedin_ceo": "https://fr.linkedin.com/in/alexis-alban-59ab9b36",
+    "cofondateurs": [],
+    "email_ceo": null,
+    "email_contact": "accueil@lodgis.com",
+    "email_confidence": "haute",
+    "telephone": "+33 1 70 39 11 11",
+    "adresse": "27-29 rue de Choiseul, 75002 Paris",
+    "siret": "423 936 376 (RCS Paris)",
+    "forme_juridique": "SAS",
+    "linkedin_societe": "https://www.linkedin.com/company/lodgis",
+    "instagram": "https://www.instagram.com/lodgis_official/",
+    "facebook": "https://www.facebook.com/Lodgis/",
+    "note_existante": "Fondee en 1999 par Maud, Mathias, Cyril et Fabrice. Alexis Alban est le CEO actuel.",
+    "sources": [
+      "https://www.lodgis.com",
+      "https://www.lodgis.com/fr/l-agence-lodgis/policy/",
+      "https://fr.linkedin.com/in/alexis-alban-59ab9b36"
+    ],
+    "enriched_at": "2026-05-11"
+  },
+  {
+    "nom": "Louloue",
+    "siteWeb": "https://louloue.com",
+    "villes": [
+      "Tours",
+      "Amboise",
+      "Poitiers",
+      "Paris"
+    ],
+    "fondateur": "Fred C.",
+    "titre": "Gerant",
+    "linkedin_ceo": "https://www.linkedin.com/in/fred-c-5b1182109/",
+    "cofondateurs": [],
+    "email_ceo": null,
+    "email_contact": "louloue.fr@gmail.com",
+    "email_confidence": "haute",
+    "telephone": "07 65 72 62 54",
+    "adresse": "75 rue de Richelieu, 75002 Paris",
+    "siret": "804 804 870 00058",
+    "forme_juridique": "SAS",
+    "linkedin_societe": "https://www.linkedin.com/company/louloue",
+    "instagram": "https://www.instagram.com/louloue_fr/",
+    "facebook": "https://www.facebook.com/Quelquundautrepeutpaslefaire/",
+    "note_existante": "Gere 400 a 600 biens selon la saison, nom complet non identifie",
+    "sources": [
+      "https://louloue.com",
+      "https://louloue.com/mentions-legales",
+      "https://www.pappers.fr/dirigeant/frederic_caliari_1983-07"
+    ],
+    "enriched_at": "2026-05-11"
+  },
+  {
+    "nom": "Luckey",
+    "siteWeb": "",
+    "villes": [],
+    "fondateur": "Aurelien Malfait",
+    "titre": "Co-fondateur & CEO",
+    "linkedin_ceo": "https://www.linkedin.com/in/aurelien-malfait-010a5322/",
+    "cofondateurs": [
+      "David Barbe",
+      "Felix Malfait"
+    ],
+    "email_ceo": null,
+    "email_contact": "hello@luckeyhomes.com",
+    "email_confidence": "haute",
+    "telephone": "06 44 60 20 21",
+    "adresse": "4 Place de l'Opera, 75002 Paris (anciennement 1bis Cite Paradis 75010 Paris)",
+    "siret": "812 226 926 00051",
+    "forme_juridique": "SAS",
+    "linkedin_societe": "https://www.linkedin.com/company/luckey-homes/",
+    "instagram": null,
+    "facebook": null,
+    "note_existante": "Rachete par Airbnb en 2018",
+    "sources": [
+      "https://www.societe.com/societe/luckey-sas-812226926.html",
+      "https://www.linkedin.com/in/aurelien-malfait-010a5322/",
+      "https://www.lusha.com/business/3353287217933e6c/"
+    ],
+    "enriched_at": "2026-05-11"
+  },
+  {
+    "nom": "Ma Conciergerie en Occitanie",
+    "siteWeb": "",
+    "villes": [
+      "Toulouse",
+      "Occitanie"
+    ],
+    "fondateur": "Angie Bellota Rivera",
+    "titre": "Fondatrice & Presidente",
+    "linkedin_ceo": "https://www.linkedin.com/in/angie-bellota-739208121/",
+    "cofondateurs": [],
+    "email_ceo": null,
+    "email_contact": "maconciergerie.occitanie@gmail.com",
+    "email_confidence": "haute",
+    "telephone": "06 14 98 05 23",
+    "adresse": "13 rue Sainte Ursule, 31000 Toulouse",
+    "siret": "884 967 589 00018",
+    "forme_juridique": "SAS",
+    "linkedin_societe": null,
+    "instagram": null,
+    "facebook": null,
+    "note_existante": "Creee en 2020 a Toulouse, ancienne psychologue pour enfants",
+    "sources": [
+      "https://www.ma-conciergerie-en-occitanie.fr/",
+      "https://www.pappers.fr/entreprise/ma-conciergerie-en-occitanie-884967589",
+      "https://infonet.fr/dirigeants/66aa59295da7ac2c4bae7bd7/"
+    ],
+    "enriched_at": "2026-05-11"
+  },
+  {
+    "nom": "Maison Franchin",
+    "siteWeb": "",
+    "villes": [
+      "Nice"
+    ],
+    "fondateur": "Damien Franchin",
+    "titre": "Gerant",
+    "linkedin_ceo": "https://www.linkedin.com/in/damien-franchin-b48aa5105/",
+    "cofondateurs": [],
+    "email_ceo": null,
+    "email_contact": "niceholyday.conciergerie@gmail.com",
+    "email_confidence": "haute",
+    "telephone": "06 58 00 53 10",
+    "adresse": "121 boulevard Napoleon III, 06200 Nice",
+    "siret": "922 695 184",
+    "forme_juridique": "SARL",
+    "linkedin_societe": null,
+    "instagram": "https://www.instagram.com/niceholydayconciergerie/",
+    "facebook": "https://www.facebook.com/ChezDamienCoralie/",
+    "note_existante": "Societe NICE HOLYDAY & MAISON FRANCHIN, couple passione d'immobilier",
+    "sources": [
+      "https://www.niceholyday.com/",
+      "https://www.pappers.fr/entreprise/nice-holyday-maison-franchin-922695184",
+      "https://www.linkedin.com/in/damien-franchin-b48aa5105/"
+    ],
+    "enriched_at": "2026-05-11"
+  },
+  {
+    "nom": "Meet Home",
+    "siteWeb": "https://www.meet-home.fr",
+    "villes": [
+      "Lyon"
+    ],
+    "fondateur": "Emma Montchalin",
+    "titre": "Fondatrice",
+    "linkedin_ceo": "https://fr.linkedin.com/in/emma-montchalin",
+    "cofondateurs": [],
+    "email_ceo": "emma.meethome@gmail.com",
+    "email_contact": "emma.meethome@gmail.com",
+    "email_confidence": "haute",
+    "telephone": "07 52 08 26 27",
+    "adresse": "2 rue Coysevox, Bureau 3, 69001 Lyon",
+    "siret": "948 860 630",
+    "forme_juridique": "Entreprise individuelle (RCS Lyon)",
+    "linkedin_societe": "https://www.linkedin.com/company/meet-home69/",
+    "instagram": "https://www.instagram.com/meet_home_/",
+    "facebook": null,
+    "note_existante": "Conciergerie a Lyon, fondee en 2022",
+    "sources": [
+      "https://www.meet-home.fr",
+      "https://www.meet-home.fr/mentions-legales",
+      "https://fr.linkedin.com/in/emma-montchalin"
+    ],
+    "enriched_at": "2026-05-11"
+  },
+  {
+    "nom": "My Concierge In Nice",
+    "siteWeb": "",
+    "villes": [
+      "Nice"
+    ],
+    "fondateur": "Non trouve",
+    "titre": "Non trouve",
+    "linkedin_ceo": "",
+    "cofondateurs": [],
+    "email_ceo": null,
+    "email_contact": null,
+    "email_confidence": "aucun",
+    "telephone": "+33 4 93 87 30 64",
+    "adresse": "12 rue Jules Gilly, 06300 Nice (siege) / 37 rue de la Buffa, 06000 Nice",
+    "siret": null,
+    "forme_juridique": null,
+    "linkedin_societe": null,
+    "instagram": "https://www.instagram.com/myflatinnice2020/",
+    "facebook": "https://www.facebook.com/Myconciergeinnice/",
+    "note_existante": "Active depuis 2004 a Nice, fondateur non identifie publiquement",
+    "sources": [
+      "https://www.myconciergeinnice.com/en",
+      "https://www.facebook.com/Myconciergeinnice/"
+    ],
+    "enriched_at": "2026-05-11"
+  },
+  {
+    "nom": "Nestify",
+    "siteWeb": "https://www.nestify.fr",
+    "villes": [
+      "Paris",
+      "Bordeaux",
+      "Marseille",
+      "Lille",
+      "Montpellier",
+      "Nice",
+      "Nantes",
+      "Annecy"
+    ],
+    "fondateur": "Non trouve",
+    "titre": "Non trouve",
+    "linkedin_ceo": "",
+    "cofondateurs": [],
+    "email_ceo": null,
+    "email_contact": "Hello@Nestify.fr",
+    "email_confidence": "haute",
+    "telephone": "+33 1 87 66 68 27",
+    "adresse": "25 rue de Ponthieu Bat A, 75008 Paris (entite FR en liquidation 2024 - entite UK active)",
+    "siret": "888 819 851 00013",
+    "forme_juridique": "SAS (Nestify France - en liquidation depuis sept 2024)",
+    "linkedin_societe": "https://www.linkedin.com/company/nestify",
+    "instagram": "https://www.instagram.com/nestify_/",
+    "facebook": null,
+    "note_existante": "Nestify France (SAS) liquidee en 2024. Kevin Zidan etait liquidateur. Entite UK toujours active.",
+    "sources": [
+      "https://www.nestify.fr",
+      "https://www.pappers.fr/entreprise/nestify-france-888819851",
+      "https://annuaire-entreprises.data.gouv.fr/etablissement/88881985100013"
+    ],
+    "enriched_at": "2026-05-11"
+  },
+  {
+    "nom": "Nestor & Jeeves",
+    "siteWeb": "https://www.nestorandjeeves.com",
+    "villes": [
+      "Nice",
+      "Cannes",
+      "Monaco",
+      "Côte d'Azur"
+    ],
+    "fondateur": "Franck Hamon",
+    "titre": "Fondateur & Dirigeant",
+    "linkedin_ceo": "",
+    "cofondateurs": [],
+    "email_ceo": null,
+    "email_contact": "contact@nestor-jeeves.fr",
+    "email_confidence": "haute",
+    "telephone": "+33 4 83 76 07 50",
+    "adresse": "43 rue de France, 06000 Nice",
+    "siret": "443 739 784 00025",
+    "forme_juridique": "SAS",
+    "linkedin_societe": "https://www.linkedin.com/company/nestor&jeeves/",
+    "instagram": "https://www.instagram.com/nestor_jeeves/",
+    "facebook": "https://www.facebook.com/NestorandJeeves/",
+    "note_existante": "",
+    "sources": [
+      "https://www.nestor-jeeves.com/en/",
+      "https://www.concierge-nestor-jeeves.com/mentions-legales",
+      "https://www.societe.com/societe/nestor-and-jeeves-443739784.html",
+      "https://www.evidence-immobiliere.com/portrait-nestor-jeeves-franck-hamon/"
+    ],
+    "enriched_at": "2026-05-11"
+  },
+  {
+    "nom": "Open Up Paris",
+    "siteWeb": "https://www.openupparis.com",
+    "villes": [
+      "Paris"
+    ],
+    "fondateur": "Juliette Laurens",
+    "titre": "Fondatrice",
+    "linkedin_ceo": "https://fr.linkedin.com/in/juliettelaurens",
+    "cofondateurs": [],
+    "email_ceo": "juliette@openup.paris",
+    "email_contact": "contact@openup.paris",
+    "email_confidence": "haute",
+    "telephone": "+33 6 71 50 18 45",
+    "adresse": "48 Rue Michel-Ange, 75016 Paris",
+    "siret": "33787163600029",
+    "forme_juridique": "SARL",
+    "linkedin_societe": "https://www.linkedin.com/company/open-up-property-personal-management",
+    "instagram": null,
+    "facebook": "https://www.facebook.com/openuppm",
+    "note_existante": "",
+    "sources": [
+      "https://openup.paris/en/contact-us/",
+      "https://parisluxuryestate.com/",
+      "https://www.societe.com/societe/open-up-337871636.html",
+      "https://www.pagesjaunes.fr/siret/33787163600029",
+      "https://fr.linkedin.com/in/juliettelaurens"
+    ],
+    "enriched_at": "2026-05-11"
+  },
+  {
+    "nom": "ParisBnB",
+    "siteWeb": "https://www.parisbnb.com",
+    "villes": [
+      "Paris"
+    ],
+    "fondateur": "Johan Hajji",
+    "titre": "Co-fondateur (The BnB Group)",
+    "linkedin_ceo": "https://www.linkedin.com/in/hotelnews/",
+    "cofondateurs": [],
+    "email_ceo": null,
+    "email_contact": "admin@parisbnb.fr",
+    "email_confidence": "moyenne",
+    "telephone": "+33 7 45 88 58 98",
+    "adresse": "4 Rue de Penthievre, 75008 Paris",
+    "siret": null,
+    "forme_juridique": "Ltd (Global London Management Ltd, UK)",
+    "linkedin_societe": "https://www.linkedin.com/company/theupperkey",
+    "instagram": "https://www.instagram.com/conciergerieairbnb.paris",
+    "facebook": "https://www.facebook.com/profile.php?id=61572384211070",
+    "note_existante": "Fait partie de The BnB Group / UpperKey, meme fondateur",
+    "sources": [
+      "https://parisbnb.fr/a-propos/",
+      "https://parisbnb.fr/"
+    ],
+    "enriched_at": "2026-05-11"
+  },
+  {
+    "nom": "Prello",
+    "siteWeb": "https://www.prello.co",
+    "villes": [
+      "Paris",
+      "Lyon",
+      "Bordeaux"
+    ],
+    "fondateur": "Ludovic de Jouvancourt",
+    "titre": "Co-fondateur & CEO",
+    "linkedin_ceo": "https://fr.linkedin.com/in/ludovicdejouvancourt",
+    "cofondateurs": [
+      "Sebastien Gal"
+    ],
+    "email_ceo": null,
+    "email_contact": "contact@prello.co",
+    "email_confidence": "haute",
+    "telephone": "+33 7 57 90 22 69",
+    "adresse": "34 rue Grenata, 75002 Paris",
+    "siret": "90208123100026",
+    "forme_juridique": "SAS a capital variable",
+    "linkedin_societe": "https://www.linkedin.com/company/prello-co",
+    "instagram": null,
+    "facebook": null,
+    "note_existante": "",
+    "sources": [
+      "https://www.societe.com/societe/prello-902081231.html",
+      "https://www.pappers.fr/entreprise/prello-902081231",
+      "https://fr.linkedin.com/in/ludovicdejouvancourt"
+    ],
+    "enriched_at": "2026-05-11",
+    "note": "Societe en liquidation volontaire depuis 12/09/2024 (a verifier avant prospection)"
+  },
+  {
+    "nom": "Sejourneur",
+    "siteWeb": "",
+    "villes": [],
+    "fondateur": "Non trouve",
+    "titre": "Non trouve",
+    "linkedin_ceo": "",
+    "cofondateurs": [],
+    "email_ceo": null,
+    "email_contact": "contact@sejourneur.com",
+    "email_confidence": "moyenne",
+    "telephone": null,
+    "adresse": "7 Allees de Chartres, 33000 Bordeaux (siege) / 14 Rue Lafaurie de Monbadon, 33000 Bordeaux (bureaux)",
+    "siret": "82023994500032",
+    "forme_juridique": "SAS (Bordeaux Locations SAS)",
+    "linkedin_societe": "https://fr.linkedin.com/company/bordeaux-locations",
+    "instagram": "https://www.instagram.com/sejourneur_",
+    "facebook": "https://www.facebook.com/people/Sejourneur-Bordeaux/100083466317122/",
+    "note_existante": "Conciergerie en France, fondateur non identifie publiquement",
+    "sources": [
+      "https://www.sejourneur.com/",
+      "https://www.sejourneur.com/legal-notice/",
+      "https://www.sejourneur.com/our-team/",
+      "https://fr.linkedin.com/company/bordeaux-locations"
+    ],
+    "enriched_at": "2026-05-11",
+    "note": "Sejourneur = nom commercial de BORDEAUX LOCATIONS SAS. Co-fondateur Edouard mentionne dans certaines sources, identite complete non confirmee. Couvre Bordeaux/Bassin d'Arcachon/Pays Basque (pas Toulouse contrairement a la note initiale)."
+  },
+  {
+    "nom": "Serenity Conciergerie",
+    "siteWeb": "",
+    "villes": [
+      "Toulouse"
+    ],
+    "fondateur": "Non trouve",
+    "titre": "Non trouve",
+    "linkedin_ceo": "https://www.linkedin.com/in/micha%C3%ABl-willoquet-902b66112/",
+    "cofondateurs": [],
+    "email_ceo": null,
+    "email_contact": null,
+    "email_confidence": "aucun",
+    "telephone": "07 68 31 47 76",
+    "adresse": "4 Rue Jean Jaures, 31410 Saint-Sulpice-sur-Leze (Haute-Garonne)",
+    "siret": "90518614400010",
+    "forme_juridique": "SAS (capital 500EUR)",
+    "linkedin_societe": "https://www.linkedin.com/company/serenity-conciergerie/",
+    "instagram": "https://www.instagram.com/serenityconciergerie/",
+    "facebook": "https://www.facebook.com/serenityconciergerie31/",
+    "note_existante": "Plusieurs entites sous ce nom. Nicolas Vedovato est fondateur de Serenity Groupe. Marie Niderleidner est CEO de Serenity Conciergerie BnB au Luxembourg.",
+    "sources": [
+      "https://www.serenityconciergerie.fr/",
+      "https://www.serenityconciergerie.fr/qui-sommes-nous/",
+      "https://annuaire-entreprises.data.gouv.fr/entreprise/serenity-conciergerie-905186144",
+      "https://rubypayeur.com/societe/serenity-conciergerie-905186144"
+    ],
+    "enriched_at": "2026-05-11",
+    "note": "ATTENTION: ce SERENITY CONCIERGERIE (Toulouse/Saint-Sulpice-sur-Leze) est une conciergerie d'ENTREPRISE (services aux employes), PAS une conciergerie Airbnb. Pour conciergerie Airbnb il faut viser Serenity au Var (serenity-conciergerie.fr - serenity-conciergerie.com - Vidauban/Draguignan, tel 07 49 80 26 00, email contact@serenity-conciergerie.fr). Dirigeants multiples (Nicole MICHEL, Yves OTTOGALI, Valerie GHRENASSIA, Christian PRADELLES, Christiane MURGA et 7 autres). Reverifier la pertinence pour la prospection SaaS conciergerie."
+  },
+  {
+    "nom": "Simple Nest",
+    "siteWeb": "https://www.simplenest.fr",
+    "villes": [
+      "Paris"
+    ],
+    "fondateur": "Mohson Butt",
+    "titre": "President",
+    "linkedin_ceo": "",
+    "cofondateurs": [
+      "Moneeb Butt"
+    ],
+    "email_ceo": null,
+    "email_contact": "contact@simple-nest.com",
+    "email_confidence": "moyenne",
+    "telephone": "07 56 82 01 84",
+    "adresse": "14 Rue Marc Seguin, 75018 Paris / 54 rue Touraine, 95100 Argenteuil",
+    "siret": null,
+    "forme_juridique": null,
+    "linkedin_societe": "https://www.linkedin.com/company/simple-nest/",
+    "instagram": null,
+    "facebook": "https://www.facebook.com/simplenestconciergerie/",
+    "note_existante": "Opere sous le nom Digi Rent",
+    "sources": [
+      "https://simple-nest.com/",
+      "https://www.pagesjaunes.fr/pros/62679818",
+      "https://fr.trustpilot.com/review/simplenest.fr"
+    ],
+    "enriched_at": "2026-05-11",
+    "note": "Site officiel actuel = simple-nest.com (l'ancien simplenest.fr a une erreur SSL). Opere sous le nom Digi Rent selon note initiale."
+  },
+  {
+    "nom": "Super BNB",
+    "siteWeb": "",
+    "villes": [
+      "Toulouse"
+    ],
+    "fondateur": "Non trouve",
+    "titre": "Non trouve",
+    "linkedin_ceo": "",
+    "cofondateurs": [],
+    "email_ceo": null,
+    "email_contact": "superbnbtls@gmail.com",
+    "email_confidence": "haute",
+    "telephone": "07 70 99 20 99",
+    "adresse": "12 Rue Saint Papoul, 31000 Toulouse",
+    "siret": "94890676300016",
+    "forme_juridique": "SAS (capital 1EUR)",
+    "linkedin_societe": "https://fr.linkedin.com/company/super-bnb",
+    "instagram": null,
+    "facebook": "https://www.facebook.com/ChrisSuperbnb/",
+    "note_existante": "Conciergerie Airbnb, fondateur non clairement identifie",
+    "sources": [
+      "https://superbnbtls.wixsite.com/superbnb",
+      "https://annuaire-entreprises.data.gouv.fr/entreprise/super-bnb-948906763",
+      "https://www.pappers.fr/entreprise/super-bnb-948906763"
+    ],
+    "enriched_at": "2026-05-11",
+    "note": "Tres petite structure (0 salarie, capital 1EUR, creee 01/02/2023). Le compte Facebook s'appelle 'Chris Superbnb' (prenom du dirigeant probable: Chris/Christophe, a confirmer)."
+  },
+  {
+    "nom": "SweetInn",
+    "siteWeb": "https://www.sweetinn.com",
+    "villes": [
+      "Paris"
+    ],
+    "fondateur": "Paul Besnainou",
+    "titre": "Fondateur & CEO",
+    "linkedin_ceo": "https://www.linkedin.com/in/paul-besnainou/",
+    "cofondateurs": [],
+    "email_ceo": null,
+    "email_contact": "cs@sweett.com",
+    "email_confidence": "moyenne",
+    "telephone": "+33 1 86 47 76 82",
+    "adresse": "20 Rue de Harlay, 75001 Paris (Sweett Hotels) / 2 Rue de l'Amiral de Coligny, 75001 Paris (Sweet Inn Paris)",
+    "siret": "93893096300013",
+    "forme_juridique": "SARL (Sweett Hotels) / ex Sweet Inn Paris SIRET 80183895400338",
+    "linkedin_societe": "https://uk.linkedin.com/company/sweett",
+    "instagram": "https://www.instagram.com/sweettstays",
+    "facebook": "https://www.facebook.com/sweettstays",
+    "note_existante": "Renomme Sweett, fonde en 2014",
+    "sources": [
+      "https://www.sweett.com/",
+      "https://blog.sweett.com/",
+      "https://www.northdata.com/Sweett%20Hotels%20S%C3%A0rl,%20Paris/Siren%20938930963",
+      "https://www.verif.com/en/company/SWEET-INN-PARIS-71877aebcfcbbbb57511ab6aaef4d1623d42fe73bfcf9db132917833bdb157b8/",
+      "https://www.linkedin.com/in/paul-besnainou/"
+    ],
+    "enriched_at": "2026-05-11",
+    "note": "Marque renommee SweetInn -> Sweett. Paul Besnainou base a Londres. Email CEO masque sur RocketReach (p******@sweett.com), pattern probable prenom@sweett.com mais non confirme."
+  },
+  {
+    "nom": "Tranquille Emile",
+    "siteWeb": "https://www.tranquille-emile.com",
+    "villes": [
+      "Paris",
+      "Lyon",
+      "Bordeaux",
+      "Marseille",
+      "Nice",
+      "Toulouse"
+    ],
+    "fondateur": "Pierre Bresle",
+    "titre": "Fondateur",
+    "linkedin_ceo": "https://www.linkedin.com/in/pierre-bresle-ba722558/",
+    "cofondateurs": [],
+    "email_ceo": null,
+    "email_contact": "hello@tranquilleemile.com",
+    "email_confidence": "haute",
+    "telephone": null,
+    "adresse": "104 Rue La Fayette, 75010 Paris",
+    "siret": "81445749500038",
+    "forme_juridique": "SARL (capital 1000EUR)",
+    "linkedin_societe": "https://fr.linkedin.com/company/tranquille-%C3%A9mile",
+    "instagram": "https://www.instagram.com/tranquilleemile/",
+    "facebook": "https://www.facebook.com/TranquilleEmileOfficiel/",
+    "note_existante": "",
+    "sources": [
+      "https://www.tranquilleemile.com/",
+      "https://www.tranquilleemile.com/fr/mentions-legales",
+      "https://www.societe.com/societe/tranquille-emile-814457495.html",
+      "https://annuaire-entreprises.data.gouv.fr/entreprise/tranquille-emile-814457495"
+    ],
+    "enriched_at": "2026-05-11",
+    "note": "Site officiel = tranquilleemile.com (sans tiret). Pattern email probable pierre@tranquilleemile.com (non confirme). Formulaire de contact dedie via tranquilleemile.fillout.com/contact."
+  },
+  {
+    "nom": "UpperKey",
+    "siteWeb": "https://www.upperkey.com",
+    "villes": [
+      "Paris",
+      "Lyon",
+      "Cannes",
+      "Nice"
+    ],
+    "fondateur": "Johan Hajji",
+    "titre": "Co-fondateur & Co-CEO",
+    "linkedin_ceo": "https://www.linkedin.com/in/hotelnews/",
+    "cofondateurs": [
+      "Benoit Lam"
+    ],
+    "email_ceo": null,
+    "email_contact": "contact@theupperkey.com",
+    "email_confidence": "haute",
+    "telephone": "+44 75 14 27 03 94",
+    "adresse": "5-8 Bolsover Street, London W1W 6AB, UK (siege) / 12 Rue Monge, 75005 Paris (etablissement France)",
+    "siret": "92306774800015",
+    "forme_juridique": "Ltd (UpperKey Living Ltd UK) / Entrepreneur individuel (France, dirigeant Kyle Hollister)",
+    "linkedin_societe": "https://www.linkedin.com/company/theupperkey",
+    "instagram": "https://www.instagram.com/upperkey/",
+    "facebook": "https://www.facebook.com/UpperKey",
+    "note_existante": "",
+    "sources": [
+      "https://www.theupperkey.com/about-us",
+      "https://www.theupperkey.com/contact-us",
+      "https://www.linkedin.com/company/theupperkey",
+      "https://www.societe.com/etablissement/upperkey-92306774800015.html"
+    ],
+    "enriched_at": "2026-05-11",
+    "note": "Johan Hajji base a Londres. Email CEO masque sur RocketReach (j******@theupperkey.com), pattern probable johan@theupperkey.com (non confirme). Etablissement France gere par Kyle Hollister (entrepreneur individuel)."
+  },
+  {
+    "nom": "Vivre a Lyon",
+    "siteWeb": "",
+    "villes": [],
+    "fondateur": "Alexandre Cubertafont",
+    "titre": "Fondateur",
+    "linkedin_ceo": "",
+    "cofondateurs": [],
+    "email_ceo": null,
+    "email_contact": "contact@vivre-a-lyon.com",
+    "email_confidence": "aucun",
+    "telephone": "+33 4 72 75 10 16",
+    "adresse": "155 rue Pierre Corneille, 69003 Lyon",
+    "siret": "89004374800015",
+    "forme_juridique": "SAS",
+    "linkedin_societe": "https://www.linkedin.com/company/vivre-à-lyon/",
+    "instagram": "https://www.instagram.com/vivrealyonfrance/",
+    "facebook": "https://www.facebook.com/vivrealyonFrance/",
+    "note_existante": "Fondee le 1er octobre 2020",
+    "sources": [
+      "https://www.vivre-a-lyon.com/",
+      "https://www.societe.com/societe/vivre-a-lyon-890043748.html",
+      "https://www.lyon-entreprises.com/dirigeant/alexandre-cubertafont-2/presentation-alexandre-cubertafont-2"
+    ],
+    "enriched_at": "2026-05-11"
+  },
+  {
+    "nom": "WeHost",
+    "siteWeb": "https://www.wehost.fr",
+    "villes": [
+      "Paris",
+      "Lyon",
+      "Bordeaux",
+      "Marseille",
+      "Nice"
+    ],
+    "fondateur": "Romain Bellet",
+    "titre": "Co-fondateur & CEO",
+    "linkedin_ceo": "https://www.linkedin.com/in/romain-bellet-545b488/",
+    "cofondateurs": [
+      "Victor Fioux"
+    ],
+    "email_ceo": null,
+    "email_contact": "contact@wehost.fr",
+    "email_confidence": "aucun",
+    "telephone": "01 89 47 00 14",
+    "adresse": "10 rue de Penthièvre, 75008 Paris",
+    "siret": "80491078400029",
+    "forme_juridique": "SAS",
+    "linkedin_societe": "https://www.linkedin.com/company/wehost",
+    "instagram": null,
+    "facebook": null,
+    "note_existante": "",
+    "sources": [
+      "https://www.wehost.fr/mentions-legales/",
+      "https://www.wehost.fr/societe/",
+      "https://hoodspot.fr/agences-immobilieres/wehost-80491078400029/"
+    ],
+    "enriched_at": "2026-05-11"
+  },
+  {
+    "nom": "Weekome",
+    "siteWeb": "https://www.weekome.com",
+    "villes": [
+      "Paris",
+      "Ile-de-France"
+    ],
+    "fondateur": "Jeremy Fortin",
+    "titre": "Fondateur & President",
+    "linkedin_ceo": "https://www.linkedin.com/in/j%C3%A9r%C3%A9my-fortin-7861281b/",
+    "cofondateurs": [],
+    "email_ceo": null,
+    "email_contact": "contact@weekome.com",
+    "email_confidence": "aucun",
+    "telephone": "+33 9 70 70 05 85",
+    "adresse": "75 Bd Haussmann, 75008 Paris",
+    "siret": "85041327900017",
+    "forme_juridique": "SAS",
+    "linkedin_societe": "https://www.linkedin.com/company/weekome/",
+    "instagram": "https://www.instagram.com/weekome/",
+    "facebook": "https://www.facebook.com/weekome.agence.location.saisonniere/",
+    "note_existante": "",
+    "sources": [
+      "https://weekome.fr",
+      "https://www.societe.com/societe/weekome-850413279.html",
+      "https://fr.linkedin.com/company/maison-et-appart"
+    ],
+    "enriched_at": "2026-05-11"
+  },
+  {
+    "nom": "WelcHome34",
+    "siteWeb": "https://welchome34.fr",
+    "villes": [
+      "Montpellier",
+      "Palavas-les-Flots",
+      "Carnon",
+      "Le Crès",
+      "Saint-Jean-de-Védas",
+      "Lattes"
+    ],
+    "fondateur": "Sarah Sayagh",
+    "titre": "Co-fondatrice & Presidente",
+    "linkedin_ceo": "",
+    "cofondateurs": [
+      "Jonathan Martial"
+    ],
+    "email_ceo": null,
+    "email_contact": "contact@welchome34.fr",
+    "email_confidence": "aucun",
+    "telephone": "06 63 36 47 89",
+    "adresse": "598 avenue du Père Soulas, 34090 Montpellier",
+    "siret": "85056509400024",
+    "forme_juridique": "SASU",
+    "linkedin_societe": "https://fr.linkedin.com/company/welchome34",
+    "instagram": "https://www.instagram.com/welchome34",
+    "facebook": "https://www.facebook.com/welchome34",
+    "note_existante": "Fondee en 2017 a Montpellier",
+    "sources": [
+      "https://welchome34.fr",
+      "https://welchome34.fr/mentions-legales",
+      "https://www.societe.com/societe/welchome34-850565094.html",
+      "https://dirigeant.societe.com/dirigeant/Sarah.SAYAGH.04620951.html"
+    ],
+    "enriched_at": "2026-05-11"
+  },
+  {
+    "nom": "Welkeys",
+    "siteWeb": "https://www.welkeys.com",
+    "villes": [
+      "Paris",
+      "Lyon",
+      "Bordeaux",
+      "Marseille",
+      "Nice",
+      "Cannes",
+      "Biarritz",
+      "Toulouse"
+    ],
+    "fondateur": "Chloe Fournier",
+    "titre": "Fondatrice & CEO",
+    "linkedin_ceo": "https://www.linkedin.com/in/chlo%C3%A9-fournier-6a1b6911/",
+    "cofondateurs": [],
+    "email_ceo": null,
+    "email_contact": "contact@welkeys.com",
+    "email_confidence": "aucun",
+    "telephone": "01 84 88 94 50",
+    "adresse": "82 avenue du Maine, 75014 Paris",
+    "siret": "80778731200000",
+    "forme_juridique": "SAS",
+    "linkedin_societe": "https://www.linkedin.com/company/welkeys",
+    "instagram": "https://www.instagram.com/welkeys_france",
+    "facebook": "https://www.facebook.com/welkeys",
+    "note_existante": "",
+    "sources": [
+      "https://www.welkeys.com",
+      "https://www.welkeys.com/mentions-legales",
+      "https://www.societe.com/societe/concierge-personal-sas-807787312.html"
+    ],
+    "enriched_at": "2026-05-11"
+  },
+  {
+    "nom": "YourHostHelper",
+    "siteWeb": "https://yourhosthelper.com",
+    "villes": [
+      "Paris",
+      "Lyon",
+      "Bordeaux",
+      "Marseille",
+      "Nice",
+      "Toulouse",
+      "Montpellier",
+      "Nantes"
+    ],
+    "fondateur": "Michael Pajczer",
+    "titre": "Fondateur & Directeur",
+    "linkedin_ceo": "https://www.linkedin.com/in/micha%C3%ABl-pajczer-054974137/",
+    "cofondateurs": [],
+    "email_ceo": null,
+    "email_contact": "contact@yourhosthelper.com",
+    "email_confidence": "aucun",
+    "telephone": "04 93 30 37 96",
+    "adresse": "1 rue des Mimosas, 06400 Cannes",
+    "siret": "90290143800017",
+    "forme_juridique": "SASU",
+    "linkedin_societe": "https://www.linkedin.com/company/yourhosthelper/",
+    "instagram": null,
+    "facebook": "https://www.facebook.com/YourHostHelper",
+    "note_existante": "",
+    "sources": [
+      "https://yourhosthelper.com/mentions-legales",
+      "https://www.societe.com/societe/yourhosthelper-group-902901438.html"
+    ],
+    "enriched_at": "2026-05-11"
+  },
+  {
+    "nom": "Yume Conciergerie",
+    "siteWeb": "",
+    "villes": [],
+    "fondateur": "Nicolas de Azevedo",
+    "titre": "Fondateur & President",
+    "linkedin_ceo": "https://www.linkedin.com/in/nicolas-de-azevedo-826a15159/",
+    "cofondateurs": [],
+    "email_ceo": null,
+    "email_contact": "hello@yume-conciergerie.com",
+    "email_confidence": "aucun",
+    "telephone": "+33 7 72 09 26 13",
+    "adresse": "53 Rue Lejeune, 31000 Toulouse",
+    "siret": "88477324300000",
+    "forme_juridique": "SAS",
+    "linkedin_societe": null,
+    "instagram": null,
+    "facebook": null,
+    "note_existante": "",
+    "sources": [
+      "https://yume-conciergerie.com/contact/",
+      "https://www.societe.com/societe/yume-884773243.html",
+      "https://annuaire-entreprises.data.gouv.fr/entreprise/yume-884773243"
+    ],
+    "enriched_at": "2026-05-11"
+  },
+  {
+    "nom": "Ze Perfect Place",
+    "siteWeb": "https://www.zeperfectplace.com",
+    "villes": [
+      "Nice",
+      "Côte d'Azur"
+    ],
+    "fondateur": "Jerome Payan",
+    "titre": "Co-fondateur",
+    "linkedin_ceo": "https://fr.linkedin.com/in/j%C3%A9r%C3%B4me-payan",
+    "cofondateurs": [
+      "Boris"
+    ],
+    "email_ceo": null,
+    "email_contact": null,
+    "email_confidence": "aucun",
+    "telephone": "+33 7 56 90 55 98",
+    "adresse": "22 Rue Gioffredo, 06000 Nice",
+    "siret": "99937879700000",
+    "forme_juridique": "SAS",
+    "linkedin_societe": null,
+    "instagram": "https://www.instagram.com/zeperfectplace/",
+    "facebook": "https://www.facebook.com/payanjerome/",
+    "note_existante": "Conciergerie a Nice, 10 ans d'experience",
+    "sources": [
+      "https://www.zeperfectplace.com",
+      "https://www.zeperfectplace.com/contact/nous-contacter"
+    ],
+    "enriched_at": "2026-05-11"
+  }
+]
