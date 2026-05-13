@@ -1,100 +1,180 @@
-# Récap enrichissement Conciergeries — emails CEO + contacts B2B
+# 🎯 Conciergeries Airbnb FR — Base de prospection B2B Monga
 
-**Date** : 2026-05-11  |  **Total** : 58 conciergeries
+**Date** : 2026-05-13  |  **Total** : 421 conciergeries enrichies
 
-## Stats
+## 📊 Stats globales
 
-- 📧 **Email CEO** trouvé/déduit : 9/58
-- 📨 **Email contact générique** : 45/58
-- 📞 **Téléphone direct** : 50/58
-- 🆔 **SIRET** : 50/58
-- 💼 **LinkedIn CEO** : 38/58
-- 🏢 **LinkedIn société** : 34/58
+| Métrique | Valeur |
+|---|---|
+| 📧 Email CEO **haute** confiance | 31 (7%) |
+| 📧 Email CEO moyenne confiance (pattern) | 68 (16%) |
+| 📨 Email contact générique | 199 |
+| 📞 Téléphone direct | 206 |
+| 🆔 SIRET / SIREN | 180 |
+| 💼 LinkedIn CEO | 94 |
+| 🏢 LinkedIn société | 90 |
+| ✅ Statut "active" confirmé | 346 |
 
-## 🎯 Emails CEO confirmés / déduits
+## 🔥 Top prospects — Emails CEO HAUTE confiance
+**31 conciergeries** avec email CEO direct, prêts pour outreach perso.
 
-| Conciergerie | CEO | Email CEO | Confiance | LinkedIn |
+| Conciergerie | CEO | Email CEO | Tel | LinkedIn | Ville(s) |
+|---|---|---|---|---|---|
+| **Aurora Conciergerie** | Eden Stamm | `eden.stamm@auroraconciergerie.com` | +33 7 75 77 21 76 | [lien](https://www.linkedin.com/in/edenstamm/) | Paris |
+| **Azurenting** | Joao Guittari | `joao.guittarijg@gmail.com` | 07 71 20 53 68 | [lien](aucun) | Cannes, Côte d'Azur |
+| **Belliservice** | Claire Jérôme | `belliservice.claire@gmail.com` | 06 76 97 26 36 | [lien](aucun) | Fontainebleau |
+| **Cindy's Home** | Cindy | `cindyshomeparis@gmail.com` | +33 6 58 67 96 19 | [lien](aucun) | Paris, Hauts-de-Seine |
+| **Cocoonr** | Antoine Serrurier | `antoine.serrurier@cocoonr.fr` | 09 70 70 08 59 | [lien](https://www.linkedin.com/in/antoine-serrurier-6a505917/) | Nantes, La Baule |
+| **Conciergerie Ansalou** | Walter Argoud | `conciergerieansalou@gmail.com` | +33 6 09 34 78 17 / +33 6 10 44 43 77 | [lien](aucun) | Aix-en-Provence, Sainte-Baume |
+| **Conciergerie BnB Relax** | Mathilde Verdalle | `mathfraysse@gmail.com` | +33 7 62 53 68 94 | [lien](aucun) | Toulouse, Blagnac |
+| **Conciergerie de Bourgogne** | Agnès Toth | `agnes.toth@conciergeriedebourgogne.com` | — | — | Macon, Fuisse |
+| **Conciergerie de Bourgogne (Solutre)** | Agnes Toth | `agnes.toth@conciergeriedebourgogne.com` | — | — | Solutre, Macon |
+| **Guestadom** | Theo Deniau | `theo.deniau@guest-adom.com` | +33 2 43 49 56 14 | [lien](https://www.linkedin.com/in/th%C3%A9o-deniau-144531136/) | Paris, Ile-de-France |
+| **GuestReady** | Alexander Limpert | `alexander.limpert@guestready.com` | +33 1 76 44 04 31 | [lien](https://www.linkedin.com/in/alexanderlimpert/) | Paris, Lyon |
+| **Guesty Home** | Sophie Degeorge | `degeorge.sophie@gmail.com` | 07 68 90 05 92 | — | Perpignan, Canet-en-Roussillon |
+| **HelloCosy** | Stéphanie Jason | `stephanie@hellocosy.fr` | aucun | [lien](https://fr.linkedin.com/in/st%C3%A9phanie-jason-3a1a13b0) | Marne-la-Vallée, Fontainebleau |
+| **Immoloc** | Thomas Legars | `thomaslegars@immoloc-gestion.com` | +33 4 23 20 79 59 / +33 6 15 95 48 73 | [lien](aucun) | Nice, Cannes |
+| **Keyhouse** | François Cornuey | `fcornuey@bskimmobilier.com` | 07 49 49 17 17 | [lien](https://www.linkedin.com/in/fran%C3%A7ois-cornuey-%F0%9F%87%AB%F0%9F%87%B7-a2b518121/) | Saint-Malo, Dinard |
+| **KosyLodge** | Elodie David | `kosylodge@gmail.com` | 06 52 89 05 79 | [lien](aucun) | Marseille, Aix-en-Provence |
+| **L'Intendant Bordelais** | Thomas Favre | `intendantbordelais@gmail.com` | 07 68 99 79 03 | [lien](https://www.linkedin.com/in/thomas-favre-21b67410a/) | Bordeaux |
+| **La Familia BnB** | Aurore Pageard | `aurore.pageard@hotmail.fr` | 06 51 09 49 66 | [lien](aucun) | Aix-en-Provence |
+| **Le Trousseau Conciergerie** | Alexandre Tavitian | `letrousseau.lyon@gmail.com` | +33 6 31 20 50 54 | [lien](aucun) | Lyon |
+| **LMD Conciergerie** | Laurent Dreyer | `lmdimmo66@gmail.com` | 06 72 76 99 26 / 06 59 70 51 28 | [lien](aucun) | Annecy, Chamonix |
+| **Maisonnette** | Antoine & Mireille (mère et fils) | `antoine@superhosts.io` | +33 6 75 27 23 70 | [lien](aucun) | Bordeaux, Talence |
+| **Meet Home** | Emma Montchalin | `emma.meethome@gmail.com` | 07 52 08 26 27 | [lien](https://fr.linkedin.com/in/emma-montchalin) | Lyon |
+| **My Room Conciergerie** | Urielle | `urielle@myroomconciergerie.nc` | +687 86 19 77 | — | Nouméa |
+| **Nevatony** | Anthony Ardisson (avec Anéva) | `heureux.proprietaires@gmail.com` | aucun | [lien](aucun) | Paris, Île-de-France |
+| **Open Up Paris** | Juliette Laurens | `juliette@openup.paris` | +33 6 71 50 18 45 | [lien](https://fr.linkedin.com/in/juliettelaurens) | Paris |
+| **Perpiloc** | Arnaud Cuny | `perpiloc@outlook.com` | +33 6 41 66 59 99 | — | Perpignan |
+| **SweetInn** | Paul Besnainou | `paulb@sweetinn.com` | +33 1 86 47 76 82 | [lien](https://www.linkedin.com/in/paul-besnainou/) | Paris |
+| **Tranquille Emile** | Pierre Bresle | `hello@tranquilleemile.com` | — | [lien](https://www.linkedin.com/in/pierre-bresle-ba722558/) | Paris, Lyon |
+| **Vesta Gestion** | Clément Gianferrari | `cg@in-vesta.fr` | +33 7 60 03 63 39 | — | Carcassonne, Narbonne |
+| **West House Conciergerie** | Carole Thouzery | `carole@west-house.fr` | +33 6 16 11 14 11 | [lien](https://www.linkedin.com/in/carole-thouzery-860b21174/) | Saint-Malo, Saint-Servan |
+| **White House Concierge** | Audrey Tazi | `audrey.whconcierge@gmail.com` | +33 6 37 80 80 74 | — | Val Thorens, Les Menuires |
+
+## 🟡 Emails CEO MOYENNE confiance (patterns à valider via Hunter/Apollo)
+**68 conciergeries** avec email CEO probable (pattern `prenom.nom@`) — vérifier avant envoi.
+
+| Conciergerie | CEO | Email probable | LinkedIn | Ville(s) |
 |---|---|---|---|---|
-| **Cocoonr** | Antoine Serrurier | `antoine.serrurier@cocoonr.fr` | moyenne | [lien](https://www.linkedin.com/in/antoine-serrurier-6a505917/) |
-| **Cozy-appart** | Zakari Bouzalmat | `zakari.bouzalmat@cozy-appart.fr` | moyenne | — |
-| **Groomi** | Manon Gorassini | `manon.gorassini@conciergerie-groomi.fr` | moyenne | — |
-| **Groomlidays** | Non trouve | `nadege.ambrosi@groomlidays.com` | basse | [lien](https://www.linkedin.com/in/nadege-ambrosi) |
-| **Guestadom** | Theo Deniau | `theo.deniau@guest-adom.com` | moyenne | [lien](https://www.linkedin.com/in/th%C3%A9o-deniau-144531136/) |
-| **Guester** | Non trouve | `antoine.ifergan@guester.com` | moyenne | — |
-| **Haussman Conciergerie** | Anthony Barbas | `anthony.barbas@haussmannconciergerie.fr` | moyenne | [lien](https://www.linkedin.com/in/anthonybarbas/) |
-| **Meet Home** | Emma Montchalin | `emma.meethome@gmail.com` | haute | [lien](https://fr.linkedin.com/in/emma-montchalin) |
-| **Open Up Paris** | Juliette Laurens | `juliette@openup.paris` | haute | [lien](https://fr.linkedin.com/in/juliettelaurens) |
+| A Joie Paris | Juan Benhamou Srequi | `juan@joieparis.fr (pattern, non vérifié)` | [lien](aucun) | Paris |
+| Avana Conciergerie | Marina Thetiot | `marina.thetiot@avanaconciergerie.fr` | — | Nantes, Saint-Nazaire |
+| Beausejour Conciergerie | Baptiste Divaret | `baptiste.divaret@beausejour-conciergerie.com` | [lien](https://www.linkedin.com/in/baptiste-divaret-550642170/) | Bayeux, Caen |
+| BnB Access | Réda Hadj Nassar | `reda@www.bnbaccess.eu` | [lien](aucun) | Marseille |
+| BnB Bask | Eric Di Maggio | `eric.dimaggio@bnbbask.com` | [lien](https://fr.linkedin.com/in/eric-di-maggio-7a19a810a) | Biarritz, Anglet |
+| BNB Toulouse (ORBIS) | Marvin Steve Démoléon | `marvin.demoleon@bnbtoulouse.com` | [lien](aucun) | Toulouse |
+| Boostars | Guillaume Cabot | `guillaume.cabot@boostars.com` | — | Rouen, Deauville |
+| Capsule Corp Conciergerie | Jérôme Charnot | `jerome.charnot@capsulecorpimmo.com` | [lien](aucun) | Grenoble |
+| Cham'Concierge | Giuseppe Pentassuglia | `giuseppe.pentassuglia@chamconcierge.com` | [lien](aucun) | Chamonix-Mont-Blanc |
+| Conciergerie LH | Rudy Leleu | `rudy.leleu@conciergerielh.fr` | — | Le Havre, Etretat |
+| Conciergerie Pro | Alexis Pottier | `alexis.pottier@conciergerie-pro.com` | [lien](aucun) | Paris |
+| Conciergerie Remi Griffoul | Rémi Griffoul | `remi.griffoul@conciergerie-remigriffoul.com` | — | Honfleur, Deauville |
+| Conciergerie Toulouse | Natalia Cavadji | `natalia.cavadji@conciergerietoulouse.com` | [lien](aucun) | Toulouse |
+| CosyConciergerie | Marlène Billard | `contact@cosyconciergerie.com` | [lien](aucun) | Île-de-France |
+| Cozy-appart | Zakari Bouzalmat | `zakari.bouzalmat@cozy-appart.fr` | — | Toulouse |
+| Experience Me | Antoine Philippe | `antoine.philippe@experienceme.fr` | [lien](aucun) | Nice, Côte d'Azur |
+| Ferdinand Conciergerie | Valentin Labat | `valentin.labat@ferdinand-conciergerie.fr` | [lien](aucun) | Arcachon |
+| Frenchyhomes | Carole-Anne Ballot & Michael Ballot | `bonjour@frenchyhomes.com` | [lien](aucun) | Bassin d'Arcachon |
+| Fullbnbzen | Dimitri Thomar | `dimitri.thomar@fullbnbzen.com` | [lien](aucun) | Toulouse |
+| Groomi | Manon Gorassini | `manon.gorassini@conciergerie-groomi.fr` | — | Montpellier, Alpes |
+| Groomlidays | Non trouve | `nadege.ambrosi@groomlidays.com` | [lien](https://www.linkedin.com/in/nadege-ambrosi) | Paris, Côte d'Azur |
+| Guester | Non trouve | `antoine.ifergan@guester.com` | — | Paris, Lyon |
+| Happy Keys Conciergerie | Fabien Ferrari | `fabien.ferrari@happykeysconciergerie.com` | [lien](https://www.linkedin.com/in/fabien-ferrari-87b99a116/) | Nice |
+| Haussman Conciergerie | Anthony Barbas | `anthony.barbas@haussmannconciergerie.fr` | [lien](https://www.linkedin.com/in/anthonybarbas/) | Montpellier |
+| Homecalm | Thibaut Bellone | `thibaut.bellone@homecalm.fr (pattern, non vérifié)` | [lien](aucun) | Fréjus, Saint-Raphaël |
+| Homerez | Loic Dupont | `loic.dupont@homerez.com` | [lien](https://www.linkedin.com/in/loicdupont/) | Paris, Bordeaux |
+| Homs Conciergerie | Johan Rawart | `johan.rawart@homsconciergerie.com` | [lien](aucun) | Montpellier, Hérault |
+| HOMS Conciergerie | Johan Rawart | `johan.rawart@homsconciergerie.com` | — | Montpellier |
+| HostnFly | Quentin Brackers de Hugo | `quentin@hostnfly.com` | [lien](https://www.linkedin.com/in/quentinbrackersdehugo/) | Paris, Lyon |
+| Houst | James Jenkins-Yates | `james.jenkins-yates@houst.com` | [lien](https://www.linkedin.com/in/jamesjenkinsyates/) | Paris |
+| KeyNest | Florian Hoven | `florian@keynest.com` | — | Paris, France |
+| Keys Manager | Frédéric Palermini | `frederic.palermini@keysmanager.com` | [lien](aucun) | Avignon |
+| L'Aixcapade | Stéphanie Santoromito | `stephanie.santoromito@conciergerie-laixcapade.com` | [lien](https://www.linkedin.com/in/conciergerie-l-aixcapade-944b0b210/) | Aix-en-Provence |
+| La Conciergerie Avignon | Phillip Chandler | `phillip.chandler@laconciergerieavignon.com` | [lien](aucun) | Avignon, Gard |
+| La Conciergerie By Amistad | Alexandra Marie Lavillonnière | `alexandra@laconciergeriebyamistad.com` | — | Nimes |
+| La Conciergerie de Lucas | Lucas Pastor | `lucas.pastor@laconciergeriedelucas.fr` | [lien](https://fr.linkedin.com/in/lucas-pastor-a0263130a) | La Rochelle, Royan |
+| La Conciergerie de Savoie | Edwige Mognon | `edwige.mognon@laconciergeriedesavoie.com` | [lien](aucun) | Aix-les-Bains, Chambéry |
+| La Conciergerie du Lac | Lionel Hunziker | `lionel.hunziker@laconciergeriedulac.com` | [lien](aucun) | Annecy |
+| La Conciergerie Française (Fréjus) | Audrey Uzel | `audrey.uzel@conciergeriefrancaise.fr (pattern, non vérifié)` | [lien](https://www.linkedin.com/in/audreyuzel/) | Fréjus, Saint-Raphaël |
+| La Conciergerie Havraise | Antoine Rivaud | `antoine.rivaud@laconciergeriehavraise.fr` | — | Le Havre, Etretat |
+| La Conciergerie Hossegor | Nina Roma | `hossegor.laconciergerie@gmail.com` | — | Hossegor, Soorts-Hossegor |
+| La Conciergerie Marnaise | Chris Nou | `chris.nou@laconciergeriemarnaise.fr` | [lien](aucun) | Paris, Seine-et-Marne |
+| La Petite Conciergerie Aixoise | Albane Sonnet | `albane.sonnet@conciergerie-aixlesbains.fr` | [lien](https://fr.linkedin.com/in/albane-sonnet-566930124) | Aix-les-Bains |
+| Les Clés d'Aix | Silvio Rosso | `silvio.rosso@lesclesdaix.com` | [lien](https://www.linkedin.com/in/silvio-rosso-2ab86863/) | Aix-en-Provence |
+| Les Clés du Sud | Laure Martin | `laure.martin@lacledusud.com (pattern, non vérifié)` | [lien](aucun) | Marseille, Aix-en-Provence |
+| Les Meilleurs Concierges | Juliette Cordelle | `juliette.cordelle@lesmeilleursconcierges.com` | [lien](aucun) | Montpellier, Avignon |
+| LikeYourBed | Chenda Ros | `chenda.ros@likeyourbed.com` | [lien](aucun) | Annecy |
+| Liwango | Aurélien Jemma | `aurelien.jemma@liwango.com` | [lien](https://www.linkedin.com/in/aurelien-jemma) | Paris, Lyon |
+| Loc'Atlantic | Valérie Gorry | `valerie.gorry@loc-atlantic.fr` | [lien](aucun) | Bayonne, Biarritz |
+| Locatum | Corentin Dejean | `corentin.dejean@monlocatum.com` | [lien](aucun) | Toulouse |
+| Lodgis | Alexis Alban | `alexis.alban@lodgis.com` | [lien](https://fr.linkedin.com/in/alexis-alban-59ab9b36) | Paris |
+| Louloue | Fred C. | `louloue.paris@gmail.com` | [lien](https://www.linkedin.com/in/fred-c-5b1182109/) | Tours, Amboise |
+| Lys Conciergerie | Mounya Abdellaoui | `mounya.abdellaoui@lys-conciergerie.fr` | — | Nimes |
+| Maison Boréale | Thibaud Scotti | `thibaud.scotti@maisonboreale.fr` | [lien](aucun) | Arcachon, Pyla-sur-Mer |
+| Margaret Conciergerie | Aude Garlaschelli | `aude.garlaschelli@margaretconciergerie.com` | [lien](https://www.linkedin.com/in/aude-garlaschelli-92b3548a/) | Annecy |
+| NAPS IMMO | Steve Anavi | `steve.anavi@naps-immo.com` | [lien](aucun) | Paris, Montreuil |
+| OC-Keys | Rémi Alba | `remi.alba@oc-keys.fr` | — | Carcassonne, Occitanie |
+| Pack24 | Cédric De Martimprey | `cedric.demartimprey@pack24.fr` | [lien](https://fr.linkedin.com/posts/de-martimprey-c%C3%A9dric-49abb62_pack24-conciergeriepack24-activity-7316524395911417856-7_Aq) | La Baule, Pornic |
+| Paris Home Keys | Benjamin Rouan | `benjamin.rouan@parishomekeys.com` | [lien](aucun) | Paris |
+| ParisBnB | Johan Hajji | `johan@theupperkey.com` | [lien](https://www.linkedin.com/in/hotelnews/) | Paris |
+| _...+8 autres dans prospection-complete.json_ |||||
 
-## ⚠️ Alertes prospection (à NE PAS contacter ou à recibler)
+## ⚠️ À NE PAS contacter (liquidation / rachat / inactif)
 
-- **BnB Facile** — Fondee fin 2015 a Nantes, conciergerie eco-responsable; ATTENTION : entreprise en liquidation judiciaire (debutee 19/10/2022, cloturee 18/10/2024). Site bnbfacile.fr inaccessible (ECONNREFUSED). Activite probablement cessee. Toulouse mentionne dans la donnee batch est probablement une erreur — entreprise basee a Nantes.
-- **BnbLord** — Rachete par GuestReady en 2019; ATTENTION : BnbLord rachete par GuestReady (Suisse) en 2019. Nom legal change en GUESTREADY FRANCE depuis 27/01/2021. Dirigeant actuel : GUESTREADY AG (Suisse), represente par Raphael Florent Alexandre Oren. Jacques Lavie n'est plus aux commandes — il a vendu la societe. Pour prospection : contacter via le contact GuestReady ou directement Jacques Lavie sur ses nouveaux projets.
-- **CheckMyGuest** — ATTENTION : CheckMyGuest a ete rachete par OYO (geant indien). President actuel : Arjun KARANGIYA. DG : KC HOLDING, JI HOLDING, JSM (holdings des fondateurs). Julien Madar reste Co-Fondateur & DG. Kevin Cohen et Joffrey Ichbia toujours impliques. 44 employes. Mises a jour site par Jeremy Houchat.
-- **ConciergeBB** — Prenom uniquement identifie, expert immobilier depuis plus de 20 ans
-- **Groomi** — Entreprise familiale a Montpellier et Oisans, plus de 10 ans d'experience
-- **Luckey** — Rachete par Airbnb en 2018
-- **Prello** — Societe en liquidation volontaire depuis 12/09/2024 (a verifier avant prospection)
-- **Serenity Conciergerie** — Plusieurs entites sous ce nom. Nicolas Vedovato est fondateur de Serenity Groupe. Marie Niderleidner est CEO de Serenity Conciergerie BnB au Luxembourg.; ATTENTION: ce SERENITY CONCIERGERIE (Toulouse/Saint-Sulpice-sur-Leze) est une conciergerie d'ENTREPRISE (services aux employes), PAS une conciergerie Airbnb. Pour conciergerie Airbnb il faut viser Serenity au Var (serenity-conciergerie.fr - serenity-conciergerie.com - Vidauban/Draguignan, tel 07 49 80 26 00, email contact@serenity-conciergerie.fr). Dirigeants multiples (Nicole MICHEL, Yves OTTOGALI, Valerie GHRENASSIA, Christian PRADELLES, Christiane MURGA et 7 autres). Reverifier la pertinence pour la prospection SaaS conciergerie.
+**18 entreprises** à filtrer du pipeline :
 
-## 📨 Tous les emails de contact (pour campagne mass mail)
+- **Antilles Exception** (rachetee) — ALERTE: rachete par Hoomy (leader conciergerie metropole) le 16/10/2025. Equipe en transition - approche via Hoomy ou directe. 700+ villas geres, gros potentiel SaaS.
+- **Conciergerie LCD** (active) — Création 10/2024 (nouvelle structure après ex-EI fermée 10/2024 - cycle de structuration). Couvre Besançon + Côte d'Azur (Pontarlier via partenaire Nahel Champliaud). Email Gmail, à upgrader. Très bon
+- **L'Intendant Bordelais** (liquidation) — ALERTE: Société dissoute le 8 août 2024, cessation d'activité le 30 avril 2024. À exclure de la prospection.
+- **Luckey** (active) — Rachete par Airbnb en 2018
+- **Prello** (active) — Societe en liquidation volontaire depuis 12/09/2024 (a verifier avant prospection)
+- **L'Aixcapade** (active) — ALERTE : SARL AIXCAPADE (809663065) liquidée 06/05/2022. Activité continue en E.I. Stéphanie Santoromito (497506535). Solo entrepreneur depuis liquidation.
+- **La Conciergerie de l'Est** (rachetée) — ALERTE: rachetée par COCOONR (agence de location). Sélectionnée par Airbnb (60+ biens). Toujours opérationnelle sous nouvelle marque - approche prospection à adapter.
+- **Soludom** (radiée) — ALERTE: SAS dissoute amiablement 22/11/2019 (liquidateurs Arnaud + Jeremy Desplanques). Site/activité encore en ligne en 2026 → probable micro-entreprise actuelle. Arnaud LinkedIn actif.
+- **BnbLord** (active) — Rachete par GuestReady en 2019
+- **Book&Pay** (rachetée) — ALERTE: bookandpay.fr/mentions-legales redirige (301) vers cocoonr.fr/mentions-legales. Book&Pay opérée par/intégrée à Cocoonr. Page mentions Cocoonr retourne 404, à creuser. Pas un prospect autonome.
+- **Braveo Conciergerie** (liquidation) — ALERTE: Braveo EMLR (SAS) en redressement judiciaire prononcé le 05/09/2023 (cessation paiements 31/03/2023). À éviter pour prospection commerciale. Vérifier si nouvelle entité opérationnelle.
+- **Butler** (active) — AVERTISSEMENT IMPORTANT : Le site butler-paris.com fourni dans la donnee batch est INACCESSIBLE (ECONNREFUSED / DNS error). Idrissa Nimaga est associe selon LinkedIn a 'butler conciergerie' a Elancour
+- **CheckMyGuest** (active) — ATTENTION : CheckMyGuest a ete rachete par OYO (geant indien). President actuel : Arjun KARANGIYA. DG : KC HOLDING, JI HOLDING, JSM (holdings des fondateurs). Julien Madar reste Co-Fondateur & DG. Kev
+- **Jemepropose Conciergerie** (rachetée) — Racheté par Aladom (groupe Hellowork/Regionsjob) en 2018. Plateforme petites annonces services — pas conciergerie pure.
+- **La Conciergerie Marseillaise** (liquidation) — ALERTE: en liquidation depuis 15/03/2023. Hors cible. Le site peut rester ouvert mais entité morte.
+- **Luckey (Airbnb)** (rachetée) — ALERTE: Rachetée par Airbnb en décembre 2018, site redirige vers airbnb.com. NON prospect (interne Airbnb).
+- **Morenn Ty Services** (liquidation) — Redressement judiciaire ouvert le 04/02/2026 (RJ 2026J00063). Site redirige vers morenn-conciergerie.fr. À éviter pour prospection.
+- **Terre et Mer Conciergerie** (liquidation) — ALERTE: liquidation judiciaire simplifiée ouverte 17/02/2026 (TC La Rochelle, mandataire CEDIGEP/Diarra). Date cessation paiement 30/06/2025. À éviter pour prospection.
 
-| Conciergerie | CEO | Email contact | Tel | Ville(s) |
-|---|---|---|---|---|
-| All In Lyon | Gautier | `contact@allinlyon.com` | +33 9 50 58 32 81 | Lyon |
-| Aurora Conciergerie | Eden Stamm | `contact@auroraconciergerie.com` | +33 7 75 77 21 76 | Paris |
-| BnB Facile | Fanny et Gregoire | `—` | — | Toulouse |
-| BnB Groom Services | Julien | `contact@bnbgroomservices.com` | +33 6 19 21 51 61 | Nice, Cannes, Côte d'Azur |
-| BnbLord | Jacques Lavie | `—` | +33 1 79 75 70 40 | Paris, Lyon, Bordeaux |
-| BnbSitter | Piero Cipriano | `—` | +33 1 88 24 88 88 | Paris |
-| Butler | Idrissa Nimaga | `—` | — | Paris, Ile-de-France |
-| Chamonix All Year | Joanne Elizabeth Saw | `info@chamonixallyear.com` | — | Chamonix, Vallée de Chamonix |
-| CheckMyGuest | Julien Madar | `—` | +33 1 88 24 24 24 | Paris, Lyon, Marseille |
-| ClickYourFlat | Non trouve | `contact@clickyourflat.com` | +33 1 89 70 60 18 | Paris |
-| Cocoonr | Antoine Serrurier | `contact@cocoonr.fr` | 09 70 70 08 59 | Nantes, La Baule, Pornic |
-| ConciergeBB | Arnaud | `demande@conciergebb.fr` | 09 80 80 12 66 (standard) / 07 59 79 05 34 (commercial) / +33 6 58 93 82 19 (sales EN) | France entière |
-| Cozy-appart | Zakari Bouzalmat | `contact@cozy-appart.fr` | 07 56 86 43 79 | Toulouse |
-| Groomi | Manon Gorassini | `contact@conciergerie-groomi.fr` | 04 65 84 82 11 (bureau) / 07 82 28 30 12 (mobile direction) | Montpellier, Alpes |
-| Groomlidays | Non trouve | `contact@groomlidays.com` | — | Paris, Côte d'Azur, Provence |
-| GuestReady | Alexander Limpert | `—` | +33 1 76 44 04 31 | Paris, Lyon, Bordeaux |
-| Guestadom | Theo Deniau | `contact@guest-adom.com` | +33 2 43 49 56 14 | Paris, Ile-de-France |
-| Guester | Non trouve | `contact@guester.com` | 01 84 19 08 88 | Paris, Lyon, Bordeaux |
-| Haussman Conciergerie | Anthony Barbas | `contact@haussmannconciergerie.fr` | — | Montpellier |
-| Hoosteur | Non trouve | `contact@hoosteur.com` | — | Paris, Lyon |
-| HostPartner | Charlotte | `aucun` | +33 7 68 38 62 09 | Paris |
-| HostnFly | Quentin Brackers de Hugo | `contact@hostnfly.com` | +33 1 86 76 12 82 | Paris, Lyon, Bordeaux |
-| Houst | James Jenkins-Yates | `aucun` | +33 1 86 47 62 80 | Paris |
-| Jym Conciergerie | Jeremy Foucrier | `contact@jym-conciergerie.com` | +33 7 85 92 91 73 | Bordeaux |
-| KeyNest | Florian Hoven | `aucun` | +33 1 84 60 25 00 | Paris, France |
-| Keylodge | Romain Desvignes | `reservations@keylodge.fr` | +262 262 83 00 50 | La Réunion, Ile de la Réunion |
-| LM Sud | Lea Marti | `contact@lmsudconciergerie.com` | +33 7 56 98 64 01 | Montpellier |
-| La Conciairgerie | Non trouve | `paris@laconciairgerie.com` | +33 9 83 02 10 11 | Paris, France |
-| La Conciergerie Lyonnaise | Non trouve | `aucun` | 07 43 39 83 17 | Lyon |
-| La Conciergerie de Finette | Non trouve | `contact@laconciergeriedefinette.com` | +33 6 13 35 76 07 | Bordeaux, CUB |
-| Les Cles d'Alfred | Jean-Jacques Dupont | `contact@lesclesdalfred.fr` | 05 64 72 01 32 | — |
-| Lodgis | Alexis Alban | `accueil@lodgis.com` | +33 1 70 39 11 11 | Paris |
-| Louloue | Fred C. | `louloue.fr@gmail.com` | 07 65 72 62 54 | Tours, Amboise, Poitiers |
-| Luckey | Aurelien Malfait | `hello@luckeyhomes.com` | 06 44 60 20 21 | — |
-| Ma Conciergerie en Occitanie | Angie Bellota Rivera | `maconciergerie.occitanie@gmail.com` | 06 14 98 05 23 | Toulouse, Occitanie |
-| Maison Franchin | Damien Franchin | `niceholyday.conciergerie@gmail.com` | 06 58 00 53 10 | Nice |
-| Meet Home | Emma Montchalin | `emma.meethome@gmail.com` | 07 52 08 26 27 | Lyon |
-| My Concierge In Nice | Non trouve | `—` | +33 4 93 87 30 64 | Nice |
-| Nestify | Non trouve | `Hello@Nestify.fr` | +33 1 87 66 68 27 | Paris, Bordeaux, Marseille |
-| Nestor & Jeeves | Franck Hamon | `contact@nestor-jeeves.fr` | +33 4 83 76 07 50 | Nice, Cannes, Monaco |
-| Open Up Paris | Juliette Laurens | `contact@openup.paris` | +33 6 71 50 18 45 | Paris |
-| ParisBnB | Johan Hajji | `admin@parisbnb.fr` | +33 7 45 88 58 98 | Paris |
-| Prello | Ludovic de Jouvancourt | `contact@prello.co` | +33 7 57 90 22 69 | Paris, Lyon, Bordeaux |
-| Sejourneur | Non trouve | `contact@sejourneur.com` | — | — |
-| Serenity Conciergerie | Non trouve | `—` | 07 68 31 47 76 | Toulouse |
-| Simple Nest | Mohson Butt | `contact@simple-nest.com` | 07 56 82 01 84 | Paris |
-| Super BNB | Non trouve | `superbnbtls@gmail.com` | 07 70 99 20 99 | Toulouse |
-| SweetInn | Paul Besnainou | `cs@sweett.com` | +33 1 86 47 76 82 | Paris |
-| Tranquille Emile | Pierre Bresle | `hello@tranquilleemile.com` | — | Paris, Lyon, Bordeaux |
-| UpperKey | Johan Hajji | `contact@theupperkey.com` | +44 75 14 27 03 94 | Paris, Lyon, Cannes |
-| Vivre a Lyon | Alexandre Cubertafont | `contact@vivre-a-lyon.com` | +33 4 72 75 10 16 | — |
-| WeHost | Romain Bellet | `contact@wehost.fr` | 01 89 47 00 14 | Paris, Lyon, Bordeaux |
-| Weekome | Jeremy Fortin | `contact@weekome.com` | +33 9 70 70 05 85 | Paris, Ile-de-France |
-| WelcHome34 | Sarah Sayagh | `contact@welchome34.fr` | 06 63 36 47 89 | Montpellier, Palavas-les-Flots, Carnon |
-| Welkeys | Chloe Fournier | `contact@welkeys.com` | 01 84 88 94 50 | Paris, Lyon, Bordeaux |
-| YourHostHelper | Michael Pajczer | `contact@yourhosthelper.com` | 04 93 30 37 96 | Paris, Lyon, Bordeaux |
-| Yume Conciergerie | Nicolas de Azevedo | `hello@yume-conciergerie.com` | +33 7 72 09 26 13 | — |
-| Ze Perfect Place | Jerome Payan | `—` | +33 7 56 90 55 98 | Nice, Côte d'Azur |
+## ⭐ Sélection éditoriale — Top cibles prioritaires
+
+Sélection de **30 prospects priorité 1** (statut active + email CEO disponible) :
+
+| Rang | Conciergerie | CEO | Email | Confiance | Tel | LinkedIn |
+|---|---|---|---|---|---|---|
+| 1 | **Aurora Conciergerie** | Eden Stamm | `eden.stamm@auroraconciergerie.com` | 🟢 haute | +33 7 75 77 21 76 | [lien](https://www.linkedin.com/in/edenstamm/) |
+| 2 | **Azurenting** | Joao Guittari | `joao.guittarijg@gmail.com` | 🟢 haute | 07 71 20 53 68 | [lien](aucun) |
+| 3 | **Belliservice** | Claire Jérôme | `belliservice.claire@gmail.com` | 🟢 haute | 06 76 97 26 36 | [lien](aucun) |
+| 4 | **Cindy's Home** | Cindy | `cindyshomeparis@gmail.com` | 🟢 haute | +33 6 58 67 96 19 | [lien](aucun) |
+| 5 | **Cocoonr** | Antoine Serrurier | `antoine.serrurier@cocoonr.fr` | 🟢 haute | 09 70 70 08 59 | [lien](https://www.linkedin.com/in/antoine-serrurier-6a505917/) |
+| 6 | **Conciergerie Ansalou** | Walter Argoud | `conciergerieansalou@gmail.com` | 🟢 haute | +33 6 09 34 78 17 / +33 6 10 44 43 77 | [lien](aucun) |
+| 7 | **Conciergerie BnB Relax** | Mathilde Verdalle | `mathfraysse@gmail.com` | 🟢 haute | +33 7 62 53 68 94 | [lien](aucun) |
+| 8 | **Conciergerie de Bourgogne** | Agnès Toth | `agnes.toth@conciergeriedebourgogne.com` | 🟢 haute | — | — |
+| 9 | **Conciergerie de Bourgogne (Solutre)** | Agnes Toth | `agnes.toth@conciergeriedebourgogne.com` | 🟢 haute | — | — |
+| 10 | **Guestadom** | Theo Deniau | `theo.deniau@guest-adom.com` | 🟢 haute | +33 2 43 49 56 14 | [lien](https://www.linkedin.com/in/th%C3%A9o-deniau-144531136/) |
+| 11 | **GuestReady** | Alexander Limpert | `alexander.limpert@guestready.com` | 🟢 haute | +33 1 76 44 04 31 | [lien](https://www.linkedin.com/in/alexanderlimpert/) |
+| 12 | **Guesty Home** | Sophie Degeorge | `degeorge.sophie@gmail.com` | 🟢 haute | 07 68 90 05 92 | — |
+| 13 | **HelloCosy** | Stéphanie Jason | `stephanie@hellocosy.fr` | 🟢 haute | aucun | [lien](https://fr.linkedin.com/in/st%C3%A9phanie-jason-3a1a13b0) |
+| 14 | **Immoloc** | Thomas Legars | `thomaslegars@immoloc-gestion.com` | 🟢 haute | +33 4 23 20 79 59 / +33 6 15 95 48 73 | [lien](aucun) |
+| 15 | **Keyhouse** | François Cornuey | `fcornuey@bskimmobilier.com` | 🟢 haute | 07 49 49 17 17 | [lien](https://www.linkedin.com/in/fran%C3%A7ois-cornuey-%F0%9F%87%AB%F0%9F%87%B7-a2b518121/) |
+| 16 | **KosyLodge** | Elodie David | `kosylodge@gmail.com` | 🟢 haute | 06 52 89 05 79 | [lien](aucun) |
+| 17 | **La Familia BnB** | Aurore Pageard | `aurore.pageard@hotmail.fr` | 🟢 haute | 06 51 09 49 66 | [lien](aucun) |
+| 18 | **Le Trousseau Conciergerie** | Alexandre Tavitian | `letrousseau.lyon@gmail.com` | 🟢 haute | +33 6 31 20 50 54 | [lien](aucun) |
+| 19 | **LMD Conciergerie** | Laurent Dreyer | `lmdimmo66@gmail.com` | 🟢 haute | 06 72 76 99 26 / 06 59 70 51 28 | [lien](aucun) |
+| 20 | **Maisonnette** | Antoine & Mireille (mère et fils) | `antoine@superhosts.io` | 🟢 haute | +33 6 75 27 23 70 | [lien](aucun) |
+| 21 | **Meet Home** | Emma Montchalin | `emma.meethome@gmail.com` | 🟢 haute | 07 52 08 26 27 | [lien](https://fr.linkedin.com/in/emma-montchalin) |
+| 22 | **My Room Conciergerie** | Urielle | `urielle@myroomconciergerie.nc` | 🟢 haute | +687 86 19 77 | — |
+| 23 | **Nevatony** | Anthony Ardisson (avec Anéva) | `heureux.proprietaires@gmail.com` | 🟢 haute | aucun | [lien](aucun) |
+| 24 | **Open Up Paris** | Juliette Laurens | `juliette@openup.paris` | 🟢 haute | +33 6 71 50 18 45 | [lien](https://fr.linkedin.com/in/juliettelaurens) |
+| 25 | **Perpiloc** | Arnaud Cuny | `perpiloc@outlook.com` | 🟢 haute | +33 6 41 66 59 99 | — |
+| 26 | **SweetInn** | Paul Besnainou | `paulb@sweetinn.com` | 🟢 haute | +33 1 86 47 76 82 | [lien](https://www.linkedin.com/in/paul-besnainou/) |
+| 27 | **Tranquille Emile** | Pierre Bresle | `hello@tranquilleemile.com` | 🟢 haute | — | [lien](https://www.linkedin.com/in/pierre-bresle-ba722558/) |
+| 28 | **Vesta Gestion** | Clément Gianferrari | `cg@in-vesta.fr` | 🟢 haute | +33 7 60 03 63 39 | — |
+| 29 | **West House Conciergerie** | Carole Thouzery | `carole@west-house.fr` | 🟢 haute | +33 6 16 11 14 11 | [lien](https://www.linkedin.com/in/carole-thouzery-860b21174/) |
+| 30 | **White House Concierge** | Audrey Tazi | `audrey.whconcierge@gmail.com` | 🟢 haute | +33 6 37 80 80 74 | — |
